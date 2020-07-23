@@ -15,10 +15,15 @@ using Pipliz;
 
 namespace NACH0.Alchemy
 {
-    public class AlchemistWorkTable : CSType
+    public class Alchemist
     {
-        public override string name => Nach0Config.TypePrefix + "AlchemistWorkTable";
-        public override string icon => Nach0Config.ModIconFolder + "AlchemistWorkTable.png";
+        public static Pandaros.Settlers.localization.LocalizationHelper LocalizationHelper { get; private set; } = new Pandaros.Settlers.localization.LocalizationHelper(Nach0Config.Name, "Alchemy");
+        public static bool experiment = false;
+    }
+    public class AlchemistTable : CSType
+    {
+        public override string name => Nach0Config.TypePrefix + "AlchemistTable";
+        public override string icon => Nach0Config.ModIconFolder + "AlchemistTable.png";
         public override string onPlaceAudio => "woodPlace";
         public override string onRemoveAudio => "woodDeleteLight";
         public override string sideall => "planks";
@@ -26,7 +31,7 @@ namespace NACH0.Alchemy
     }
     public class AlchemistWorkTableRecipe : ICSRecipe
     {
-        public string name => Nach0Config.CrafterRecipePrefix + "AlchemistWorkTable";
+        public string name => Nach0Config.CrafterRecipePrefix + "AlchemistTable";
 
         public List<RecipeItem> requires => new List<RecipeItem>()
         {
@@ -36,7 +41,7 @@ namespace NACH0.Alchemy
 
         public List<RecipeResult> results => new List<RecipeResult>()
         {
-            { new RecipeResult(Nach0Config.TypePrefix + "AlchemistWorkTable", 1) }
+            { new RecipeResult(Nach0Config.TypePrefix + "AlchemistTable", 1) }
         };
 
         public CraftPriority defaultPriority => CraftPriority.Low;
@@ -67,7 +72,7 @@ namespace NACH0.Alchemy
 
         public virtual ItemTypes.ItemType[] BlockTypes => new[]
         {
-            ItemTypes.GetType(Nach0Config.TypePrefix + "AlchemistWorkTable")
+            ItemTypes.GetType(Nach0Config.TypePrefix + "AlchemistTable")
         };
 
         public NPCType NPCType => _Settings;
@@ -99,18 +104,18 @@ namespace NACH0.Alchemy
 
         }
     }
-    public class Alchemist : RoamingJob
+    public class AlchemistRoaming : RoamingJob
     {
         public static string JOB_NAME = Nach0Config.JobPrefix + "Alchemist";
-        public static string JOB_ITEM_KEY = Nach0Config.TypePrefix + "AlchemistWorkTable";
-        public static string JOB_RECIPE = Nach0Config.CrafterRecipePrefix + "AlchemistWorkTable";
+        public static string JOB_ITEM_KEY = Nach0Config.TypePrefix + "AlchemistTable";
+        public static string JOB_RECIPE = Nach0Config.CrafterRecipePrefix + "AlchemistTable";
 
-        public Alchemist(IBlockJobSettings settings, Pipliz.Vector3Int position, ItemTypes.ItemType type, ByteReader reader) :
+        public AlchemistRoaming(IBlockJobSettings settings, Pipliz.Vector3Int position, ItemTypes.ItemType type, ByteReader reader) :
             base(settings, position, type, reader)
         {
         }
 
-        public Alchemist(IBlockJobSettings settings, Pipliz.Vector3Int position, ItemTypes.ItemType type, Colony colony) :
+        public AlchemistRoaming(IBlockJobSettings settings, Pipliz.Vector3Int position, ItemTypes.ItemType type, Colony colony) :
             base(settings, position, type, colony)
         {
         }
@@ -139,10 +144,10 @@ namespace NACH0.Alchemy
         public static void AfterDefiningNPCTypes()
         {
             ServerManager.BlockEntityCallbacks.RegisterEntityManager(
-                new BlockJobManager<Alchemist>(
+                new BlockJobManager<AlchemistRoaming>(
                     new AlchemistSettings(),
-                    (setting, pos, type, bytedata) => new Alchemist(setting, pos, type, bytedata),
-                    (setting, pos, type, colony) => new Alchemist(setting, pos, type, colony)
+                    (setting, pos, type, bytedata) => new AlchemistRoaming(setting, pos, type, bytedata),
+                    (setting, pos, type, colony) => new AlchemistRoaming(setting, pos, type, colony)
                 )
             );
         }

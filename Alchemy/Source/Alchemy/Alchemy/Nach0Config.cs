@@ -27,4 +27,8 @@ namespace NACH0
         public const string ModIconFolder = ModGamedataFolder + "/textures/icons/";
         public const string ModTextureFolder = ModGamedataFolder + "/textures/materials/";
     }
+    class AlchemySavedata
+    {
+
+    }
 }
