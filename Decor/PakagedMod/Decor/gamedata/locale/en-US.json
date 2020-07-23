@@ -1,0 +1,19 @@
+{
+	"sentences" : {
+		"popup" : {
+			"limits" : {
+				"NACH0" : {
+					"Jobs" : {
+						"DecorMaker" : "Decor Maker limits"
+					}
+				}
+			}
+		}
+	},
+	"types" : {
+		"NACH0.Types.DecorMaker" : "Decor Maker"
+	},
+	"typeuses" : {
+		"NACH0.Types.DecorMaker" : "Makes decorative blocks"
+	}
+}

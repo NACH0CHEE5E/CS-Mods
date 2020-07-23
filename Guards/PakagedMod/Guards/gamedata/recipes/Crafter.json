@@ -1,0 +1,19 @@
+[
+	{
+		"defaultLimit": 5,
+		"defaultPriority": 100,
+		"name": "NACH0.crafter.Slingshot",
+		"requires": [{
+				"amount": 1,
+				"type": "sling"
+			},
+			{
+				"amount": 3,
+				"type": "planks"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.Slingshot"
+		}]
+	}
+]

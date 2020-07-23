@@ -1,0 +1,18 @@
+{
+	
+	"_settings": {
+		"defaultAlbedo": "./../../../../../../textures/materials/blocks/albedo/default.png",
+		"defaultEmissive": "./../../../../../../textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight": "./../../../../../../textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal": "./../../../../../../textures/materials/blocks/normal/default.png",
+		"fileExtension": ".png",
+		"folderAlbedo": "./albedo/",
+		"folderEmissive": "./emissiveMaskAlpha/",
+		"folderHeight": "./heightSmoothnessSpecularity/",
+		"folderNormal": "./normal/"
+	},
+	"NACH0.Textures.DecorMaker": {
+		"albedo": "DecorMaker",
+		"normal": "DecorMaker"
+	}
+}

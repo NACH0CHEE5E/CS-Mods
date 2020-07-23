@@ -1,0 +1,11 @@
+{
+	"NACH0.Types.BallistaBolt": {
+		"categories": [
+			"essential",
+			"ammo",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/BallistaBolt.png",
+		"isPlaceable" : false
+	}
+}

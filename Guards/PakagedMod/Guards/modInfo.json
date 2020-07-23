@@ -1,0 +1,135 @@
+[
+  {
+    "name": "NACH0.Guards",
+	"enableddefault" : false,
+    "version": "1.0.2",
+    "namepretty": "NACH0's Guards",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+	"dependencies": [
+      {
+        "name": "NACH0.Jobs",
+        "minversion": "1.0.4"
+      },
+	  {
+		"name": "NACH0.Tool",
+		"minversion": "1.0.1"
+		}
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Ammo.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Weapons.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": 10001,
+        "relativePath": "gamedata/types/DayGuards.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": 10001,
+        "relativePath": "gamedata/types/NightGuards.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10001,
+        "relativePath": "gamedata/NPCTypes/DayGuards.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10001,
+        "relativePath": "gamedata/JobBlocks/DayGuards.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10001,
+        "relativePath": "gamedata/NPCTypes/NightGuards.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10001,
+        "relativePath": "gamedata/JobBlocks/NightGuards.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10001,
+        "relativePath": "gamedata/research/General.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10001,
+        "relativePath": "gamedata/research/Hidden.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "NACH0.Jobs.ToolCrafter",
+        "relativePath": "gamedata/recipes/ToolCrafter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.gunsmithjob",
+        "relativePath": "gamedata/recipes/GunSmith.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.tailor",
+        "relativePath": "gamedata/recipes/Tailor.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.metalsmithjob",
+        "relativePath": "gamedata/recipes/MetalSmith.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "NACH0.Jobs.Fletcher",
+        "relativePath": "gamedata/recipes/Fletcher.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 15000,
+        "relativePath": "gamedata/locale/en-US/en-US.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.1",
+        "notes": [
+          "NPC Types now show up in the unlocks for research",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

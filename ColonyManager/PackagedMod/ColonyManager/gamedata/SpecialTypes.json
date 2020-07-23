@@ -1,0 +1,11 @@
+{
+	"NACH0.Types.ColonyManager": {
+		"categories": [
+			"essential",
+			"aaa"
+		],
+		"icon": "./textures/icons/ColonyManager.png",
+		"maxStackSize": 1,
+		"isPlaceable" : false
+	}
+}

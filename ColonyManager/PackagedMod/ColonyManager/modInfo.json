@@ -1,0 +1,60 @@
+[
+  {
+    "name": "NACH0.ColonyManager",
+	"enableddefault" : false,
+    "version": "1.0.4",
+    "namepretty": "NACH0's Colony Manager",
+    "dllpath": "ColonyManager.dll",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+    "jsonFiles": [
+      {
+        "relativePath": "gamedata/locale/en-US.json",
+        "fileType": "addOrOverrideLocalization",
+        "index": 15000
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 15000,
+        "relativePath": "gamedata/SpecialTypes.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 15000,
+        "relativePath": "gamedata/recipes/player.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.4",
+        "notes": [
+          "added a button to enable/disable auto recruitment"
+        ]
+      },
+      {
+        "version": "1.0.3",
+        "notes": [
+          "Reqruitment Cost added to the UI"
+        ]
+      },
+      {
+        "version": "1.0.2",
+        "notes": [
+          "Locale fix"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

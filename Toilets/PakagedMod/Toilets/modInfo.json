@@ -1,0 +1,60 @@
+[
+  {
+    "name": "NACH0.Toilets",
+	"enableddefault" : false,
+    "version": "1.0.3",
+    "namepretty": "NACH0's Toilets",
+    "dllpath": "Toilets.dll",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 15000,
+        "relativePath": "gamedata/locale/en-US/en-US.json"
+      },
+      {
+        "fileType": "addScienceUnlocks",
+        "index": 15000,
+        "relativePath": "gamedata/research/Unlocks.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.3",
+        "notes": [
+          "Updated to the new Pandaros.API Mod",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.2",
+        "notes": [
+          "Updated to the lastest version of settlers",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.1",
+        "notes": [
+          "Fixed the jobs actually being registered when placed",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

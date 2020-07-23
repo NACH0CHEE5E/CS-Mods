@@ -1,0 +1,56 @@
+{
+	"NACH0.Types.Slingshot": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Slingshot.png",
+		"isPlaceable" : false
+	},
+	"NACH0.Types.Ballista": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ballista.png",
+		"isPlaceable" : false
+	},
+	"NACH0.Types.CompoundBow": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CompoundBow.png",
+		"isPlaceable" : false
+	},
+	"NACH0.Types.Sniper": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Sniper.png",
+		"isPlaceable" : false
+	},
+	"NACH0.Types.IronArmour": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/IronArmour.png",
+		"isPlaceable" : false
+	},
+	"NACH0.Types.SwordSheath": {
+		"categories": [
+			"essential",
+			"weapon",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/SwordSheath.png",
+		"isPlaceable" : false
+	}
+}

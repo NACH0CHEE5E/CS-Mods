@@ -1,0 +1,42 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#282828"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Slingshot.Day",
+		"npcType" : "worker",
+		"printName" : "Day Slingshot Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#12a896"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Ballista.Day",
+		"npcType" : "worker",
+		"printName" : "Day Ballista Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#bf8d18"
+		},
+		"keyName" : "NACH0.Jobs.Guard.CompoundBow.Day",
+		"npcType" : "worker",
+		"printName" : "Day Compound Bow Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#e7ed1e"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Sniper.Day",
+		"npcType" : "worker",
+		"printName" : "Day Sniper Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#23a512"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Sword.Day",
+		"npcType" : "worker",
+		"printName" : "Day Sword Guard"
+	}
+]

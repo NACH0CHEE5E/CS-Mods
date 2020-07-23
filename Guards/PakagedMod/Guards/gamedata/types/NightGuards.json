@@ -1,0 +1,27 @@
+[
+	{
+		"generateType" : "jobOutline",
+		"outlineColor" : "#282828",
+		"typeName" : "NACH0.Types.Slingshot.Guard.Night"
+	},
+	{
+		"generateType" : "jobOutline",
+		"outlineColor" : "#12a896",
+		"typeName" : "NACH0.Types.Ballista.Guard.Night"
+	},
+	{
+		"generateType" : "jobOutline",
+		"outlineColor" : "#bf8d18",
+		"typeName" : "NACH0.Types.CompoundBow.Guard.Night"
+	},
+	{
+		"generateType" : "jobOutline",
+		"outlineColor" : "#e7ed1e",
+		"typeName" : "NACH0.Types.Sniper.Guard.Night"
+	},
+	{
+		"generateType" : "jobOutline",
+		"outlineColor" : "#23a512",
+		"typeName" : "NACH0.Types.Sword.Guard.Night"
+	}
+]

@@ -1,0 +1,95 @@
+[
+	{
+		"blockType" : "NACH0.Types.Slingshot.Guard.Day",
+		"cooldownShot" : 2.5,
+		"damage" : 50,
+		"jobType" : "guard",
+		"npcType" : "NACH0.Jobs.Guard.Slingshot.Day",
+		"onHitAudio" : "fleshHit",
+		"onShootAudio" : "sling",
+		"range" : 14,
+		"recruitmentItem" : {
+			"type" : "NACH0.Types.Slingshot"
+		},
+		"shootRequirements" : [
+			{"type":"slingbullet"}
+		],
+		"sleepType" : "Night"
+	},
+	{
+		"blockType" : "NACH0.Types.Ballista.Guard.Day",
+		"cooldownShot" : 20,
+		"damage" : 5000,
+		"jobType" : "guard",
+		"npcType" : "NACH0.Jobs.Guard.Ballista.Day",
+		"onHitAudio" : "fleshHit",
+		"onShootAudio" : "bowShoot",
+		"range" : 150,
+		"recruitmentItem" : {
+			"type" : "NACH0.Types.Ballista"
+		},
+		"shootRequirements" : [
+			{"type":"NACH0.Types.BallistaBolt"}
+		],
+		"sleepType" : "Night"
+	},
+	{
+		"blockType" : "NACH0.Types.CompoundBow.Guard.Day",
+		"cooldownShot" : 4,
+		"damage" : 100,
+		"jobType" : "guard",
+		"npcType" : "NACH0.Jobs.Guard.CompoundBow.Day",
+		"onHitAudio" : "fleshHit",
+		"onShootAudio" : "bowShoot",
+		"range" : 25,
+		"recruitmentItem" : {
+			"type" : "NACH0.Types.CompoundBow"
+		},
+		"shootRequirements" : [
+			{"type":"bronzearrow"}
+		],
+		"sleepType" : "Night"
+	},
+	{
+		"blockType" : "NACH0.Types.Sniper.Guard.Day",
+		"cooldownShot" : 12,
+		"damage" : 500,
+		"jobType" : "guard",
+		"npcType" : "NACH0.Jobs.Guard.Sniper.Day",
+		"onHitAudio" : "fleshHit",
+		"onShootAudio" : "matchlock",
+		"onShootResult" : {
+			"chance" : 0.9,
+			"type" : "linenpouch"
+		},
+		"range" : 45,
+		"recruitmentItem" : {
+			"type" : "NACH0.Types.Sniper"
+		},
+		"shootRequirements" : [
+			{"type":"leadbullet"},
+			{"type":"gunpowderpouch"}
+		],
+		"sleepType" : "Night"
+	},
+	{
+		"blockType" : "NACH0.Types.Sword.Guard.Day",
+		"cooldownShot" : 1.5,
+		"damage" : 1500,
+		"jobType" : "guard",
+		"npcType" : "NACH0.Jobs.Guard.Sword.Day",
+		"onHitAudio" : "fleshHit",
+		"range" : 1.1,
+		"recruitmentItem" : {
+			"type" : "NACH0.Types.SwordSheath"
+		},
+		"shootRequirements" : [
+			{"type":"ironsword"}
+		],
+		"onShootResult" : {
+			"chance" : 0.75,
+			"type" : "ironsword"
+		},
+		"sleepType" : "Night"
+	}
+]

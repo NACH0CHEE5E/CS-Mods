@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.gunsmith.Sniper",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"matchlockgun"
+			},
+			{
+				"amount": 5,
+				"type": "steelparts"
+			}
+		],
+		"results" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Sniper"
+			}
+		]
+	}
+]

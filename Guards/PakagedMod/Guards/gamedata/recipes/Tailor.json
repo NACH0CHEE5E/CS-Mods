@@ -1,0 +1,16 @@
+[
+	{
+		"defaultLimit": 15,
+		"defaultPriority": 100,
+		"name": "NACH0.tailor.SwordSheath",
+		"requires": [
+			{
+				"amount": 7,
+				"type": "linen"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.SwordSheath"
+		}]
+	}
+]

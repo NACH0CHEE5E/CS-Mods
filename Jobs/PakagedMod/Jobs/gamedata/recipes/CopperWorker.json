@@ -1,0 +1,37 @@
+[{
+		"defaultLimit": 15,
+		"name": "NACH0.CopperWorker.CopperNails",
+		"requires": [{
+			"type": "copper",
+			"amount": 3
+		}],
+		"results": [{
+			"amount": 9,
+			"type": "coppernails"
+		}]
+	},
+	{
+		"defaultLimit": 15,
+		"name": "NACH0.CopperWorker.CopperParts",
+		"requires": [{
+			"type": "copper",
+			"amount": 3
+		}],
+		"results": [{
+			"amount": 6,
+			"type": "copperparts"
+		}]
+	},
+	{
+		"defaultLimit": 5,
+		"name": "NACH0.CopperWorker.CopperTools",
+		"requires": [{
+			"type": "copper",
+			"amount": 3
+		}],
+		"results": [{
+			"type": "coppertools",
+			"amount": 3
+		}]
+	}
+]

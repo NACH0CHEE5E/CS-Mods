@@ -1,0 +1,25 @@
+[
+  {
+    "name": "NACH0.NoNight",
+	"enableddefault" : false,
+    "version": "0.1.0",
+    "namepretty": "NACH0's No Night",
+    "enabled": false,
+    "marksgamemodded": true,
+    "dllpath": "NoNight.dll",
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+    "patchnotes": [
+      {
+        "version": "0.1.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

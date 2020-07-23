@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 200,
+		"name" : "pipliz.stonemason.stoneblock",
+		"requires" : [
+			{"amount":5,"type":"stoneblock"}
+		],
+		"results" : [
+			{"amount":5,"type":"stonebricks"}
+		]
+	},
+	{
+		"defaultLimit" : 200,
+		"name" : "pipliz.stonemason.darkstone",
+		"requires" : [
+			{"amount":2,"type":"darkstone"}
+		],
+		"results" : [
+			{"amount":5,"type":"stonebricks"}
+		]
+	}
+]

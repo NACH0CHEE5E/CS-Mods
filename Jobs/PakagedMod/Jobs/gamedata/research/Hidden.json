@@ -1,0 +1,15 @@
+[
+	{
+		"key": "NACH0.Research.Hidden2",
+		"icon": "./../textures/icons/NoIcon.png",
+		"requiredScienceBiome" : "sciencebiome.Hidden",
+		"unlocksRecipes": [
+			"pipliz.stonemason.stoneblock",
+			"pipliz.stonemason.darkstone",
+			"NACH0.crafter.OrganicTrader",
+			"NACH0.Player.OrganicTrader",
+			"NACH0.stonemason.Brick1",
+			"NACH0.stonemason.Brick2"
+		]
+	}
+]

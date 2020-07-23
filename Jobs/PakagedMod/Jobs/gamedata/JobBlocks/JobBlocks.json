@@ -1,0 +1,44 @@
+[
+	{
+		"blockType" : "NACH0.Types.CopperWorker",
+		"cooldown" : 10,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "NACH0.Jobs.CopperWorker"
+	},
+	{
+		"blockType" : "NACH0.Types.BrickMaker",
+		"cooldown" : 9,
+		"jobType" : "craftingblockrotatedlit",
+		"maxCraftsPerHaul" : 3,
+		"npcType" : "NACH0.Jobs.BrickMaker"
+	},
+	{
+		"blockType" : "NACH0.Types.Fletcher",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 12,
+		"npcType" : "NACH0.Jobs.Fletcher"
+	},
+	{
+		"blockType" : "NACH0.Types.ToolCrafter",
+		"cooldown" : 10,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 9,
+		"npcType" : "NACH0.Jobs.ToolCrafter"
+	},
+	{
+		"blockType" : "NACH0.Types.OrganicTrader",
+		"cooldown" : 12,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "NACH0.Jobs.OrganicTrader"
+	},
+	{
+		"blockType" : "NACH0.Types.BasicStoneMason",
+		"cooldown" : 7,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 3,
+		"npcType" : "NACH0.Jobs.BasicStoneMason"
+	}
+]

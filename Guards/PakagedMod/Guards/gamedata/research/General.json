@@ -1,0 +1,152 @@
+[
+	{
+		"icon" : "./../textures/icons/Slingshot.png",
+		"iterationCount" : 5,
+		"iterationRequirements" : [
+			{
+				"type":"sling",
+				"amount": 3
+			},
+			{
+				"type": "slingbullet",
+				"amount": 10,
+			}
+		],
+		"key" : "NACH0.Research.Slingshot",
+		"unlocksClientHints" : [
+			{"data":"NACH0.Jobs.Guard.Slingshot.Day","type":"NPCType"},
+			{"data":"NACH0.Jobs.Guard.Slingshot.Night","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"NACH0.crafter.Slingshot",
+			"NACH0.ToolCrafter.Slingshot"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.sciencebagadvanced",
+			"pipliz.baseresearch.crossbow",
+			"NACH0.Research.Fletcher"
+		],
+		"icon" : "./../textures/icons/Ballista.png",
+		"iterationCount" : 50,
+		"iterationRequirements" : [
+			{
+				"type":"sciencebagmilitary",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagadvanced",
+				"amount": 1
+			},
+			{
+				"type":"crossbowbolt",
+				"amount": 15
+			}
+		],
+		"key" : "NACH0.Research.Ballista",
+		"unlocksClientHints" : [
+			{"data":"NACH0.Jobs.Guard.Ballista.Day","type":"NPCType"},
+			{"data":"NACH0.Jobs.Guard.Ballista.Night","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"NACH0.Fletcher.BallistaBolt",
+			"NACH0.ToolCrafter.Ballista"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.ironsmelting",
+			"pipliz.baseresearch.archery"
+		],
+		"icon" : "./../textures/icons/CompoundBow.png",
+		"iterationCount" : 12,
+		"iterationRequirements" : [
+			{
+				"type":"bow",
+				"amount": 1
+			},
+			{
+				"type": "bronzearrow",
+				"amount": 3
+			},
+			{
+				"type":"sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key" : "NACH0.Research.CompoundBow",
+		"unlocksClientHints" : [
+			{"data":"NACH0.Jobs.Guard.CompoundBow.Day","type":"NPCType"},
+			{"data":"NACH0.Jobs.Guard.CompoundBow.Night","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"NACH0.metalsmith.CompoundBow",
+			"NACH0.ToolCrafter.CompoundBow"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.matchlockgun"
+		],
+		"icon" : "./../textures/icons/Sniper.png",
+		"iterationCount" : 40,
+		"iterationRequirements" : [
+			{
+				"type":"matchlockgun",
+				"amount": 1
+			},
+			{
+				"type": "leadbullet",
+				"amount": 5
+			},
+			{
+				"type":"sciencebagmilitary",
+				"amount": 1
+			}
+		],
+		"key" : "NACH0.Research.Sniper",
+		"unlocksClientHints" : [
+			{"data":"NACH0.Jobs.Guard.Sniper.Day","type":"NPCType"},
+			{"data":"NACH0.Jobs.Guard.Sniper.Night","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"NACH0.gunsmith.Sniper"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.ironsmelting",
+			"pipliz.baseresearch.sciencebagmilitary"
+		],
+		"icon" : "./../../../../../textures/icons/ironsword.png",
+		"iterationCount" : 15,
+		"iterationRequirements" : [
+			{
+				"type":"ironsword",
+				"amount": 3
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 2
+			},
+			{
+				"type":"sciencebagmilitary",
+				"amount": 1
+			},
+			{
+				"type": "undershirt",
+				"amount": 1
+			}
+		],
+		"key" : "NACH0.Research.SwordGuard",
+		"unlocksClientHints" : [
+			{"data":"NACH0.Jobs.Guard.Sword.Day","type":"NPCType"},
+			{"data":"NACH0.Jobs.Guard.Sword.Night","type":"NPCType"}
+		],
+		"unlocksRecipes" : [
+			"NACH0.metalsmith.IronArmour",
+			"NACH0.tailor.SwordSheath"
+		]
+	}
+]

@@ -1,0 +1,30 @@
+{
+	"_settings" : {
+		"defaultAlbedo" : "./albedo/default.png",
+		"defaultEmissive" : "./emissiveMaskAlpha/default.png",
+		"defaultHeight" : "./heightSmoothnessSpecularity/default.png",
+		"defaultNormal" : "./normal/default.png",
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./albedo/",
+		"folderEmissive" : "./emissiveMaskAlpha/",
+		"folderHeight" : "./heightSmoothnessSpecularity/",
+		"folderNormal" : "./normal/"
+	},
+	"NACH0.Textures.CopperWorker": {
+		"albedo": "CopperWorker",
+		"normal": "CopperWorker"
+	},
+	"NACH0.Textures.Fletcher": {
+		"albedo": "Fletcher"
+	},
+	"NACH0.Textures.OrganicTrader": {
+		"albedo": "OrganicTrader"
+	},
+	"NACH0.Textures.ToolCrafter": {
+		"albedo": "ToolCrafter",
+		"normal": "ToolCrafter"
+	},
+	"NACH0.Textures.StoneMason": {
+		"albedo": "StoneMason"
+	}
+}

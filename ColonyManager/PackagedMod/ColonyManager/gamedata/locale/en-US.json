@@ -1,0 +1,31 @@
+{
+	"sentences": {
+		"NACH0":  {
+			"ColonyManagement": {
+				"ColonyManagementUI": {
+					"ColonyManagement": "Colony Manager",
+					"KillColonist": "Kill Colonist",
+					"Job": "Job:",
+					"Working": "Working:",
+					"NotWorking": "Not Working:",
+					"SwapJob": "Swap Job",
+					"LblRecruit": "Recruit:",
+					"Recruit": "Recruit",
+					"Fire": "Fire",
+					"NoJobs": "No Jobs",
+					"RecruitmentCost": "Recruitment Cost:",
+					"AutoRecruitment": {
+						"on": "Auto Recruitment: ON",
+						"off": "Auto Recruitment: OFF"
+					}
+				}
+			}
+		}
+	},
+	"types": {
+		"NACH0.Types.ColonyManager": "Colony Manager"
+	},
+	"typeuses": {
+		"NACH0.Types.ColonyManager": "Left click to upen ui to manage colony"
+	}
+}

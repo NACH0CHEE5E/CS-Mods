@@ -1,0 +1,183 @@
+[
+  {
+    "name": "NACH0.Jobs",
+	"enableddefault" : false,
+    "version": "1.0.4",
+    "namepretty": "NACH0's Jobs",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+	"dependencies": [
+      {
+        "name": "NACH0.Blocks",
+        "minversion": "1.0.6"
+      }
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/JobBlocks.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": 10000,
+        "relativePath": "gamedata/types/RotatableJobBlocks.json"
+      },
+      {
+        "relativePath": "gamedata/Locale/en-US/en-US.json",
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000
+      },
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": 10000,
+        "relativePath": "gamedata/Textures/materials/texturemapping.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.BasicStoneMason"
+        ],
+        "npcType": "NACH0.Jobs.BasicStoneMason",
+        "relativePath": "gamedata/recipes/StoneMason.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.stonemason",
+        "relativePath": "gamedata/recipes/AdvancedStoneMason.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 15000,
+        "relativePath": "gamedata/research/Hidden.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10000,
+        "relativePath": "gamedata/NPCTypes/NPCTypes.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10000,
+        "relativePath": "gamedata/JobBlocks/JobBlocks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.BrickMakerx+",
+          "NACH0.Types.BrickMakerx-",
+          "NACH0.Types.BrickMakerz+",
+          "NACH0.Types.BrickMakerz-",
+          "NACH0.Types.BrickMakerlitx+",
+          "NACH0.Types.BrickMakerlitx-",
+          "NACH0.Types.BrickMakerlitz+",
+          "NACH0.Types.BrickMakerlitz-"
+        ],
+        "npcType": "NACH0.Jobs.BrickMaker",
+        "relativePath": "gamedata/recipes/BrickMaker.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.CopperWorker"
+        ],
+        "npcType": "NACH0.Jobs.CopperWorker",
+        "relativePath": "gamedata/recipes/CopperWorker.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.Fletcher"
+        ],
+        "npcType": "NACH0.Jobs.Fletcher",
+        "relativePath": "gamedata/recipes/Fletcher.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.ToolCrafter"
+        ],
+        "npcType": "NACH0.Jobs.ToolCrafter",
+        "relativePath": "gamedata/recipes/ToolCrafter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter/Override.json"
+      },
+      {
+        "fileType": "overrideTypeProperties",
+        "index": 15000,
+        "relativePath": "gamedata/Types/Override.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter/General.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/General.json"
+      },
+      {
+        "fileType": "addOrOverrideScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/Override.json"
+      },
+      {
+        "fileType": "addScienceUnlocks",
+        "index": 15000,
+        "relativePath": "gamedata/research/Unlocks.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 15000,
+        "relativePath": "gamedata/recipes/Player/General.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 15000,
+        "relativePath": "gamedata/recipes/Player/Override.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.4",
+        "notes": [
+          "Fixes for the reworked base game tech tree",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.3",
+        "notes": [
+          "Made the brick 1 and brick 2 recipes that were in the now advanced stone mason hidden so that the brick maker is the only place to make them",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

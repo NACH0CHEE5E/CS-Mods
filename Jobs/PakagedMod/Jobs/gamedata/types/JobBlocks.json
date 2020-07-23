@@ -1,0 +1,57 @@
+{
+	"NACH0.Types.CopperWorker": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CopperWorker.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricks",
+		"sidey+": "NACH0.Textures.CopperWorker"
+	},
+	"NACH0.Types.Fletcher": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Fletcher.png",
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planks",
+		"sidey+": "NACH0.Textures.Fletcher"
+	},
+	"NACH0.Types.OrganicTrader": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/OrganicTrader.png",
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planks",
+		"sidey+": "NACH0.Textures.OrganicTrader"
+	},
+	"NACH0.Types.ToolCrafter": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/ToolCrafter.png",
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planks",
+		"sidey+": "NACH0.Textures.ToolCrafter"
+	},
+	"NACH0.Types.BasicStoneMason": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../../../../../textures/icons/stonemasonworkbench.png",
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "stoneblock",
+		"sidey+": "stonemasonworkbench"
+	}
+}

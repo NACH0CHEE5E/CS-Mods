@@ -1,0 +1,10 @@
+[
+	{
+		"name": "NACH0.Player.CommandTool",
+		"requires": [
+		],
+		"results": [{
+			"type": "NACH0.Types.CommandTool"
+		}]
+	}
+]

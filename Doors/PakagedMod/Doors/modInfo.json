@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NACH0.Doors",
+	"enableddefault" : false,
+    "version": "0.0.2",
+    "namepretty": "NACH0's Doors",
+    "dllpath": "Doors.dll",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "generateBlocks",
+        "index": 15000,
+        "relativePath": "gamedata/generatetypes/Door.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "0.0.1",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

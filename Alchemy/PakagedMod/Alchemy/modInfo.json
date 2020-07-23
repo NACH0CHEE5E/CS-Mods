@@ -1,0 +1,22 @@
+[{
+	"name": "NACH0.Alchemy",
+	"enableddefault" : false,
+	"version": "1.0.0",
+	"namepretty": "NACH0's Alchemy",
+	"dllpath": "Alchemy.dll",
+	"enabled": false,
+	"marksgamemodded": true,
+	"compatibleversions": [
+		"0.7.0"
+	],
+	"patchnotes": [
+		{
+			"version": "1.0.0",
+			"notes": [
+				"Initial Release",
+				"*If you find any issues or have suggestions join the discord",
+				"*discord.gg/tqFhxhm"
+			]
+		}
+	]
+}]

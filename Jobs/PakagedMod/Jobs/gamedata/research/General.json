@@ -1,0 +1,121 @@
+[
+	{
+		"dependencies": [
+			"pipliz.baseresearch.sciencebagmilitary",
+			"NACH0.Research.ToolCrafter"
+		],
+		"icon": "./../textures/icons/Fletcher.png",
+		"iterationCount": 25,
+		"iterationRequirements": [{
+				"type": "sciencebagmilitary"
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 2
+			},
+			{
+				"type": "bronzearrow",
+				"amount": 10
+			}
+		],
+		"key": "NACH0.Research.Fletcher",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.Fletcher"
+		],
+		"unlocksRecipes": [
+			"NACH0.Player.Fletcher",
+			"NACH0.crafter.Fletcher"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.sciencebagbasic",
+			"pipliz.baseresearch.ironsmelting"
+		],
+		"icon": "./../textures/icons/CopperWorker.png",
+		"iterationCount": 10,
+		"iterationRequirements": [{
+				"type": "sciencebagbasic",
+				"amount": 1
+			},
+			{
+				"type": "copperparts",
+				"amount": 10
+			}
+		],
+		"key": "NACH0.Research.CopperWorker",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.CopperWorker"
+		],
+		"unlocksRecipes": [
+			"NACH0.Player.CopperWorker",
+			"NACH0.crafter.CopperWorker"
+		]
+	},
+	{
+		"dependencies": [
+			"NACH0.Research.CopperWorker"
+		],
+		"icon": "./../textures/icons/ToolCrafter.png",
+		"iterationCount": 15,
+		"iterationRequirements": [{
+				"type": "sciencebagbasic",
+				"amount": 2
+			},
+			{
+				"type": "coppertools",
+				"amount": 5
+			}
+		],
+		"key": "NACH0.Research.ToolCrafter",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.ToolCrafter"
+		],
+		"unlocksRecipes": [
+			"NACH0.Player.ToolCrafter",
+			"NACH0.crafter.ToolCrafter"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.sciencebagbasic"
+		],
+		"icon": "./../textures/icons/BrickMaker.png",
+		"iterationCount": 10,
+		"iterationRequirements": [{
+				"type": "sciencebagbasic",
+				"amount": 1
+			},
+			{
+				"type": "bricks",
+				"amount": 10
+			}
+		],
+		"key": "NACH0.Research.BrickMaker",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.BrickMaker"
+		],
+		"unlocksRecipes": [
+			"NACH0.Player.BrickMaker",
+			"NACH0.crafter.BrickMaker"
+		]
+	},
+	{
+		"icon": "./../../../../../textures/icons/stonemasonworkbench.png",
+		"iterationCount": 3,
+		"iterationRequirements": [{
+				"type": "stoneblock",
+				"amount": 5
+			},
+			{
+				"type": "darkstone",
+				"amount": 2
+			}
+		],
+		"key": "NACH0.Research.BasicStoneMason",
+		"unlocksRecipes": [
+			"NACH0.crafter.BasicStoneMason",
+			"NACH0.player.BasicStoneMason"
+		]
+	}
+]

@@ -1,0 +1,61 @@
+[
+	{
+		"dependencies" : [
+			"pipliz.merchant5",
+			"pipliz.tailor5",
+			"pipliz.bloomeryjob5",
+			"pipliz.fineryforgejob5",
+			"pipliz.smelter5",
+			"pipliz.grinder5",
+			"pipliz.gunsmithjob5",
+			"pipliz.kilnjob5",
+			"pipliz.metalsmithjob5",
+			"pipliz.minter5",
+			"pipliz.baker5",
+			"pipliz.woodcutter5",
+			"pipliz.crafter5",
+			"NACH0.Jobs.CopperWorker5",
+			"NACH0.Jobs.BrickMaker5",
+			"NACH0.Jobs.Fletcher5",
+			"NACH0.Jobs.ToolCrafter5",
+			"NACH0.Jobs.Freezer2",
+			"NACH0.Jobs.PaintMixer3",
+			"NACH0.Jobs.Painter2",
+			"pipliz.stonemason2",
+			"pipliz.dyer2"
+		],
+		"icon" : "./../../../../Pandaros/Settlers/icons/Pandaros.Settlers.MasterOfAll1.png",
+		"iterationCount" : 30,
+		"iterationRequirements" : [
+			{
+				"type":"sciencebagbasic",
+				"amount": 16
+			},
+			{
+				"type":"sciencebaglife",
+				"amount": 16
+			},
+			{
+				"type":"sciencebagcolony",
+				"amount": 16
+			},
+			{
+				"type":"sciencebagmilitary",
+				"amount": 16
+			},
+			{
+				"type":"sciencebagadvanced",
+				"amount": 16
+			},
+			{
+				"type":"goldcoin",
+				"amount": 160
+			},
+			{
+				"type":"bronzecoin",
+				"amount": 160
+			}
+		],
+		"key" : "Pandaros.Settlers.MasterOfAll1"
+	}
+]

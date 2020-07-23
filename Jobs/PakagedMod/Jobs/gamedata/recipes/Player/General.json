@@ -1,0 +1,106 @@
+[{
+		"name": "NACH0.Player.CopperWorker",
+		"requires": [{
+				"type": "bronzeanvil",
+				"amount": 2
+			},
+			{
+				"type": "copperparts",
+				"amount": 12
+			},
+			{
+				"type": "ironwrought",
+				"amount": 3
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.CopperWorker"
+		}]
+	},
+	{
+		"name": "NACH0.Player.BrickMaker",
+		"requires": [{
+				"type": "clay",
+				"amount": 15
+			},
+			{
+				"type": "ironingot",
+				"amount": 9
+			},
+			{
+				"type": "furnace",
+				"amount": 1
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.BrickMaker"
+		}]
+	},
+	{
+		"name": "NACH0.Player.Fletcher",
+		"requires": [{
+				"type": "workbench",
+				"amount": 5
+			},
+			{
+				"type": "bronzeaxe",
+				"amount": 3
+			},
+			{
+				"type": "bronzeplate",
+				"amount": 23
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.Fletcher"
+		}]
+	},
+	{
+		"name": "NACH0.Player.ToolCrafter",
+		"requires": [{
+				"type": "workbench",
+				"amount": 3
+			},
+			{
+				"type": "bronzeaxe",
+				"amount": 5
+			},
+			{
+				"type": "bronzeanvil",
+				"amount": 1
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.ToolCrafter"
+		}]
+	},
+	{
+		"name": "NACH0.Player.OrganicTrader",
+		"requires": [{
+				"type": "shop",
+				"amount": 2
+			},
+			{
+				"type": "goldcoin",
+				"amount": 85
+			},
+			{
+				"type": "hollyhockstage1",
+				"amount": 90
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.OrganicTrader"
+		}]
+	},
+	{
+		"name" : "NACH0.player.BasicStoneMason",
+		"requires" : [
+			{"type":"stoneblock"},
+			{"type":"coppertools"}
+		],
+		"results" : [
+			{"type":"NACH0.Types.BasicStoneMason"}
+		]
+	}
+]

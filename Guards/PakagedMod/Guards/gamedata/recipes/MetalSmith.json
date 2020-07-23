@@ -1,0 +1,35 @@
+[
+	{
+		"defaultLimit": 25,
+		"defaultPriority": 100,
+		"name": "NACH0.metalsmith.CompoundBow",
+		"requires": [{
+				"amount": 2,
+				"type": "ironingot"
+			},
+			{
+				"type": "bowstring"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.CompoundBow"
+		}]
+	},
+	{
+		"defaultLimit": 15,
+		"defaultPriority": 100,
+		"name": "NACH0.metalsmith.IronArmour",
+		"requires": [{
+				"amount": 7,
+				"type": "ironingot"
+			},
+			{
+				"type": "undershirt"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.IronArmour"
+		}],
+		"requiredResearchCount": 200
+	}
+]

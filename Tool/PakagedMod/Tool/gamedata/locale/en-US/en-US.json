@@ -1,0 +1,29 @@
+{
+	"sentences": {
+		"NACH0": {
+			"CommandTool": {
+				"CommandTool": "NACH0 Command Tool",
+				"Button": {
+					"Guards": "Guards",
+					"Back": "BACK",
+					"Night": "Night",
+					"Day": "Day"
+				},
+				"Label": {
+					"Guards": "Guards:",
+					"Slingshot": "Slingshot:",
+					"CompoundBow": "Compound Bow:",
+					"ShortSword": "Short Sword",
+					"Sniper": "Matchlock Sniper",
+					"Ballista": "Ballista"
+				}
+			}
+		}
+	},
+	"types": {
+		"NACH0.Types.CommandTool": "NACH0 Command Tool"
+	},
+	"typeuses": {
+		"NACH0.Types.CommandTool": "left click to open UI, right click to place slected job"
+	}
+}

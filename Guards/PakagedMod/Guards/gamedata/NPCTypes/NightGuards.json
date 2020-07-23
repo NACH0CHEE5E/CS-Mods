@@ -1,0 +1,42 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#282828"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Slingshot.Night",
+		"npcType" : "worker",
+		"printName" : "Night Slingshot Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#12a896"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Ballista.Night",
+		"npcType" : "worker",
+		"printName" : "Night Ballista Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#bf8d18"
+		},
+		"keyName" : "NACH0.Jobs.Guard.CompoundBow.Night",
+		"npcType" : "worker",
+		"printName" : "Night Compound Bow Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#e7ed1e"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Sniper.Night",
+		"npcType" : "worker",
+		"printName" : "Night Sniper Guard"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#23a512"
+		},
+		"keyName" : "NACH0.Jobs.Guard.Sword.Night",
+		"npcType" : "worker",
+		"printName" : "Night Sword Guard"
+	}
+]

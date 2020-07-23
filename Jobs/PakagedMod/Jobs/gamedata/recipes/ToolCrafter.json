@@ -1,0 +1,89 @@
+[
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : 0,
+		"name" : "NACH0.ToolCrafter.bronzepickaxe",
+		"requires" : [
+			{"type":"bronzeingot"},
+			{"type":"planks"}
+		],
+		"results" : [
+			{
+				"type":"bronzepickaxe"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : 0,
+		"name" : "NACH0.ToolCrafter.bronzeaxe",
+		"requires" : [
+			{"type":"bronzeingot"},
+			{"type":"planks"}
+		],
+		"results" : [
+			{"type":"bronzeaxe"}
+		]
+	},
+	{
+		"defaultLimit" : 10,
+		"defaultPriority" : -100,
+		"name" : "NACH0.ToolCrafter.ironsword",
+		"requires" : [
+			{"amount":2,"type":"ironwrought"},
+			{"type":"ironrivet"},
+			{"type":"copperparts"}
+		],
+		"results" : [
+			{"type":"ironsword"}
+		]
+	},
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : 100,
+		"name" : "NACH0.ToolCrafter.slingtemperate",
+		"requires" : [
+			{"type":"leavestemperate"}
+		],
+		"results" : [
+			{"type":"sling"}
+		]
+	},
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : 100,
+		"name" : "NACH0.ToolCrafter.slingtaiga",
+		"requires" : [
+			{"type":"leavestaiga"}
+		],
+		"results" : [
+			{"type":"sling"}
+		]
+	},
+	{
+		"defaultLimit" : 3,
+		"defaultPriority" : 100,
+		"name" : "NACH0.ToolCrafter.bow",
+		"requires" : [
+			{"amount":2,"type":"planks"},
+			{"type":"bowstring"}
+		],
+		"results" : [
+			{"type":"bow"}
+		]
+	},
+	{
+		"defaultLimit" : 2,
+		"defaultPriority" : 100,
+		"name" : "NACH0.ToolCrafter.crossbow",
+		"requires" : [
+			{"amount":3,"type":"ironwrought"},
+			{"amount":2,"type":"ironrivet"},
+			{"type":"bowstring"},
+			{"type":"coatedplanks"}
+		],
+		"results" : [
+			{"type":"crossbow"}
+		]
+	}
+]

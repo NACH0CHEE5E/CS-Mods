@@ -1,0 +1,14 @@
+[
+	{
+		"defaultLimit" : 1,
+		"defaultPriority" : -100,
+		"name" : "pipliz.crafter.stonemasonworkbench",
+		"requires" : [
+			{"type":"darkstone"},
+			{"type":"coppertools"}
+		],
+		"results" : [
+			{"type":"stonemasonworkbench"}
+		]
+	}
+]

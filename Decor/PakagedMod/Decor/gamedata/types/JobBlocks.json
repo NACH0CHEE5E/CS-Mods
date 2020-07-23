@@ -1,0 +1,13 @@
+{
+	"NACH0.Types.DecorMaker": {
+		"categories": [
+			"jobs",
+			"NACH0"
+		],
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"icon": "./../textures/icons/DecorMaker.png",
+		"sideall": "planks",
+		"sidey+": "NACH0.Textures.DecorMaker"
+	}
+}

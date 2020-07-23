@@ -1,0 +1,42 @@
+{
+	"darkstone": {
+		"categories": [
+			"decorative",
+			"stone"
+		],
+		"maxStackSize": 200,
+		"destructionTime": 350,
+		"onRemove": [
+			{
+				"amount": 2,
+				"chance": 0.9,
+				"type": "stoneblock"
+			},
+			{
+				"amount": 1,
+				"chance": 0.3,
+				"type": "sand"
+			},
+			{
+				"amount": 1,
+				"chance": 0.4,
+				"type": "dirt"
+			},
+			{
+				"amount": 1,
+				"chance": 0.3,
+				"type": "darkstone"
+			}
+		]
+	},
+	"stonemasonworkbench": {
+		"categories": [
+			"job"
+		],
+		"icon": "./../textures/icons/StoneMason.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "infinitestone",
+		"sidey+": "NACH0.Textures.StoneMason"
+	}
+}

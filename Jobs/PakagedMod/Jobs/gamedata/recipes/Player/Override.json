@@ -1,0 +1,12 @@
+[
+	{
+		"name" : "pipliz.player.stonemasonworkbench",
+		"requires" : [
+			{"type":"darkstone"},
+			{"type":"coppertools"}
+		],
+		"results" : [
+			{"type":"stonemasonworkbench"}
+		]
+	}
+]

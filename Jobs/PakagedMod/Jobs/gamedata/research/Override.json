@@ -1,0 +1,40 @@
+[
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.sciencebagbasic"
+		],
+		"icon" : "./../textures/icons/StoneMason.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"sciencebagbasic"}
+		],
+		"key" : "pipliz.baseresearch.stonemasonworkbench",
+		"unlocksRecipeGroups" : [
+			"pipliz.stonemason"
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.stonemasonworkbench",
+			"pipliz.player.stonemasonworkbench"
+		]
+	},
+	{
+		"dependencies" : [
+			"NACH0.Research.BasicStoneMason"
+		],
+		"icon" : "./../../../../../textures/icons/bronzeanvil.png",
+		"iterationCount" : 3,
+		"iterationRequirements" : [
+			{"type":"bronzeingot"},
+			{"type":"coppertools"},
+			{"type":"coppernails"}
+		],
+		"key" : "pipliz.baseresearch.bronzeanvil",
+		"unlocksRecipeGroups" : [
+			"pipliz.metalsmithjob"
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.bronzeanvil",
+			"pipliz.player.bronzeanvil"
+		]
+	}
+]

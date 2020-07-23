@@ -1,0 +1,56 @@
+[
+	{
+		"defaultLimit": 5,
+		"defaultPriority": 100,
+		"name": "NACH0.ToolCrafter.Slingshot",
+		"requires": [{
+				"amount": 1,
+				"type": "sling"
+			},
+			{
+				"amount": 3,
+				"type": "planks"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.Slingshot"
+		}]
+	},
+	{
+		"defaultLimit": 3,
+		"defaultPriority": 100,
+		"name": "NACH0.ToolCrafter.CompoundBow",
+		"requires": [{
+				"amount": 2,
+				"type": "ironingot"
+			},
+			{
+				"type": "bowstring"
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.CompoundBow"
+		}]
+	},
+	{
+		"defaultLimit": 10,
+		"defaultPriority": 100,
+		"name": "NACH0.ToolCrafter.Ballista",
+		"requires": [{
+				"amount": 1,
+				"type": "crossbow"
+			},
+			{
+				"amount": 2,
+				"type": "NACH0.Types.SteelBlock1"
+			},
+			{
+				"type": "coatedplanks",
+				"amount": 5
+			}
+		],
+		"results": [{
+			"type": "NACH0.Types.Ballista"
+		}]
+	}
+]

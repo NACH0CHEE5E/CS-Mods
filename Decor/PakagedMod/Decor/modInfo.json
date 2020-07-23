@@ -1,0 +1,167 @@
+[
+  {
+    "name": "NACH0.Decor",
+	"enableddefault" : false,
+    "version": "3.2.1",
+    "namepretty": "NACH0 Decor",
+    "enabled": false,
+    "marksgamemodded": true,
+    "dllpath": "Decor.dll",
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1",
+	  "0.7.2"
+    ],
+	"dependencies": [
+      {
+        "name": "Pandaros.API",
+        "minversion": "0.1.8.5"
+      }
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": 18000,
+        "relativePath": "gamedata/textures/materials/textures.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "relativePath": "gamedata/types/JobBlocks.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 18000,
+        "relativePath": "gamedata/jobs/JobDefining.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 18000,
+        "relativePath": "gamedata/jobs/JobInfo.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 18000,
+        "relativePath": "gamedata/recipes/player.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 18000,
+        "limitsUIMapping": [
+          "NACH0.Types.DecorMaker"
+        ],
+        "npcType": "NACH0.Jobs.DecorMaker",
+        "relativePath": "gamedata/recipes/Dummy.json"
+      },
+      {
+        "relativePath": "gamedata/locale/en-US.json",
+        "fileType": "addOrOverrideLocalization",
+        "index": 18000
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "3.2.0",
+        "notes": [
+          "cleaned stuff up to make it easier to add new decor types",
+          "added _all to the decor types file which will generate that type for all the decor types",
+          "added the ability to put your own meshes in the mesh folder and for them to be added into the game",
+          "reworked how types are generated making for much more easier to naviagate code (will make updates and fixes much easier)",
+          "Added a command to allow you to add types to the DecorTypes.json",
+          "Added a command to list all the available decor types",
+          "slight category changes resulting in types not having a parent type that they are ordered with anymore",
+          "changes to the log to allow me to debug slightly easier (added the contents of the decortypes.json and typelist.txt to the file"
+        ]
+      },
+      {
+        "version": "3.1.0",
+        "notes": [
+          "*This is a testing release, it may not be that viable with saves that have a large amount of decor types",
+          "Recipes are now in one job",
+          "MakerMaker and other decor maker blocks made into a single DecorMaker job where all the decor blocks are crafted",
+          "category Changes",
+          "Texture added for the decor maker",
+          "icon added for the decor maker",
+          "made failsafe better",
+          "fixed a issue where there would be alot of exceptions on a new world creation",
+          "file will now be copied over when a new world is created"
+        ]
+      },
+      {
+        "version": "3.0.2",
+        "notes": [
+          "the blocks that get generated now use height maps",
+          "maker maker no longer makes infinite makers",
+          "maker locale added",
+          "fixed Raised Quarter blocks making a typelist file in the mod directory"
+        ]
+      },
+      {
+        "version": "3.0.1",
+        "notes": [
+          "minor fix for modmanager"
+        ]
+      },
+      {
+        "version": "3.0.0",
+        "notes": [
+          "All meshes added",
+          "collisions fixed",
+          "basic icons added",
+          "config per save added",
+          "typelist showing what types have been generated added",
+          "failsafe for missing file added",
+          "editable example file (will get overwritten with updates)",
+          "Logger added for easy debuging",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "2.0.0",
+        "notes": [
+          "*To find out how to use the mod go to https://github.com/NACH0CHEE5E/NACH0Decor/wiki",
+          "Complete rewrite of the mod",
+          "More decor blocks will be added in the future join the discord to submit new ones",
+          "rename of mod to NACH0Decor",
+          "0.7.0 support",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.1.0",
+        "notes": [
+          "Added slabs, stairs, quarterblocks (in three varieties). For all block textures there is also a purchasable lumberarea block in the shop.",
+          "makers can be found in the workbench",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.1",
+        "notes": [
+          "Thanks to Lordis3D for help with the meshes making them look nicer",
+          "fixed an issue with using morenutrition and moredecorations",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "0.1.0",
+        "notes": [
+          "all slabs exept for the coloured blocks are done",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "0.0.1",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"blockType" : "NACH0.Types.DecorMaker",
+		"cooldown" : 1,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 15,
+		"npcType" : "NACH0.Jobs.DecorMaker"
+	}
+]

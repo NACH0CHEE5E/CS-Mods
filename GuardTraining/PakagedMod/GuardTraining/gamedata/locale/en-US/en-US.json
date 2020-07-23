@@ -1,0 +1,110 @@
+{
+	"sentences": {
+		"NACH0": {
+			"Jobs": {
+				"Guard": {
+					"Slingshot1": {
+						"name": "Slingshot Training I",
+						"description": "Increases reload speed of slingshots by 5%."
+					},
+					"Slingshot2": {
+						"name": "Slingshot Training II",
+						"description": "Increases reload speed of slingshots by 10%."
+					},
+					"Slingshot3": {
+						"name": "Slingshot Training III",
+						"description": "Increases reload speed of slingshots by 15%."
+					},
+					"Slingshot4": {
+						"name": "Slingshot Training IV",
+						"description": "Increases reload speed of slingshots by 20%."
+					},
+					"Slingshot5": {
+						"name": "Slingshot Training V",
+						"description": "Increases reload speed of slingshots by 25%."
+					},
+					"CompoundBow1": {
+						"name": "Compound Bow Training I",
+						"description": "Increases reload speed of Compound Bows by 5%."
+					},
+					"CompoundBow2": {
+						"name": "Compound Bow Training II",
+						"description": "Increases reload speed of Compound Bows by 10%."
+					},
+					"CompoundBow3": {
+						"name": "Compound Bow Training III",
+						"description": "Increases reload speed of Compound Bows by 15%."
+					},
+					"CompoundBow4": {
+						"name": "Compound Bow Training IV",
+						"description": "Increases reload speed of Compound Bows by 20%."
+					},
+					"CompoundBow5": {
+						"name": "Compound Bow Training V",
+						"description": "Increases reload speed of Compound Bows by 25%."
+					},
+					"Sword1": {
+						"name": "Short Sword Guard Training I",
+						"description": "Increases swing speed of Short Swords by 5%."
+					},
+					"Sword2": {
+						"name": "Short Sword Guard Training II",
+						"description": "Increases swing speed of Short Swords by 10%."
+					},
+					"Sword3": {
+						"name": "Short Sword Guard Training III",
+						"description": "Increases swing speed of Short Swords by 15%."
+					},
+					"Sword4": {
+						"name": "Short Sword Guard Training IV",
+						"description": "Increases swing speed of Short Swords by 20%."
+					},
+					"Sword5": {
+						"name": "Short Sword Guard Training V",
+						"description": "Increases swing speed of Short Swords by 25%."
+					},
+					"Ballista1": {
+						"name": "Ballista Training I",
+						"description": "Increases reload speed of Ballistas by 5%."
+					},
+					"Ballista2": {
+						"name": "Ballista Training II",
+						"description": "Increases reload speed of Ballistas by 10%."
+					},
+					"Ballista3": {
+						"name": "Ballista Training III",
+						"description": "Increases reload speed of Ballistas by 15%."
+					},
+					"Ballista4": {
+						"name": "Ballista Training IV",
+						"description": "Increases reload speed of Ballistas by 20%."
+					},
+					"Ballista5": {
+						"name": "Ballista Training V",
+						"description": "Increases reload speed of Ballistas by 25%."
+					},
+					"Sniper1": {
+						"name": "Matchlock Sniper Training I",
+						"description": "Increases reload speed of Matchlock Snipers by 5%."
+					},
+					"Sniper2": {
+						"name": "Matchlock Sniper Training II",
+						"description": "Increases reload speed of Matchlock Snipers by 10%."
+					},
+					"Sniper3": {
+						"name": "Matchlock Sniper Training III",
+						"description": "Increases reload speed of Matchlock Snipers by 15%."
+					},
+					"Sniper4": {
+						"name": "Matchlock Sniper Training IV",
+						"description": "Increases reload speed of Matchlock Snipers by 20%."
+					},
+					"Sniper5": {
+						"name": "Matchlock Sniper Training V",
+						"description": "Increases reload speed of Matchlock Snipers by 25%."
+					}
+				}
+			}
+		}
+	}
+}

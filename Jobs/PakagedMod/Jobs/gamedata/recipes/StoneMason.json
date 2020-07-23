@@ -1,0 +1,28 @@
+[
+	{
+		"defaultLimit" : 200,
+		"name" : "NACH0.BasicStoneMason.stoneblock.stonebricks",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"stoneblock"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"stonebricks"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 200,
+		"name" : "NACH0.BasicStoneMason.darkstone.stonebricks",
+		"requires" : [
+			{"amount":2,"type":"darkstone"}
+		],
+		"results" : [
+			{"amount":5,"type":"stonebricks"}
+		]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"defaultLimit" : 500,
+		"defaultPriority" : 100,
+		"name" : "NACH0.Fletcher.BallistaBolt",
+		"requires" : [
+			{
+				"type":"crossbowbolt",
+				"amount": 3
+			},
+			{
+				"type":"steelingot",
+				"amount": 5
+			},
+			{
+				"amount":10,
+				"type":"planks"
+			}
+		],
+		"results" : [
+			{
+				"amount":3,
+				"type":"NACH0.Types.BallistaBolt"
+			}
+		]
+	}
+]

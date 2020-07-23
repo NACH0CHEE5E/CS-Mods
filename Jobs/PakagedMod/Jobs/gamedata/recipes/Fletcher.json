@@ -1,0 +1,42 @@
+[
+	{
+		"defaultLimit" : 200,
+		"defaultPriority" : -100,
+		"name" : "NACH0.Fletcher.slingbullet",
+		"requires" : [
+			{"type":"stonebricks",
+			"amount": 2}
+		],
+		"results" : [
+			{"amount":22,"type":"slingbullet"}
+		]
+	},
+	{
+		"defaultLimit" : 500,
+		"defaultPriority" : -100,
+		"name" : "NACH0.Fletcher.bronzearrow",
+		"requires" : [
+			{"type":"bronzeingot",
+			"amount": 2},
+			{"type":"planks",
+			"amount": 2},
+			{"amount":10,"type":"feather"}
+		],
+		"results" : [
+			{"amount":11,"type":"bronzearrow"}
+		]
+	},
+	{
+		"defaultLimit" : 500,
+		"defaultPriority" : 0,
+		"name" : "NACH0.Fletcher.crossbowbolt",
+		"requires" : [
+			{"type":"ironwrought",
+			"amount": 2},
+			{"amount":10,"type":"ironrivet"}
+		],
+		"results" : [
+			{"amount":11,"type":"crossbowbolt"}
+		]
+	}
+]

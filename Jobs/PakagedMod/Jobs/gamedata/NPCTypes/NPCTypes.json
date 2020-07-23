@@ -1,0 +1,50 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#d67f0e"
+		},
+		"keyName" : "NACH0.Jobs.CopperWorker",
+		"npcType" : "worker",
+		"printName" : "Copper Worker"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#8c5815"
+		},
+		"keyName" : "NACH0.Jobs.BrickMaker",
+		"npcType" : "worker",
+		"printName" : "Brick Maker"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#604a00"
+		},
+		"keyName" : "NACH0.Jobs.Fletcher",
+		"npcType" : "worker",
+		"printName" : "Fletcher"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#332700"
+		},
+		"keyName" : "NACH0.Jobs.ToolCrafter",
+		"npcType" : "worker",
+		"printName" : "Tool Crafter"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#000000"
+		},
+		"keyName" : "NACH0.Jobs.OrganicTrader",
+		"npcType" : "worker",
+		"printName" : "Organic Trader"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#353535"
+		},
+		"keyName" : "NACH0.Jobs.BasicStoneMason",
+		"npcType" : "worker",
+		"printName" : "Basic Stone Mason"
+	}
+]

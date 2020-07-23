@@ -1,0 +1,15 @@
+[
+	{
+		"key" : "pipliz.baseresearch.crossbow",
+		"unlocksRecipes" : [
+			"NACH0.Fletcher.crossbowbolt",
+			"NACH0.ToolCrafter.crossbow"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.ironsmelting",
+		"unlocksRecipes" : [
+			"NACH0.ToolCrafter.ironsword"
+		]
+	}
+]

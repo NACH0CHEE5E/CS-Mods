@@ -1,0 +1,55 @@
+[
+  {
+    "name": "NACH0.JobTraining",
+	"enableddefault" : false,
+    "version": "1.0.1",
+    "namepretty": "NACH0's Job Training",
+    "enabled": false,
+    "marksgamemodded": true,
+    "dllpath": "JobTraining.dll",
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+	"dependencies": [
+      {
+        "name": "NACH0.Jobs",
+        "minversion": "1.0.4"
+      },
+	  {
+		"name": "Pandaros.Settlers",
+		"minversion": "0.8.2.78"
+		}
+    ],
+    "jsonFiles": [
+      {
+        "relativePath": "gamedata/Locale/en-US/en-US.json",
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000
+      },
+      {
+        "fileType": "addOrOverrideScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/Override.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.1",
+        "notes": [
+          "Updated to the new Pandaros.API Mod",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

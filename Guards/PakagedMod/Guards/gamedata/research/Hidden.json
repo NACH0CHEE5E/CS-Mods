@@ -1,0 +1,7 @@
+[
+	{
+		"key": "NACH0.Research.GuardCheck",
+		"icon": "./../../../Jobs/gamedata/textures/icons/NoIcon.png",
+		"requiredScienceBiome" : "sciencebiome.Hidden"
+	}
+]

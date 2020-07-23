@@ -1,0 +1,81 @@
+{
+	"types": {
+		"NACH0.Types.CopperWorker": "Copper Worker",
+		"NACH0.Types.Fletcher": "Fletcher",
+		"NACH0.Types.OrganicTrader": "Organic Trader",
+		"NACH0.Types.ToolCrafter": "Tool Crafter",
+		"NACH0.Types.BasicStoneMason": "Stonemason",
+		"stonemasonworkbench": "Advanced Stonemason",
+		"NACH0.Types.IronAnvil": "Iron Anvil",
+		"NACH0.Types.SteelAnvil": "Steel Anvil",
+		"NACH0.Types.BrickMaker": "Brick Maker"
+	},
+	"typeuses": {
+		"NACH0.Types.CopperWorker": "Works with Copper",
+		"NACH0.Types.Fletcher": "Makes Ammo",
+		"NACH0.Types.OrganicTrader": "Trades Organics",
+		"NACH0.Types.ToolCrafter": "Crafts Tools",
+		"NACH0.Types.BasicStoneMason": "Makes Stone Bricks",
+		"stonemasonworkbench": "Makes stuff out of Stone",
+		"NACH0.Types.IronAnvil": "Faster than the bronze varient",
+		"NACH0.Types.SteelAnvil": "Faster than the iron varient"
+		"NACH0.Types.BrickMaker": "Makes bricks"
+	},
+	"sentences": {
+		"popup": {
+			"limits": {
+				"stonemason": "Advanced Stonemasonry limits",
+				"NACH0": {
+					"Jobs": {
+						"BrickMaker": "Brick Maker limits",
+						"ToolCrafter": "Tool Crafter limits",
+						"BasicStoneMason": "Stonemasonry limits",
+						"Fletcher": "Fletcher limits",
+						"CopperWorker": "Copper Worker limits",
+						"OrganicTrader": "Organic Trader limits",						"IronAnvil": "Iron Anvil limits",
+						"SteelAnvil": "Steel Anvil limits"					}
+				}
+			}
+		},
+		"pipliz": {
+			"baseresearch": {
+				"stonemasonworkbench": {
+					"description": "Unlocks the Advanced Stone Mason.",
+					"name": "Advanced Stonemason"
+				}
+			}
+		},
+		"NACH0": {
+			"Research": {
+				"BasicStoneMason": {
+					"description": "Unlocks the stonemason, which can make stone bricks.",
+					"name": "Stonemason"
+				},
+				"Fletcher": {
+					"description": "Unlocks the fletcher, which makes ammo.",
+					"name": "Fletcher"
+				},
+				"CopperWorker": {
+					"description": "Unlocks the copper worker, which specialises in working with copper.",
+					"name": "Copper Worker"
+				},
+				"ToolCrafter": {
+					"description": "Unlocks the tool crafter, which makes tools.",
+					"name": "Tool Crafter"
+				},
+				"BrickMaker": {
+					"description": "Unlocks the brick maker, which makes bricks.",
+					"name": "Brick Maker"
+				},
+				"IronAnvil": {
+					"description": "Unlocks the iron anvil, which is better than the bronze anvil.",
+					"name": "Iron Anvil"
+				},
+				"SteelAnvil": {
+					"description": "Unlocks the steel anvil, which is better than the iron anvil.",
+					"name": "Steel Anvil"
+				}
+			}
+		}
+	}
+}

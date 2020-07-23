@@ -1,0 +1,134 @@
+{
+	"sentences": {
+		"NACH0": {
+			"Jobs": {
+				"BrickMaker1": {
+					"name": "Brick Maker Training I",
+					"description": "Decreases time to craft for Brick Maker by 5%."
+				},
+				"BrickMaker2": {
+					"name": "Brick Maker Training II",
+					"description": "Decreases time to craft for Brick Maker by 10%."
+				},
+				"BrickMaker3": {
+					"name": "Brick Maker Training III",
+					"description": "Decreases time to craft for Brick Maker by 15%."
+				},
+				"BrickMaker4": {
+					"name": "Brick Maker Training IV",
+					"description": "Decreases time to craft for Brick Maker by 20%."
+				},
+				"BrickMaker5": {
+					"name": "Brick Maker Training V",
+					"description": "Decreases time to craft for Brick Maker by 25%."
+				},
+				"CopperWorker1": {
+					"name": "Copper Worker Training I",
+					"description": "Decreases time to craft for Copper Worker by 5%."
+				},
+				"CopperWorker2": {
+					"name": "Copper Worker Training II",
+					"description": "Decreases time to craft for Copper Worker by 10%."
+				},
+				"CopperWorker3": {
+					"name": "Copper Worker Training III",
+					"description": "Decreases time to craft for Copper Worker by 15%."
+				},
+				"CopperWorker4": {
+					"name": "Copper Worker Training IV",
+					"description": "Decreases time to craft for Copper Worker by 20%."
+				},
+				"CopperWorker5": {
+					"name": "Copper Worker Training V",
+					"description": "Decreases time to craft for Copper Worker by 25%."
+				},
+				"Fletcher1": {
+					"name": "Fletcher Training I",
+					"description": "Decreases time to craft for Fletcher by 5%."
+				},
+				"Fletcher2": {
+					"name": "Fletcher Training II",
+					"description": "Decreases time to craft for Fletcher by 10%."
+				},
+				"Fletcher3": {
+					"name": "Fletcher Training III",
+					"description": "Decreases time to craft for Fletcher by 15%."
+				},
+				"Fletcher4": {
+					"name": "Fletcher Training IV",
+					"description": "Decreases time to craft for Fletcher by 20%."
+				},
+				"Fletcher5": {
+					"name": "Fletcher Training V",
+					"description": "Decreases time to craft for Fletcher by 25%."
+				},
+				"ToolCrafter1": {
+					"name": "Tool Crafter Training I",
+					"description": "Decreases time to craft for Tool Crafter by 5%."
+				},
+				"ToolCrafter2": {
+					"name": "Tool Crafter Training II",
+					"description": "Decreases time to craft for Tool Crafter by 10%."
+				},
+				"ToolCrafter3": {
+					"name": "Tool Crafter Training III",
+					"description": "Decreases time to craft for Tool Crafter by 15%."
+				},
+				"ToolCrafter4": {
+					"name": "Tool Crafter Training IV",
+					"description": "Decreases time to craft for Tool Crafter by 20%."
+				},
+				"ToolCrafter5": {
+					"name": "Tool Crafter Training V",
+					"description": "Decreases time to craft for Tool Crafter by 25%."
+				},
+				"Freezer1": {
+					"name": "Freezer Training I",
+					"description": "Decreases time to craft for Freezer by 5%."
+				},
+				"Freezer2": {
+					"name": "Freezer Training II",
+					"description": "Decreases time to craft for Freezer by 10%."
+				},
+				"PaintMixer1": {
+					"name": "Paint Mixer Training I",
+					"description": "Decreases time to craft for Paint Mixer by 5%."
+				},
+				"PaintMixer2": {
+					"name": "Paint Mixer Training II",
+					"description": "Decreases time to craft for Paint Mixer by 10%."
+				},
+				"PaintMixer3": {
+					"name": "Paint Mixer Training III",
+					"description": "Decreases time to craft for Paint Mixer by 15%."
+				},
+				"Painter1": {
+					"name": "Painter Training I",
+					"description": "Decreases time to craft for Painter Table by 5%."
+				},
+				"Painter2": {
+					"name": "Painter Training II",
+					"description": "Decreases time to craft for Painter Table by 10%."
+				}
+			}
+		},
+		"pipliz": {
+			"stonemason1": {
+				"name": "Stonemason Training I",
+				"description": "Decreases time to craft for Stonemason's by 5%."
+			},
+			"stonemason2": {
+				"name": "Stonemason Training II",
+				"description": "Decreases time to craft for Stonemason's by 10%."
+			},
+			"dyer1": {
+				"name": "Dyer Training I",
+				"description": "Decreases time to craft for Dyer Table by 5%."
+			},
+			"dyer2": {
+				"name": "Dyer Training II",
+				"description": "Decreases time to craft for Dyer Table by 10%."
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "NACH0.Tool",
+	"enableddefault" : false,
+    "version": "1.0.1",
+    "namepretty": "NACH0's Tool",
+    "dllpath": "Tool.dll",
+    "enabled": false,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/Tool.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 15000,
+        "relativePath": "gamedata/recipes/Player.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 15000,
+        "relativePath": "gamedata/locale/en-US/en-US.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.1",
+        "notes": [
+          "Now actually will detect if the guards mod is installed and hide the button if not"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

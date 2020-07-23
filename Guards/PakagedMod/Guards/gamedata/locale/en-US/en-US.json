@@ -1,0 +1,54 @@
+{
+	"types": {
+		"NACH0.Types.BallistaBolt": "Ballista Bolt",
+		"NACH0.Types.Ballista": "Ballista",
+		"NACH0.Types.CompoundBow": "Compound Bow",
+		"NACH0.Types.IronArmour": "Iron Armour",
+		"NACH0.Types.Slingshot": "Slingshot",
+		"NACH0.Types.Sniper": "Sniper Matchlock",
+		"ironsword": "Iron Short Sword",
+		"NACH0.Types.Slingshot.Guard.Day": "Slingshot Guard Day",
+		"NACH0.Types.Slingshot.Guard.Night": "Slingshot Guard Night",
+		"NACH0.Types.Ballista.Guard.Day": "Ballista Guard Day",
+		"NACH0.Types.Ballista.Guard.Night": "Ballista Guard Night",
+		"NACH0.Types.CompoundBow.Guard.Day": "Compound Bow Guard Day",
+		"NACH0.Types.CompoundBow.Guard.Night": "Compound Bow Guard Night",
+		"NACH0.Types.Sniper.Guard.Day": "Sniper Guard Day",
+		"NACH0.Types.Sniper.Guard.Night": "Sniper Guard Night",
+		"NACH0.Types.Sword.Guard.Day": "Short Sword Guard Day",
+		"NACH0.Types.Sword.Guard.Night": "Short Sword Guard Night",
+		"NACH0.Types.SwordSheath": "Short Sword Sheath"
+	},
+	"typeuses": {
+		"NACH0.Types.BallistaBolt": "Used by the ballista to kill zombies",
+		"NACH0.Types.CompoundBow": "Like the bow but better",
+		"NACH0.Types.IronArmour": "A knight needs armour",
+		"NACH0.Types.Slingshot": "Offers more stability than a sling"
+	},
+	"sentences": {
+		"NACH0": {
+			"Research": {
+				"Slingshot": {
+					"description": "Unlocks the slingshot guard, better than the slinger.",
+					"name": "Slingshots"
+				},
+				"Ballista": {
+					"description": "Unlocks the ballista, a very long range guard usefull on a big tower.",
+					"name": "Ballista"
+				},
+				"CompoundBow": {
+					"description": "Unlocks the compund bow, better than the standard bow.",
+					"name": "Compound Bow"
+				},
+				"Sniper": {
+					"description": "Unlocks the sniper, matchlock with a scope.",
+					"name": "Sniper"
+				},
+				"SwordGuard": {
+					"description": "Unlocks the Short Sword Guard, weilds a short sword.",
+					"name": "Short Sword Guard"
+				}
+			}
+		}
+	}
+}
