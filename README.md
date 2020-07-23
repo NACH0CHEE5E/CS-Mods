@@ -17,6 +17,13 @@ Updated: Unkown.
 Status: To be checked.  
 Dependencies: N/A  
 
+## [Decor](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Decor/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Decor)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1930301170)  
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: [Pandaros' API](https://github.com/JBurlison/Pandaros.API)  
+
 ## [Colours](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Colours/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1930305965)  
@@ -92,4 +99,11 @@ Dependencies: Unknown.
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056431300)  
 Updated: Unkown.  
 Status: Probably Not going to get updated.  
+Dependencies: N/A  
+
+## [Production Stats](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ProductionStats/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ProductionStats)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1930304311)  
+Updated: Unkown.  
+Status: Not needed game has production stats in game now.  
 Dependencies: N/A  
