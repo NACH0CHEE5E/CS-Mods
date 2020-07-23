@@ -73,6 +73,13 @@ Updated: Unkown.
 Status: To be checked.  
 Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks), [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs), [Tool](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Tool), [Pandaros' API](https://github.com/JBurlison/Pandaros.API), [Pandaros' Settlers](https://github.com/JBurlison/Pandaros.Settlers)  
 
+## [Colony Addons](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ColonyAddons/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ColonyAddons)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=)  
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: N/A  
+
 ## [Doors](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Doors/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Doors)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056420692)  
