@@ -75,7 +75,7 @@ Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colou
 
 ## [Colony Addons](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ColonyAddons/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ColonyAddons)  
-[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2174913016)  
 Updated: Unkown.  
 Status: To be checked.  
 Dependencies: N/A  
