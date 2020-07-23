@@ -1,0 +1,19 @@
+[{
+	"name": "NACH0.API",
+	"enableddefault" : true,
+	"version": "0.1.0",
+	"marksgamemodded": false,
+	"compatibleversions": [
+		"0.7.3"
+	],
+	"patchnotes": [
+		{
+			"version": "1.0.0",
+			"notes": [
+				"Initial Release",
+				"*If you find any issues or have suggestions join the discord",
+				"*discord.gg/tqFhxhm"
+			]
+		}
+	]
+}]
