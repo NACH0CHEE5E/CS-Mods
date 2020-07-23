@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NACH0.PlaceableWater",
+	"enableddefault" : false,
+    "version": "1.0.1",
+    "namepretty": "Placeable Water",
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1",
+	  "0.7.2",
+	  "0.7.3"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": 10001,
+        "relativePath": "gamedata/textures/materials/texturemapping.json"
+      },
+      {
+        "fileType": "overrideTypeProperties",
+        "index": 15000,
+        "relativePath": "gamedata/Types/Override.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

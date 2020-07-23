@@ -1,0 +1,14 @@
+{
+	"_settings": {
+		"fileExtension": ".png",
+		"folderAlbedo": "./../",
+		"folderEmissive": "./../",
+		"folderHeight": "./../",
+		"folderNormal": "./../"
+	},
+	"NACH0.Textures.Water": {
+		"albedo": "albedo",
+		"normal": "normal",
+		"height": "HeightSmoothnessSpecularity"
+	}
+}

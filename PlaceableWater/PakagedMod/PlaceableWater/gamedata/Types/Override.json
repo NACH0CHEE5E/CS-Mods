@@ -1,0 +1,14 @@
+{
+	"bucketwater" : {
+		"isPlaceable" : true,
+		"sideall": "NACH0.Textures.Water",
+		"isSolid" : false,
+		"mesh": "./../cube.obj",
+		"customData": {
+			"useHeightMap": true,
+			"useNormalMap": true
+		},
+		"onPlaceAudio" : "waterSplashFeet",
+		"onRemoveAudio" : "waterSplashFeet"
+	}
+}
