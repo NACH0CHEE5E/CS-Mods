@@ -34,13 +34,62 @@ Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colou
 ## [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Jobs)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056408583)  
-Updated: Unkown.
-Status: To be checked.
-Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)  
 
 ## [Job Training](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/JobTraining/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/JobTraining)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056416008)  
-Updated: Unkown.
-Status: To be checked.
+Updated: Unkown.  
+Status: To be checked.  
 Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks), [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs), [Pandaros' API](https://github.com/JBurlison/Pandaros.API), [Pandaros' Settlers](https://github.com/JBurlison/Pandaros.Settlers)
+
+## [Tool](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Tool/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Tool)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056422447)  
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: N/A  
+
+## [Guards](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Guards/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Guards)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056425435)  
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks), [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs), [Tool](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Tool)
+
+## [Guard Training](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/GuardTraining/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/GuardTraining)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056427452)  
+Updated: Unkown.  
+Status: To be checked.  
+Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks), [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs), [Tool](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Tool), [Pandaros' API](https://github.com/JBurlison/Pandaros.API), [Pandaros' Settlers](https://github.com/JBurlison/Pandaros.Settlers)  
+
+## [Doors](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Doors/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Doors)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056420692)  
+Updated: Unkown.  
+Status: Probably will work, might get updates.  
+Dependencies: N/A  
+
+## [Toilets](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Toilets/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Toilets)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056430381)  
+Updated: Unkown.  
+Status: Needs fixing/To be updated/checked  
+Dependencies: [Pandaros' API](https://github.com/JBurlison/Pandaros.API), [Pandaros' Settlers](https://github.com/JBurlison/Pandaros.Settlers)  
+
+## [Alchemy](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Alchemy/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Alchemy)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056429199)  
+Updated: Unkown.  
+Status: Not completed/outdated  
+Dependencies: Unknown.  
+
+## [No Night](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/NoNight/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/NoNight)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056431300)  
+Updated: Unkown.  
+Status: Probably Not going to get updated.  
+Dependencies: N/A  
