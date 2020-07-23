@@ -2,18 +2,23 @@
   {
     "name": "NACH0.Jobs",
 	"enableddefault" : false,
-    "version": "1.0.4",
+    "version": "1.0.6",
     "namepretty": "NACH0's Jobs",
-    "enabled": false,
     "marksgamemodded": true,
     "compatibleversions": [
       "0.7.0",
-	  "0.7.1"
+	  "0.7.1",
+	  "0.7.2",
+	  "0.7.3"
     ],
 	"dependencies": [
       {
         "name": "NACH0.Blocks",
         "minversion": "1.0.6"
+      },
+	  {
+        "name": "NACH0.Colours",
+        "minversion": "1.0.4"
       }
     ],
     "jsonFiles": [

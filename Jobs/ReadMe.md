@@ -1,0 +1,4 @@
+# Jobs
+This mod expands the adds 4 brand new jobs to the game to which specialize in making certain things, they can help you with priority issues you may be having.  
+This mod also changed how you get stone and stone bricks, you mine stone like normal however you will get a mixture of stone, sand and dirt, you then use your stone in the stonemason to make stone bricks, the normal stone mason has been renamed to the advanced stone mason this is where you make all your special stone related stuff, modded stone mason recipes will also appear in here.  
+This mod requires my [colours mod](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours) and [blocks mod](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)

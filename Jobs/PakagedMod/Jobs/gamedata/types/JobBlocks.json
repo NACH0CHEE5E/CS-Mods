@@ -48,7 +48,7 @@
 			"job",
 			"NACH0"
 		],
-		"icon": "./../../../../../textures/icons/stonemasonworkbench.png",
+		"icon": "./../../../common/Colony Survival/gamedata/textures/icons/stonemasonworkbench.png",
 		"onPlaceAudio": "woodPlace",
 		"onRemoveAudio": "woodDeleteLight",
 		"sideall": "stoneblock",
