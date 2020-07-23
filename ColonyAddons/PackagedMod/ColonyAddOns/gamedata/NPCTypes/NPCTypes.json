@@ -1,0 +1,34 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "(13, 51, 15, 1)"
+		},
+		"keyName" : "Ulfric.ColonyAddOns.AdvancedAgriculture",
+		"npcType" : "worker",
+		"printName" : "Agriculturist"
+	},
+	{
+		"data" : {
+			"maskColor1" : "(211, 64, 250, 1)"
+		},
+		"keyName" : "Ulfric.ColonyAddOns.AdvancedStoneMasonry",
+		"npcType" : "worker",
+		"printName" : "Advanced Stone Mason"
+	},
+	{
+		"data" : {
+			"maskColor1" : "(58, 0, 97, 1)"
+		},
+		"keyName" : "Ulfric.ColonyAddOns.Carpenter",
+		"npcType" : "worker",
+		"printName" : "Carpenter"
+	},
+	{
+		"data" : {
+			"maskColor1" : "(109, 0, 148, 1)"
+		},
+		"keyName" : "Ulfric.ColonyAddOns.Fletcher",
+		"npcType" : "worker",
+		"printName" : "Fletcher"
+	}
+]

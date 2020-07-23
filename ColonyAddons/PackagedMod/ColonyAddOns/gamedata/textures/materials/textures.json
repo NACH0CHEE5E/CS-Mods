@@ -1,0 +1,805 @@
+{  
+    "_settings": {
+        "defaultAlbedo" : "./albedo/Nach0Missing.png",
+		"defaultEmissive" : "./emissiveMaskAlpha/default.png",
+		"defaultHeight" : "./heightSmoothnessSpecularity/default.png",
+		"defaultNormal" : "./normal/default.png",
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./albedo/",
+		"folderEmissive" : "./emissiveMaskAlpha/",
+		"folderHeight" : "./heightSmoothnessSpecularity/",
+		"folderNormal" : "./normal/"
+    },
+	"Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbenchSides" : {
+		"albedo" : "AdvancedAgricultureWorkbenchSides",
+		"normal" : "AdvancedAgricultureWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbenchTop" : {
+		"albedo" : "AdvancedAgricultureWorkbenchTop",
+		"normal" : "AdvancedAgricultureWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench" : {
+		"albedo" : "AdvancedStoneMasonryWorkbench",
+		"normal" : "AdvancedStoneMasonryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstone" : {
+		"albedo" : "AshySandstone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BambooWall" : {
+		"albedo" : "BambooWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogFence" : {
+		"albedo" : "BirchLogs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogsHorz" : {
+		"albedo" : "BirchLogsHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogsVert" : {
+		"albedo" : "BirchLogs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackDirtGrungyMetal" : {
+		"albedo" : "BlackDirtGrungyMetal"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWood" : {
+		"albedo" : "BlackRottenWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMud" : {
+		"albedo" : "BrickAlternatingMud"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRough" : {
+		"albedo" : "BrickBlackRough"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywood" : {
+		"albedo" : "BrickBurlywood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChipped" : {
+		"albedo" : "BrickGreenChipped"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLight" : {
+		"albedo" : "BrickLight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweave" : {
+		"albedo" : "BrickRedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubbly" : {
+		"albedo" : "BricksBubbly"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhite" : {
+		"albedo" : "BrickWhite"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrown" : {
+		"albedo" : "BrickworkWornBrown"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanel" : {
+		"albedo" : "BrownishGreenWoodPanel"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlaster" : {
+		"albedo" : "BrownPlaster"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench" : {
+		"albedo" : "CarpentryWorkbench",
+		"normal" : "CarpentryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWall" : {
+		"albedo" : "CementLargeBlockWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ChiseledBlackStone" : {
+		"albedo" : "ChiseledBlackStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWall" : {
+		"albedo" : "CobbleStoneWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTiles" : {
+		"albedo" : "ConcreteBrickTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTiles" : {
+		"albedo" : "CorrodedTechnoTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DarkWoodFrameTopAndBottom" : {
+		"albedo" : "DarkWoodFrameTopAndBottom"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DarkWoodStrapped" : {
+		"albedo" : "DarkWoodStrapped"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWall" : {
+		"albedo" : "DirtyLargeBlocksWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStone" : {
+		"albedo" : "DustyGreyStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyChiseledBlackStone" : {
+		"albedo" : "FancyChiseledBlackStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyCobblestoneWall" : {
+		"albedo" : "FancyCobblestoneWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrick" : {
+		"albedo" : "FancyGreyBrick"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabs" : {
+		"albedo" : "FancyPavingSlabs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FineSoil" : {
+		"albedo" : "FineSoil"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench" : {
+		"albedo" : "FletcheryWorkbench",
+		"normal" : "FletcheryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWood" : {
+		"albedo" : "FloorBeigeWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweave" : {
+		"albedo" : "FloorBlueStainedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricks" : {
+		"albedo" : "FloorChippedBricks"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcrete" : {
+		"albedo" : "FloorConcrete"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwood" : {
+		"albedo" : "FloorDarkHardwood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringbone" : {
+		"albedo" : "FloorDarkHerringbone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWood" : {
+		"albedo" : "FloorDarkWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweave" : {
+		"albedo" : "FloorFadedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweave" : {
+		"albedo" : "FloorGougedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoards" : {
+		"albedo" : "FloorGrittyLongBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweave" : {
+		"albedo" : "FloorLightBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweave" : {
+		"albedo" : "FloorPinkBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTile" : {
+		"albedo" : "FloorTile"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouse" : {
+		"albedo" : "FloorTrinsicHouse"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStone" : {
+		"albedo" : "FloorTrinsicStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquet" : {
+		"albedo" : "FloorWoodParquet"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweave" : {
+		"albedo" : "FloorWrinkledBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechno" : {
+		"albedo" : "GraniteTechno"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWall" : {
+		"albedo" : "GraniteWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel" : {
+		"albedo" : "Gravel"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2" : {
+		"albedo" : "Gravel2"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3" : {
+		"albedo" : "Gravel3"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4" : {
+		"albedo" : "Gravel4"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkway" : {
+		"albedo" : "GreenGraniteWalkway"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSiding" : {
+		"albedo" : "GreenSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStone" : {
+		"albedo" : "GreyStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWall" : {
+		"albedo" : "GreyStoneConcreteWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodFrameTopAndBottom" : {
+		"albedo" : "GreyWoodFrameTopAndBottom"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPins" : {
+		"albedo" : "GreyWoodPanelWithPins"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLava" : {
+		"albedo" : "HardenedLava"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Hedge" : {
+		"albedo" : "Hedge"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HeraldStand" : {
+		"albedo" : "HeraldStand",
+		"normal" : "HeraldStand"
+	},
+	"Ulfric.ColonyAddOns.Blocks.infiniteMarble" : {
+		"albedo" : "oreMarble"
+	},
+	"Ulfric.ColonyAddOns.Blocks.infiniteWaterSource" : {
+		"albedo" : "oreWaterSource"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoards" : {
+		"albedo" : "LightBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPaneling" : {
+		"albedo" : "LightPaneling"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorz" : {
+		"albedo" : "LogTaigaHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorz" : {
+		"albedo" : "LogTemperateHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoards" : {
+		"albedo" : "MahoganyBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSiding" : {
+		"albedo" : "MapleSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Marble" : {
+		"albedo" : "Marble"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlack" : {
+		"albedo" : "MarbleBlack"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlood" : {
+		"albedo" : "MarbleBlood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlue" : {
+		"albedo" : "MarbleBlue"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrack" : {
+		"albedo" : "MarbleBlueCrack"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurple" : {
+		"albedo" : "MarbleBrightPurple"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirl" : {
+		"albedo" : "MarbleBrownSwirl"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldspar" : {
+		"albedo" : "MarbleButterscotchFeldspar"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGray" : {
+		"albedo" : "MarbleDarkGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreen" : {
+		"albedo" : "MarbleDarkGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptian" : {
+		"albedo" : "MarbleEgyptian"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmerald" : {
+		"albedo" : "MarbleEmerald"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarine" : {
+		"albedo" : "MarbleGlassyMarine"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrange" : {
+		"albedo" : "MarbleGlassyOrange"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPink" : {
+		"albedo" : "MarbleGlassyPink"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRed" : {
+		"albedo" : "MarbleGlassyRed"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGray" : {
+		"albedo" : "MarbleGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreen" : {
+		"albedo" : "MarbleGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLight" : {
+		"albedo" : "MarbleLight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreen" : {
+		"albedo" : "MarbleLightGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPina" : {
+		"albedo" : "MarbleOnixPina"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurple" : {
+		"albedo" : "MarblePurple"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRough" : {
+		"albedo" : "MarbleRough"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPink" : {
+		"albedo" : "MarbleRoughPink"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreen" : {
+		"albedo" : "MarbleSeaGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGray" : {
+		"albedo" : "MarbleSmashedGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGris" : {
+		"albedo" : "MarbleTepeacaGris"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1" : {
+		"albedo" : "MarbleTile1"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTiles" : {
+		"albedo" : "MarbleTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MetalReenforcedDarkWood" : {
+		"albedo" : "MetalReenforcedDarkWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShingles" : {
+		"albedo" : "NewShingles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShingles" : {
+		"albedo" : "OldShingles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoards" : {
+		"albedo" : "OldWeatheredBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarble" : {
+		"albedo" : "OrangeMarble"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OvergrownFence" : {
+		"albedo" : "OvergrownFence"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlate" : {
+		"albedo" : "PurpleSlate"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWall" : {
+		"albedo" : "RockWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStone" : {
+		"albedo" : "RoughBrownStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoards" : {
+		"albedo" : "ScratchedLightBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ShrubCover" : {
+		"albedo" : "ShrubCover"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockDarkWall" : {
+		"albedo" : "StoneBlockDarkWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWall" : {
+		"albedo" : "StoneBlockRoughWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdged" : {
+		"albedo" : "StoneBlocksWoodEdged"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWall" : {
+		"albedo" : "StoneBrickWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnight" : {
+		"albedo" : "StoneMidnight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePath" : {
+		"albedo" : "StonePath"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1" : {
+		"albedo" : "StoneWall1"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2" : {
+		"albedo" : "StoneWall2"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3" : {
+		"albedo" : "StoneWall3"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4" : {
+		"albedo" : "StoneWall4"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5" : {
+		"albedo" : "StoneWall5"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6" : {
+		"albedo" : "StoneWall6"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStone" : {
+		"albedo" : "TanRoughStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodLogEnds" : {
+		"albedo" : "WoodLogEnds"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPile" : {
+		"albedo" : "BirchLogs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSiding" : {
+		"albedo" : "WoodSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.stumptaiga" : {
+		"albedo" : "stumptaiga"
+	},
+	"Ulfric.ColonyAddOns.Blocks.stumptemperate" : {
+		"albedo" : "stumptemperate"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate1" : {
+		"albedo" : "Crate1"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate2" : {
+		"albedo" : "Crate2"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate3" : {
+		"albedo" : "Crate3"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate4" : {
+		"albedo" : "Crate4"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateDarkWood" : {
+		"albedo" : "CrateDarkWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateMetalBlack" : {
+		"albedo" : "CrateMetalBlack"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateMetalReenforcedDarkWood" : {
+		"albedo" : "CrateMetalReenforcedDarkWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBerry" : {
+		"albedo" : "CrateBerry"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBread" : {
+		"albedo" : "CrateBread"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateSlingBullet" : {
+		"albedo" : "CrateSlingBullet"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateArrow" : {
+		"albedo" : "CrateArrow"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBolts" : {
+		"albedo" : "CrateBolts"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateGunpowder" : {
+		"albedo" : "CrateGunpowder"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateLeadBullet" : {
+		"albedo" : "CrateLeadBullet"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateFlour" : {
+		"albedo" : "CrateFlour"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab" : {
+		"albedo" : "AshySandstone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab" : {
+		"albedo" : "BlackRottenWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab" : {
+		"albedo" : "BrickAlternatingMud"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab" : {
+		"albedo" : "BrickBlackRough"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab" : {
+		"albedo" : "BrickBurlywood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab" : {
+		"albedo" : "BrickGreenChipped"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLightSlab" : {
+		"albedo" : "BrickLight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab" : {
+		"albedo" : "BrickRedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubblySlab" : {
+		"albedo" : "BricksBubbly"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab" : {
+		"albedo" : "BrickWhite"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab" : {
+		"albedo" : "BrickworkWornBrown"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab" : {
+		"albedo" : "BrownishGreenWoodPanel"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab" : {
+		"albedo" : "BrownPlaster"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab" : {
+		"albedo" : "CementLargeBlockWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab" : {
+		"albedo" : "CobbleStoneWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab" : {
+		"albedo" : "ConcreteBrickTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTiles" : {
+		"albedo" : "CorrodedTechnoTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab" : {
+		"albedo" : "CorrodedTechnoTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab" : {
+		"albedo" : "DirtyLargeBlocksWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab" : {
+		"albedo" : "DustyGreyStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab" : {
+		"albedo" : "FancyGreyBrick"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabs" : {
+		"albedo" : "FancyPavingSlabs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab" : {
+		"albedo" : "FancyPavingSlabs"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab" : {
+		"albedo" : "FloorBeigeWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab" : {
+		"albedo" : "FloorBlueStainedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab" : {
+		"albedo" : "FloorChippedBricks"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab" : {
+		"albedo" : "FloorConcrete"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab" : {
+		"albedo" : "FloorDarkHardwood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab" : {
+		"albedo" : "FloorDarkHerringbone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab" : {
+		"albedo" : "FloorDarkWood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab" : {
+		"albedo" : "FloorFadedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab" : {
+		"albedo" : "FloorGougedBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab" : {
+		"albedo" : "FloorGrittyLongBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab" : {
+		"albedo" : "FloorLightBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab" : {
+		"albedo" : "FloorPinkBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTileSlab" : {
+		"albedo" : "FloorTile"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab" : {
+		"albedo" : "FloorTrinsicHouse"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab" : {
+		"albedo" : "FloorTrinsicStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab" : {
+		"albedo" : "FloorWoodParquet"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab" : {
+		"albedo" : "FloorWrinkledBasketweave"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab" : {
+		"albedo" : "GraniteTechno"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWallSlab" : {
+		"albedo" : "GraniteWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GravelSlab" : {
+		"albedo" : "Gravel"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2Slab" : {
+		"albedo" : "Gravel2"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3Slab" : {
+		"albedo" : "Gravel3"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4Slab" : {
+		"albedo" : "Gravel4"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab" : {
+		"albedo" : "GreenGraniteWalkway"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSidingSlab" : {
+		"albedo" : "GreenSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneSlab" : {
+		"albedo" : "GreyStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab" : {
+		"albedo" : "GreyStoneConcreteWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab" : {
+		"albedo" : "GreyWoodPanelWithPins"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab" : {
+		"albedo" : "HardenedLava"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoardsSlab" : {
+		"albedo" : "LightBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPanelingSlab" : {
+		"albedo" : "LightPaneling"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab" : {
+		"albedo" : "MahoganyBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSidingSlab" : {
+		"albedo" : "MapleSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab" : {
+		"albedo" : "MarbleBlack"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab" : {
+		"albedo" : "MarbleBlood"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab" : {
+		"albedo" : "MarbleBlueCrack"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab" : {
+		"albedo" : "MarbleBlue"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab" : {
+		"albedo" : "MarbleBrightPurple"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab" : {
+		"albedo" : "MarbleBrownSwirl"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab" : {
+		"albedo" : "MarbleButterscotchFeldspar"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab" : {
+		"albedo" : "MarbleDarkGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab" : {
+		"albedo" : "MarbleDarkGreen"
+    },
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab" : {
+		"albedo" : "MarbleEgyptian"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab" : {
+		"albedo" : "MarbleEmerald"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab" : {
+		"albedo" : "MarbleGlassyMarine"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab" : {
+		"albedo" : "MarbleGlassyOrange"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab" : {
+		"albedo" : "MarbleGlassyPink"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab" : {
+		"albedo" : "MarbleGlassyRed"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGraySlab" : {
+		"albedo" : "MarbleGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab" : {
+		"albedo" : "MarbleGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab" : {
+		"albedo" : "MarbleLightGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightSlab" : {
+		"albedo" : "MarbleLight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab" : {
+		"albedo" : "MarbleOnixPina"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab" : {
+		"albedo" : "MarblePurple"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab" : {
+		"albedo" : "MarbleRoughPink"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab" : {
+		"albedo" : "MarbleRough"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab" : {
+		"albedo" : "MarbleSeaGreen"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSlab" : {
+		"albedo" : "Marble"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab" : {
+		"albedo" : "MarbleSmashedGray"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab" : {
+		"albedo" : "MarbleTepeacaGris"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab" : {
+		"albedo" : "MarbleTile1"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab" : {
+		"albedo" : "MarbleTiles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShinglesSlab" : {
+		"albedo" : "NewShingles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShinglesSlab" : {
+		"albedo" : "OldShingles"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab" : {
+		"albedo" : "OldWeatheredBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab" : {
+		"albedo" : "OrangeMarble"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab" : {
+		"albedo" : "PurpleSlate"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWallSlab" : {
+		"albedo" : "RockWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab" : {
+		"albedo" : "RoughBrownStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab" : {
+		"albedo" : "ScratchedLightBoards"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab" : {
+		"albedo" : "StoneBlockRoughWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab" : {
+		"albedo" : "StoneBlocksWoodEdged"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab" : {
+		"albedo" : "StoneBrickWall"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab" : {
+		"albedo" : "StoneMidnight"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePathSlab" : {
+		"albedo" : "StonePath"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1Slab" : {
+		"albedo" : "StoneWall1"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2Slab" : {
+		"albedo" : "StoneWall2"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3Slab" : {
+		"albedo" : "StoneWall3"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4Slab" : {
+		"albedo" : "StoneWall4"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5Slab" : {
+		"albedo" : "StoneWall5"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6Slab" : {
+		"albedo" : "StoneWall6"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab" : {
+		"albedo" : "TanRoughStone"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSidingSlab" : {
+		"albedo" : "WoodSiding"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LeavesApples" : {
+		"albedo" : "LeavesApples"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AppleBarrel": {
+     "albedo": "AppleBarrel"
+    },
+	"Ulfric.ColonyAddOns.Blocks.AppleBasket" : {
+		 "albedo" : "AppleBasket"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BasketTop" : {
+		 "albedo" : "BasketTop"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Basket" : {
+		 "albedo" : "Basket"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CherryBasket" : {
+		 "albedo" : "CherryBasket"
+	}
+}

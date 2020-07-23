@@ -1,0 +1,30 @@
+[
+	{
+		"blockType" : "Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbench",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 1,
+		"npcType" : "Ulfric.ColonyAddOns.AdvancedAgriculture"
+	},
+	{
+		"blockType" : "Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 1,
+		"npcType" : "Ulfric.ColonyAddOns.AdvancedStoneMasonry"
+	},
+	{
+		"blockType" : "Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 1,
+		"npcType" : "Ulfric.ColonyAddOns.Carpenter"
+	},
+	{
+		"blockType" : "Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 1,
+		"npcType" : "Ulfric.ColonyAddOns.Fletcher"
+	}
+]

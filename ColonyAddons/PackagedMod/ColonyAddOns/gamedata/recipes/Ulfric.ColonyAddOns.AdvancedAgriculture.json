@@ -1,0 +1,82 @@
+[{
+    "name": "Ulfric.ColonyAddOns.Blocks.WoodPile",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.WoodPile",
+        "amount": 2
+    }],
+    "requires": [{
+        "type": "planks",
+        "amount": 2
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}, {
+    "name": "Ulfric.ColonyAddOns.Blocks.ShrubCover",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.ShrubCover",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "leavestaiga",
+        "amount": 2
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}, {
+    "name": "Ulfric.ColonyAddOns.Blocks.OvergrownFence",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.OvergrownFence",
+        "amount": 2
+    }],
+    "requires": [{
+        "type": "planks",
+        "amount": 1
+    }, {
+        "type": "leavestemperate",
+        "amount": 2
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}, {
+    "name": "Ulfric.ColonyAddOns.Blocks.Hedge",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.Hedge",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "leavestemperate",
+        "amount": 2
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}, {
+    "name": "Ulfric.ColonyAddOns.Blocks.BambooWall",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.BambooWall",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "planks",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}, {
+    "name": "Ulfric.ColonyAddOns.Blocks.FineSoil",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.FineSoil",
+        "amount": 2
+    }],
+    "requires": [{
+        "type": "dirt",
+        "amount": 5
+    }, {
+        "type": "straw",
+        "amount": 5
+    }, {
+        "type": "leavestemperate",
+        "amount": 5
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}]

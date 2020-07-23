@@ -1,0 +1,13 @@
+[{
+    "name": "Ulfric.ColonyAddOns.Blocks.Gravel",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.Gravel",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "stonebricks",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}]

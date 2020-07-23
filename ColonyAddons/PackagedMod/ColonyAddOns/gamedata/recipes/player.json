@@ -1,0 +1,65 @@
+﻿[{
+    "name": "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "logtaiga",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+},
+{
+    "name": "Ulfric.ColonyAddOns.Blocks.LogTaiga",
+    "results": [{
+        "type": "logtaiga",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+},
+{
+    "name": "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "logtemperate",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+},
+{
+    "name": "Ulfric.ColonyAddOns.Blocks.LogTemperate",
+    "results": [{
+        "type": "logtemperate",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+        "amount": 1
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+},
+{
+    "name": "Ulfric.ColonyAddOns.Blocks.PlayerPick",
+    "results": [{
+        "type": "Ulfric.ColonyAddOns.Blocks.PlayerPick",
+        "amount": 1
+    }],
+    "requires": [{
+        "type": "bronzepickaxe",
+        "amount": 3
+    }],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+}]

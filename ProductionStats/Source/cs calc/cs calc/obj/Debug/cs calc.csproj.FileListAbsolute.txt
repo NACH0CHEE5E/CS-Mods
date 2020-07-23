@@ -1,0 +1,6 @@
+C:\Users\mitch\source\repos\cs calc\cs calc\obj\Debug\cs calc.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\cs calc\cs calc\bin\Debug\cscalc.exe.config
+C:\Users\mitch\source\repos\cs calc\cs calc\bin\Debug\cscalc.exe
+C:\Users\mitch\source\repos\cs calc\cs calc\bin\Debug\cscalc.pdb
+C:\Users\mitch\source\repos\cs calc\cs calc\obj\Debug\cscalc.exe
+C:\Users\mitch\source\repos\cs calc\cs calc\obj\Debug\cscalc.pdb

@@ -1,0 +1,3983 @@
+{
+	"Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbench" : {
+		"categories" : ["job"],
+		"icon" : "./textures/icons/AdvancedAgricultureWorkbench.png",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbenchSides",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbenchTop"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench" : {
+		"categories" : ["job"],
+		"icon" : "./textures/icons/AdvancedStoneMasonryWorkbench.png",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.BrickWhite",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/AshySandstone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BambooWall" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/BambooWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogFence" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/BirchLogs.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogsHorz" : {
+		"icon" : "./textures/icons/BirchLogsHorz.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BirchLogsVert" : {
+		"icon" : "./textures/icons/BirchLogs.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackDirtGrungyMetal" : {
+		"icon" : "./textures/icons/BlackDirtGrungyMetal.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWood" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/BlackRottenWood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMud" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickAlternatingMud.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRough" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickBlackRough.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywood" : {
+		"categories" : ["decorative","ulfric","brick"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickBurlywood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChipped" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickGreenChipped.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLight" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickLight.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickRedBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubbly" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BricksBubbly.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhite" : {
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickWhite.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrown" : {
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrickworkWornBrown.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanel" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/BrownishGreenWoodPanel.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlaster" : {
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/BrownPlaster.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench" : {
+		"categories" : ["job"],
+		"icon" : "./textures/icons/CarpentryWorkbench.png",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.LightPaneling",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/CementLargeBlockWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ChiseledBlackStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/ChiseledBlackStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/CobbleStoneWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTiles" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/ConcreteBrickTiles.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTiles" : {
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/CorrodedTechnoTiles.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DarkWoodFrameTopAndBottom" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/DarkWoodFrameTopAndBottom.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DarkWoodStrapped" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/DarkWoodStrapped.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/DirtyLargeBlocksWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/DustyGreyStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyChiseledBlackStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/DustyGreyStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyCobblestoneWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FancyCobblestoneWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrick" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FancyGreyBrick.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabs" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FancyPavingSlabs.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FineSoil" : {
+		"categories" : ["decorative","ulfric","dirt"],
+		"customData" : {"fertilizervalue":0.5},
+		"isSolid": true,
+		"icon" : "./textures/icons/FineSoil.png",
+		"isFertile" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench" : {
+		"categories" : ["job"],
+		"icon" : "./textures/icons/FletcheryWorkbench.png",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "planks",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWood" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorBeigeWood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorBlueStainedBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricks" : {
+		"categories" : ["decorative","bricks"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FloorChippedBricks.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcrete" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FloorConcrete.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwood" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorDarkHardwood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringbone" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorDarkHerringbone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWood" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorDarkWood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorFadedBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorGougedBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoards" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorGrittyLongBoards.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorLightBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweave" : {
+		"categories" : ["decorative","wood"],
+		"icon" : "./textures/icons/FloorPinkBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTile" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorTile.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouse" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorTrinsicHouse.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/FloorTrinsicStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquet" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/FloorWoodParquet.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweave" : {
+		"categories" : ["decorative","bricks"],
+		"icon" : "./textures/icons/FloorWrinkledBasketweave.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechno" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/GraniteTechno.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/GraniteWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/Gravel.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/Gravel2.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/Gravel3.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/Gravel4.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkway" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/GreenGraniteWalkway.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSiding" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/GreenSiding.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/GreyStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/GreyStoneConcreteWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodFrameTopAndBottom" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/GreyWoodFrameTopAndBottom.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPins" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/GreyWoodPanelWithPins.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLava" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/HardenedLava.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Hedge" : {
+		"icon" : "./textures/icons/Hedge.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HeraldStand" : {
+		"categories" : ["job"],
+		"icon" : "./textures/icons/HeraldStand.png",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.HeraldStand"
+	},
+	"Ulfric.ColonyAddOns.Blocks.infiniteMarble" : {
+		"customData" : {"minerIsMineable":true,"minerMiningTime":10},
+		"destructionTime" : 1250,
+		"onRemoveAudio" : "stoneDelete",
+		"onRemoveType" : "Ulfric.ColonyAddOns.Blocks.rawMarble",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.infiniteWaterSource" : {
+		"customData" : {"minerIsMineable":true,"minerMiningTime":3},
+		"destructionTime" : 600,
+		"onRemoveAudio" : "stoneDelete",
+		"onRemoveType" : "Ulfric.ColonyAddOns.Blocks.WaterBucket",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoards" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/LightBoards.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPaneling" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/LightPaneling.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorz" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/LogTaigaHorz.png",
+		"isRotatable" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"rotatablex-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorzx-",
+		"rotatablex+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorzx+",
+		"rotatablez-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorzz-",
+		"rotatablez+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorzz+"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorzx-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorzx+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorzz-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidey-" : "logtaiga",
+		"sidey+" : "logtaiga",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.stumptaiga"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTaigaHorzz+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.LogTaigaHorz",
+		"sidey-" : "logtaiga",
+		"sidey+" : "logtaiga",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.stumptaiga",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.stumptaiga"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorz" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/LogTemperateHorz.png",
+		"isRotatable" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"rotatablex-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorzx-",
+		"rotatablex+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorzx+",
+		"rotatablez-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorzz-",
+		"rotatablez+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorzz+"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorzx-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorzx+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorzz-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidey-" : "logtemperate",
+		"sidey+" : "logtemperate",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.stumptemperate"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LogTemperateHorzz+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.LogTemperateHorz",
+		"sidey-" : "logtemperate",
+		"sidey+" : "logtemperate",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.stumptemperate",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.stumptemperate"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Magma" : {
+		"icon" : "./textures/icons/Magma.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoards" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/MahoganyBoards.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSiding" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MapleSiding.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Marble" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/marble.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlack" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBlack.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlood" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBlood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlue" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBlue.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrack" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBlueCrack.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurple" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBrightPurple.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirl" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleBrownSwirl.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldspar" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleButterscotchFeldspar.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGray" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleDarkGray.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreen" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleDarkGreen.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptian" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleEgyptian.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmerald" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleEmerald.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarine" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGlassyMarine.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrange" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGlassyOrange.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPink" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGlassyPink.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRed" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGlassyRed.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGray" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGray.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreen" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleGreen.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLight" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleLight.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreen" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleLightGreen.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPina" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleOnixPina.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurple" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarblePurple.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRough" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleRough.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPink" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleRoughPink.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreen" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleSeaGreen.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGray" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleSmashedGray.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGris" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleTepeacaGris.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleTile1.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTiles" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/MarbleTiles.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MetalReenforcedDarkWood" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/MetalReenforcedDarkWood.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShingles" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/NewShingles.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShingles" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/OldShingles.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoards" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/OldWeatheredBoards.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarble" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/OrangeMarble.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OvergrownFence" : {
+		"icon" : "./textures/icons/OvergrownFence.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PlayerPick" : {
+		"categories" : ["essential","tool"],
+		"icon" : "./textures/icons/PlayerPick.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 1
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlate" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/PurpleSlate.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.rawMarble" : {
+		"categories" : ["ingredient","raw"],
+		"icon" : "./textures/icons/rawMarble.png",
+		"isPlaceable" : false
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/RockWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/RoughBrownStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoards" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/ScratchedLightBoards.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ShrubCover" : {
+		"icon" : "./textures/icons/ShrubCover.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockDarkWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneBlockDarkWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneBlockRoughWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdged" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneBlocksWoodEdged.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWall" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneBrickWall.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnight" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneMidnight.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePath" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StonePath.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall1.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall2.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall3.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall4.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall5.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/StoneWall6.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStone" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"destructionTime" : 600,
+		"icon" : "./textures/icons/TanRoughStone.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WaterBucket" : {
+		"categories" : ["ingredient","raw"],
+		"customData" : {"hydrationvalue":5},
+		"icon" : "./textures/icons/WaterBucket.png",
+		"isPlaceable" : false
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodLogEnds" : {
+		"icon" : "./textures/icons/WoodLogEnds.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPile" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/WoodLogEnds.png",
+		"isRotatable" : true,
+		"maxStackSize" : 600,
+		"needsBase" : true,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"rotatablex-" : "Ulfric.ColonyAddOns.Blocks.WoodPilex-",
+		"rotatablex+" : "Ulfric.ColonyAddOns.Blocks.WoodPilex+",
+		"rotatablez-" : "Ulfric.ColonyAddOns.Blocks.WoodPilez-",
+		"rotatablez+" : "Ulfric.ColonyAddOns.Blocks.WoodPilez+"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPilex-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodPile",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPilex+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodPile",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPilez-" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodPile",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodPilez+" : {
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodPile",
+		"sidex-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidex+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsHorz",
+		"sidey-" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BirchLogsVert",
+		"sidez-" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds",
+		"sidez+" : "Ulfric.ColonyAddOns.Blocks.WoodLogEnds"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSiding" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/WoodSiding.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate1" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/Crate1.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate2" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/Crate2.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate3" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/Crate3.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Crate4" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/Crate4.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateDarkWood" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateDarkWood.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateMetalBlack" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateMetalBlack.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "vanilla.woodPlace",
+		"onRemoveAudio" : "vanilla.woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateMetalReenforcedDarkWood" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateMetalReenforcedDarkWood.png",
+		"isCrate" : true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBerry" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateBerry.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBread" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateBread.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateSlingBullet" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateSlingBullet.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateArrow" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateArrow.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateBolts" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateBolts.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateGunpowder" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateGunpowder.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateLeadBullet" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateLeadBullet.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CrateFlour" : {
+		"categories" : ["essential","decorative"],
+		"icon" : "./textures/icons/CrateFlour.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AppleSapling" : {
+		"categories" : [
+			"food",
+			"seed"
+		],
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#e36363"]
+		},
+		"icon" : "./textures/icons/AppleSapling.png",
+		"isSolid" : false,
+		"mesh" : "./../../../../meshes/sapling.ply",
+		"needsBase" : true,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "neutral"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LeavesApples" : {
+		"categories" : [
+			"decorative"
+		],
+		"icon" : "./textures/icons/LeavesApples.png",
+		"onRemove" : [
+			{"amount":1,"chance":0.6,"type":"leavestemperate"},
+			{"amount":1,"chance":0.1,"type":"Ulfric.ColonyAddOns.Blocks.AppleSapling"},
+			{"amount":1,"chance":0.3,"type":"Ulfric.ColonyAddOns.Blocks.Apple"}
+		],
+		"parentType" : "leaves",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Apple" : {
+		"categories" : [
+			"food"
+		],
+		"icon" : "./textures/icons/Apple.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"nutritionalValue" : 1
+	},
+	"Ulfric.ColonyAddOns.Blocks.ApplePie" : {
+		"categories" : [
+			"food"
+		],
+		"icon" : "./textures/icons/ApplePie.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"nutritionalValue" : 5
+	},
+	"Ulfric.ColonyAddOns.Blocks.AppleCider" : {
+		"categories" : [
+			"food"
+		],
+		"customData" : {"hydrationvalue":10},
+		"icon" : "./textures/icons/AppleCider.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+	},
+	"Ulfric.ColonyAddOns.Blocks.AppleBarrel": {
+        "icon" : "./textures/icons/AppleBarrel.png",
+        "onPlaceAudio": "woodPlace",
+        "onRemoveAudio": "woodDeleteLight",
+        "sideall": "SELF",
+        "npcLimit": 0,
+        "maxStackSize": 600,
+        "isRotatable": true,
+        "rotatablex+": "Ulfric.ColonyAddOns.Blocks.AppleBarrelx+",
+        "rotatablex-": "Ulfric.ColonyAddOns.Blocks.AppleBarrelx-",
+        "rotatablez+": "Ulfric.ColonyAddOns.Blocks.AppleBarrelz+",
+        "rotatablez-": "Ulfric.ColonyAddOns.Blocks.AppleBarrelz-",
+        "categories": [
+          "decorative",
+          "wood"
+    ]
+    },
+    "Ulfric.ColonyAddOns.Blocks.AppleBarrelx+": {
+        "parentType": "Ulfric.ColonyAddOns.Blocks.AppleBarrel",
+        "mesh": "./meshes/AppleBarrelx+.obj"
+    },
+    "Ulfric.ColonyAddOns.Blocks.AppleBarrelx-": {
+        "parentType": "Ulfric.ColonyAddOns.Blocks.AppleBarrel",
+        "mesh": "./meshes/AppleBarrelx-.obj"
+    },
+    "Ulfric.ColonyAddOns.Blocks.AppleBarrelz+": {
+        "parentType": "Ulfric.ColonyAddOns.Blocks.AppleBarrel",
+        "mesh": "./meshes/AppleBarrelz+.obj"
+    },
+    "Ulfric.ColonyAddOns.Blocks.AppleBarrelz-": {
+       "parentType": "Ulfric.ColonyAddOns.Blocks.AppleBarrel",
+       "mesh": "./meshes/AppleBarrelz-.obj"
+    },
+	"Ulfric.ColonyAddOns.Blocks.AppleBasket" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/AppleBasket.png",
+		"isCrate": true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BasketTop"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Basket" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/Basket.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BasketTop"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TaigaSapling" : {
+		"categories" : [
+			"food",
+			"seed"
+		],
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#e36363"]
+		},
+		"icon" : "./textures/icons/TaigaSapling.png",
+		"isSolid" : false,
+		"mesh" : "./../../../../meshes/sapling.ply",
+		"needsBase" : true,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "neutral"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CherryBasket" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"icon" : "./textures/icons/CherryBasket.png",
+		"isCrate": true,
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF",
+		"sidey+" : "Ulfric.ColonyAddOns.Blocks.BasketTop"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Cherry" : {
+		"categories" : [
+			"food"
+		],
+		"icon" : "./textures/icons/Cherry.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"nutritionalValue" : 1
+	},
+	"Ulfric.ColonyAddOns.Blocks.CherryPie" : {
+		"categories" : [
+			"food"
+		],
+		"icon" : "./textures/icons/CherryPie.png",
+		"isPlaceable" : false,
+		"maxStackSize" : 600,
+		"nutritionalValue" : 5
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab",
+		"icon" : "./textures/icons/AshySandstoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.AshySandstoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.AshySandstoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab",
+		"icon" : "./textures/icons/BlackRottenWoodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BlackRottenWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab",
+		"icon" : "./textures/icons/BrickAlternatingMudSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickAlternatingMudSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab",
+		"icon" : "./textures/icons/BrickBlackRoughSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickBlackRoughSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab",
+		"icon" : "./textures/icons/BrickBurlywoodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickBurlywoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab",
+		"icon" : "./textures/icons/BrickGreenChippedSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickGreenChippedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLightSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickLightSlab",
+		"icon" : "./textures/icons/BrickLightSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLightSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickLightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickLightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickLightSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickLightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickLightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab",
+		"icon" : "./textures/icons/BrickRedBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickRedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubblySlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BricksBubblySlab",
+		"icon" : "./textures/icons/BricksBubblySlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubblySlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BricksBubblySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BricksBubblySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BricksBubblySlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BricksBubblySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BricksBubblySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab",
+		"icon" : "./textures/icons/BrickWhiteSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhiteSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickWhiteSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickWhiteSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "BrickworkWornBrownSlab",
+		"icon" : "./textures/icons/BrickworkWornBrownSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrickworkWornBrownSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab",
+		"icon" : "./textures/icons/BrownishGreenWoodPanelSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrownishGreenWoodPanelSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab",
+		"icon" : "./textures/icons/BrownPlasterSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlasterSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.BrownPlasterSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.BrownPlasterSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab",
+		"icon" : "./textures/icons/CementLargeBlockWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CementLargeBlockWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "CobbleStoneWallSlab",
+		"icon" : "./textures/icons/CobbleStoneWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CobbleStoneWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab",
+		"icon" : "./textures/icons/ConcreteBrickTilesSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.ConcreteBrickTilesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab",
+		"icon" : "./textures/icons/CorrodedTechnoTilesSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab"
+	},
+	"CorrodedTechnoTilesSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.CorrodedTechnoTilesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "DirtyLargeBlocksWallSlab",
+		"icon" : "./textures/icons/DirtyLargeBlocksWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"DirtyLargeBlocksWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab"
+	},
+	"DirtyLargeBlocksWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.DirtyLargeBlocksWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab",
+		"icon" : "./textures/icons/DustyGreyStoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.DustyGreyStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab",
+		"icon" : "./textures/icons/FancyGreyBrickSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FancyGreyBrickSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab",
+		"icon" : "./textures/icons/FancyPavingSlabsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FancyPavingSlabsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab",
+		"icon" : "./textures/icons/FloorBeigeWoodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorBeigeWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab",
+		"icon" : "./textures/icons/FloorBlueStainedBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorBlueStainedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab",
+		"icon" : "./textures/icons/FloorChippedBricksSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorChippedBricksSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab",
+		"icon" : "./textures/icons/FloorConcreteSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcreteSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorConcreteSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorConcreteSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab",
+		"icon" : "./textures/icons/FloorDarkHardwoodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHardwoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab",
+		"icon" : "./textures/icons/FloorDarkHerringboneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkHerringboneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab",
+		"icon" : "./textures/icons/FloorDarkWoodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorDarkWoodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab",
+		"icon" : "./textures/icons/FloorFadedBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorFadedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab",
+		"icon" : "./textures/icons/FloorGougedBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorGougedBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab",
+		"icon" : "./textures/icons/FloorGrittyLongBoardsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorGrittyLongBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab",
+		"icon" : "./textures/icons/FloorLightBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorLightBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab" : {
+		"categories" : ["decorative","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab",
+		"icon" : "./textures/icons/FloorPinkBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorPinkBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTileSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorTileSlab",
+		"icon" : "./textures/icons/FloorTileSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTileSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTileSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTileSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTileSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTileSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTileSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab",
+		"icon" : "./textures/icons/FloorTrinsicHouseSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicHouseSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab",
+		"icon" : "./textures/icons/FloorTrinsicStoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorTrinsicStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab",
+		"icon" : "./textures/icons/FloorWoodParquetSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorWoodParquetSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab" : {
+		"categories" : ["decorative","bricks"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab",
+		"icon" : "./textures/icons/FloorWrinkledBasketweaveSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.FloorWrinkledBasketweaveSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab",
+		"icon" : "./textures/icons/GraniteTechnoSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GraniteTechnoSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GraniteWallSlab",
+		"icon" : "./textures/icons/GraniteWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GraniteWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GraniteWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GraniteWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GraniteWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GraniteWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.Gravel2Slab",
+		"icon" : "./textures/icons/Gravel2Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel2Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel2Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel2Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel2Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel2Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.Gravel3Slab",
+		"icon" : "./textures/icons/Gravel3Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel3Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel3Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel3Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel3Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel3Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.Gravel4Slab",
+		"icon" : "./textures/icons/Gravel4Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel4Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel4Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.Gravel4Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.Gravel4Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.Gravel4Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GravelSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GravelSlab",
+		"icon" : "./textures/icons/GravelSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GravelSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GravelSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GravelSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GravelSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GravelSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GravelSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab",
+		"icon" : "./textures/icons/GreenGraniteWalkwaySlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreenGraniteWalkwaySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSidingSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GreenSidingSlab",
+		"icon" : "./textures/icons/GreenSidingSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSidingSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreenSidingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreenSidingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreenSidingSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreenSidingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreenSidingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab",
+		"icon" : "./textures/icons/GreyStoneConcreteWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyStoneConcreteWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GreyStone",
+		"icon" : "./textures/icons/GreyStoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyStoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab",
+		"icon" : "./textures/icons/GreyWoodPanelWithPinsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.GreyWoodPanelWithPinsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab",
+		"icon" : "./textures/icons/HardenedLavaSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLavaSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.HardenedLavaSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.HardenedLavaSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoardsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.LightBoardsSlab",
+		"icon" : "./textures/icons/LightBoardsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoardsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LightBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.LightBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightBoardsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LightBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.LightBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPanelingSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.LightPanelingSlab",
+		"icon" : "./textures/icons/LightPanelingSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPanelingSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LightPanelingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.LightPanelingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.LightPanelingSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.LightPanelingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.LightPanelingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab",
+		"icon" : "./textures/icons/MahoganyBoardsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MahoganyBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSidingSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MapleSidingSlab",
+		"icon" : "./textures/icons/MapleSidingSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSidingSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MapleSidingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MapleSidingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MapleSidingSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MapleSidingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MapleSidingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab",
+		"icon" : "./textures/icons/MarbleBlackSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		 "sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlackSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlackSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlackSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab",
+		"icon" : "./textures/icons/MarbleBloodSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBloodSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBloodSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBloodSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab",
+		"icon" : "./textures/icons/MarbleBlueCrackSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueCrackSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab",
+		"icon" : "./textures/icons/MarbleBlueSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBlueSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBlueSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab",
+		"icon" : "./textures/icons/MarbleBrightPurpleSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBrightPurpleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab",
+		"icon" : "./textures/icons/MarbleBrownSwirlSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleBrownSwirlSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab",
+		"icon" : "./textures/icons/MarbleButterscotchFeldsparSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleButterscotchFeldsparSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab",
+		"icon" : "./textures/icons/MarbleDarkGraySlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab",
+		"icon" : "./textures/icons/MarbleDarkGreenSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleDarkGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab",
+		"icon" : "./textures/icons/MarbleEgyptianSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleEgyptianSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab",
+		"icon" : "./textures/icons/MarbleEmeraldSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleEmeraldSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab",
+		"icon" : "./textures/icons/MarbleGlassyMarineSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyMarineSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab",
+		"icon" : "./textures/icons/MarbleGlassyOrangeSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyOrangeSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab",
+		"icon" : "./textures/icons/MarbleGlassyPinkSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyPinkSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab",
+		"icon" : "./textures/icons/MarbleGlassyRedSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGlassyRedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGraySlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGraySlab",
+		"icon" : "./textures/icons/MarbleGraySlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGraySlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGraySlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab",
+		"icon" : "./textures/icons/MarbleGreenSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreenSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleGreenSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab",
+		"icon" : "./textures/icons/MarbleLightGreenSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleLightGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightSlab",
+		"icon" : "./textures/icons/MarbleLightSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleLightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleLightSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleLightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleLightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab",
+		"icon" : "./textures/icons/MarbleOnixPinaSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleOnixPinaSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab",
+		"icon" : "./textures/icons/MarblePurpleSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurpleSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarblePurpleSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarblePurpleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab",
+		"icon" : "./textures/icons/MarbleRoughPinkSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughPinkSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab",
+		"icon" : "./textures/icons/MarbleRoughSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleRoughSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleRoughSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab",
+		"icon" : "./textures/icons/MarbleSeaGreenSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSeaGreenSlab"
+	},
+    "Ulfric.ColonyAddOns.Blocks.MarbleSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleSlab",
+		"icon" : "./textures/icons/MarbleSlab.png",
+		"maxStackSize" : 600,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab",
+		"icon" : "./textures/icons/MarbleSmashedGraySlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleSmashedGraySlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab",
+		"icon" : "./textures/icons/MarbleTepeacaGrisSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTepeacaGrisSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab",
+		"icon" : "./textures/icons/MarbleTile1Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTile1Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTile1Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab",
+		"icon" : "./textures/icons/MarbleTilesSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTilesSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.MarbleTilesSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.MarbleTilesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShinglesSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.NewShinglesSlab",
+		"icon" : "./textures/icons/NewShinglesSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShinglesSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.NewShinglesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.NewShinglesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.NewShinglesSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.NewShinglesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.NewShinglesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShinglesSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.OldShinglesSlab",
+		"icon" : "./textures/icons/OldShinglesSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShinglesSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OldShinglesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OldShinglesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldShinglesSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OldShinglesSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OldShinglesSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab",
+		"icon" : "./textures/icons/OldWeatheredBoardsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OldWeatheredBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab",
+		"icon" : "./textures/icons/OrangeMarbleSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.OrangeMarbleSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab",
+		"icon" : "./textures/icons/PurpleSlateSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlateSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.PurpleSlateSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.PurpleSlateSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.RockWallSlab",
+		"icon" : "./textures/icons/RockWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.RockWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.RockWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RockWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.RockWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.RockWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab",
+		"icon" : "./textures/icons/RoughBrownStoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.RoughBrownStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab",
+		"icon" : "./textures/icons/ScratchedLightBoardsSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.ScratchedLightBoardsSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab",
+		"icon" : "./textures/icons/StoneBlockRoughWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBlockRoughWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab",
+		"icon" : "./textures/icons/StoneBlocksWoodEdgedSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBlocksWoodEdgedSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBricksSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "stoneBricks",
+		"icon" : "./textures/icons/StoneBricksSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "stonebricks"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBricksSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBricksSlab",
+		 "sideall" : "stonebricks"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBricksSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBricksSlab",
+		 "sideall" : "stonebricks"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab",
+		"icon" : "./textures/icons/StoneBrickWallSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneBrickWallSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab",
+		"icon" : "./textures/icons/StoneMidnightSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnightSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneMidnightSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneMidnightSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePathSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StonePathSlab",
+		"icon" : "./textures/icons/StonePathSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePathSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StonePathSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StonePathSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StonePathSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StonePathSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StonePathSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall1Slab",
+		"icon" : "./textures/icons/StoneWall1Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall1Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall1Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall1Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall1Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall1Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall2Slab",
+		"icon" : "./textures/icons/StoneWall2Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall2Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall2Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall2Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall2Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall2Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall3Slab",
+		"icon" : "./textures/icons/StoneWall3Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall3Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall3Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall3Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall3Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall3Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall4Slab",
+		"icon" : "./textures/icons/StoneWall4Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall4Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall4Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall4Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall4Slab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall4Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall5Slab",
+		"icon" : "./textures/icons/StoneWall5Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall5Slab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall5Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall5Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall5Slab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall5Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6Slab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.StoneWall6Slab",
+		"icon" : "./textures/icons/StoneWall6Slab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6Slabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall6Slab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall6Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.StoneWall6Slabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.StoneWall6Slab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.StoneWall6Slab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab" : {
+		"categories" : ["decorative","ulfric","stone"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab",
+		"icon" : "./textures/icons/TanRoughStoneSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.TanRoughStoneSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSidingSlab" : {
+		"categories" : ["decorative","ulfric","wood"],
+		"customData" : {"useHeightMap":true,"useNormalMap":true},
+		"fullblockType" : "Ulfric.ColonyAddOns.Blocks.WoodSidingSlab",
+		"icon" : "./textures/icons/WoodSidingSlab.png",
+		"maxStackSize" : 600,
+		"npcLimit" : 0,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "SELF"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSidingSlabbottom" : {
+		"colliders" : {"boxes":[{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}]},
+		"mesh": "./meshes/slabbottom.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodSidingSlab",
+		 "sideall" : "Ulfric.ColonyAddOns.Blocks.WoodSidingSlab"
+	},
+	"Ulfric.ColonyAddOns.Blocks.WoodSidingSlabtop" : {
+		"colliders" : {"boxes":[{"max":[0.5,0.5,0.5],"min":[-0.5,0,-0.5]}]},
+		"mesh": "./meshes/slabtop.obj",
+		"parentType" : "Ulfric.ColonyAddOns.Blocks.WoodSidingSlab",
+		"sideall" : "Ulfric.ColonyAddOns.Blocks.WoodSidingSlab"
+	}
+}

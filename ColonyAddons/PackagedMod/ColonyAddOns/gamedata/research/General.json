@@ -1,0 +1,121 @@
+[
+	{
+		"dependencies": [
+			"pipliz.baseresearch.herbfarming",
+            "pipliz.baseresearch.sciencebagadvanced"
+		],
+		"icon": "./../textures/icons/AdvancedAgricultureWorkbench.png",
+		"iterationCount": 12,
+		"iterationRequirements": [
+			{
+				"type": "coppertools",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key": "Ulfric.ColonyAddOns.Research.AdvancedAgricultureTraining",
+		"unlocksRecipeGroups": [
+			"Ulfric.ColonyAddOns.AdvancedAgriculture"
+		],
+		"unlocksRecipes": [
+			"Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbench"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.herbfarming",
+             "pipliz.baseresearch.sciencebagadvanced"
+		],
+		"icon": "./../textures/icons/AdvancedMerchantTraining.png",
+		"iterationCount": 12,
+		"iterationRequirements": [
+			{
+				"type": "coppertools",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key": "Ulfric.ColonyAddOns.Research.AdvancedMerchantTraining",
+		"unlocksRecipes": [
+			"Ulfric.ColonyAddOns.Blocks.Basket"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.stonemasonworkbench"
+		],
+		"icon": "./../textures/icons/AdvancedStoneMasonryTraining.png",
+		"iterationCount": 12,
+		"iterationRequirements": [
+			{
+				"type": "coppertools",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key": "Ulfric.ColonyAddOns.Research.AdvancedStoneMasonryTraining",
+		"unlocksRecipeGroups": [
+			"Ulfric.ColonyAddOns.AdvancedStoneMasonry"
+		],
+		"unlocksRecipes": [
+			"Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.splittingstump"
+		],
+		"icon": "./../textures/icons/CarpentryTraining.png",
+		"iterationCount": 12,
+		"iterationRequirements": [
+			{
+				"type": "coppertools",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key": "Ulfric.ColonyAddOns.Research.CarpentryTraining",
+		"unlocksRecipeGroups": [
+			"Ulfric.ColonyAddOns.Carpenter"
+		],
+		"unlocksRecipes": [
+			"Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench"
+		]
+	},
+	{
+		"dependencies": [
+			"pipliz.baseresearch.crossbow"
+		],
+		"icon": "./../textures/icons/FletcheryTraining1.png",
+		"iterationCount": 12,
+		"iterationRequirements": [
+			{
+				"type": "coppertools",
+				"amount": 2
+			},
+			{
+				"type": "sciencebagbasic",
+				"amount": 1
+			}
+		],
+		"key": "Ulfric.ColonyAddOns.Research.FletcheryTraining",
+		"unlocksRecipeGroups": [
+			"Ulfric.ColonyAddOns.Fletcher"
+		],
+		"unlocksRecipes": [
+			"Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench"
+		]
+	}
+]

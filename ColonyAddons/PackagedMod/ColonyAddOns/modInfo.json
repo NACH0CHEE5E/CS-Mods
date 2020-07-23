@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Ulfric.ColonyAddOns",
+    "version": "0.0.4.2",
+    "namepretty": "Colony Add Ons",
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.3"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "relativePath": "gamedata/textures/materials/textures.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "relativePath": "gamedata/types.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "relativePath": "gamedata/locale/en-US.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10000,
+        "relativePath": "gamedata/NPCTypes/NPCTypes.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10000,
+        "relativePath": "gamedata/JobBlocks/JobBlocks.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/General.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "workbench"
+        ],
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/pipliz.crafter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "shop"
+        ],
+        "npcType": "pipliz.merchant",
+        "relativePath": "gamedata/recipes/pipliz.merchant.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "furnacex+",
+          "furnacex-",
+          "furnacez+",
+          "furnacez-",
+          "furnacelitx+",
+          "furnacelitx-",
+          "furnacelitz+",
+          "furnacelitz-"
+        ],
+        "npcType": "pipliz.smelter",
+        "relativePath": "gamedata/recipes/pipliz.smelter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "stonemasonworkbench"
+        ],
+        "npcType": "pipliz.stonemason",
+        "relativePath": "gamedata/recipes/pipliz.stonemason.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "Ulfric.ColonyAddOns.Blocks.AdvancedAgricultureWorkbench"
+        ],
+        "npcType": "Ulfric.ColonyAddOns.AdvancedAgriculture",
+        "relativePath": "gamedata/recipes/Ulfric.ColonyAddOns.AdvancedAgriculture.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "Ulfric.ColonyAddOns.Blocks.AdvancedStoneMasonryWorkbench"
+        ],
+        "npcType": "Ulfric.ColonyAddOns.AdvancedStoneMasonry",
+        "relativePath": "gamedata/recipes/Ulfric.ColonyAddOns.AdvancedStoneMasonry.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "Ulfric.ColonyAddOns.Blocks.CarpentryWorkbench"
+        ],
+        "npcType": "Ulfric.ColonyAddOns.Carpenter",
+        "relativePath": "gamedata/recipes/Ulfric.ColonyAddOns.Carpenter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "limitsUIMapping": [
+          "Ulfric.ColonyAddOns.Blocks.FletcheryWorkbench"
+        ],
+        "npcType": "Ulfric.ColonyAddOns.Fletcher",
+        "relativePath": "gamedata/recipes/Ulfric.ColonyAddOns.Fletcher.json"
+      }
+    ]
+  }
+]
