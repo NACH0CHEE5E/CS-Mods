@@ -13,8 +13,8 @@ Dependencies: N/A
 ## [Colony Manager](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ColonyManager/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ColonyManager)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056399773)  
-Updated: Unkown.  
-Status: To be checked.  
+Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Status: Active Develpment.  
 Dependencies: N/A  
 
 ## [Decor](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Decor/ReadMe.md)
