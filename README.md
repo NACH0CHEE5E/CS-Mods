@@ -41,8 +41,8 @@ Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colou
 ## [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Jobs)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056408583)  
-Updated: Unkown.  
-Status: To be checked.  
+Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Status: Active Develpment.  
 Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)  
 
 ## [Job Training](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/JobTraining/ReadMe.md)
