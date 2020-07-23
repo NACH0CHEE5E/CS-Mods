@@ -16,3 +16,10 @@ Dependencies: N/A
 Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
 Maintained: Currently still being worked on.  
 Dependencies: N/A  
+
+## [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Blocks/ReadMe.md)
+[Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)  
+[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056396874)  
+Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Maintained: Currently still being worked on.  
+Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours)
