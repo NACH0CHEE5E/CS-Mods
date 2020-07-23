@@ -1,0 +1,21 @@
+[
+	{
+		"name": "NACH0.Player.PaintersTable",
+		"requires": [{
+			"type": "planks"
+		},
+		{
+			"amount": 1,
+			"type": "NACH0.Types.RedPaint"
+		},
+		{
+			"type": "NACH0.Types.BluePaint"
+		},
+		{
+			"type": "NACH0.Types.YellowPaint"
+		}],
+		"results": [{
+			"type": "NACH0.Types.PaintersTable"
+		}]
+	}
+]

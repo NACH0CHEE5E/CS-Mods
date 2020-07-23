@@ -1,0 +1,212 @@
+{
+	"NACH0.Types.AquaPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"aqua",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/AquaPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BlackPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"black",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/BlackPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BluePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"blue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/BluePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BrownPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"brown",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/BrownPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkBluePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"darkblue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/DarkBluePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkGreenPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"darkgreen",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/DarkGreenPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GoldPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"gold",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/GoldPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GreenPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"green",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/GreenPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GreyPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"grey",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/GreyPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightBluePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"lightblue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/LightBluePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightGreyPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"lightgrey",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/LightGreyPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightPinkPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"lightpink",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/LightPinkPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.MagentaPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"magenta",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/MagentaPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.OrangePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"orange",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/OrangePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.PinkPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"pink",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/PinkPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.PurplePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"purple",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/PurplePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.RedPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"red",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/RedPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.WhitePaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"white",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/WhitePaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.YellowPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"yellow",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/YellowPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkRedPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"darkred",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/DarkRedPaint.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightBrownPaint": {
+		"categories": [
+			"ingredient",
+			"paint",
+			"lightbrown",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Paint/LightBrownPaint.png",
+		"isPlaceable": false
+	}
+}

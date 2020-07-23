@@ -1,0 +1,463 @@
+[{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.AquaPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.AquaDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.AquaPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BlackPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlackDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BlackPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BluePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BluePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkGreenPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkGreenPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GreenPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.GreenDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GreenPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GreyPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GreyPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightBluePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.LightBlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightBluePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightGreyPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightGreyPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.OrangePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.OrangeDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.OrangePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.PinkPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.PinkDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.PinkPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.PurplePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.PurpleDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.PurplePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.RedPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.RedPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.WhitePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.WhitePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.YellowPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.YellowPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GoldPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.GoldDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GoldPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BrownPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BrownDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BrownPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.MagentaPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.MagentaPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightPinkPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightPinkPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkBluePaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkBluePaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkRedPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkRedPaint"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightBrownPaint",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownDye"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			},
+			{
+				"amount": 3,
+				"type": "lead"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightBrownPaint"
+		}]
+	}
+]

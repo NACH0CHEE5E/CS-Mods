@@ -1,0 +1,94 @@
+[
+	{
+		"dependencies" : [
+			"NACH0.Research.PaintMixer"
+		],
+		"icon" : "./../../../../../textures/icons/dyertable.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{
+				"type":"sciencebagbasic"
+			},
+			{
+				"type":"NACH0.Types.MagentaDye"
+			}
+		],
+		"key" : "pipliz.baseresearch.dyertable",
+		"unlocksRecipeGroups" : [
+			"pipliz.dyer"
+		],
+		"unlocksRecipes" : [
+			"pipliz.crafter.dyertable",
+			"pipliz.player.dyertable"
+		]
+	},
+	{
+		"dependencies" : [
+			"NACH0.Research.PaintersTable"
+		],
+		"icon" : "./../../../../../textures/icons/lanternyellow.png",
+		"iterationCount" : 5,
+		"iterationRequirements" : [
+			{"amount":5,"type":"sciencebagbasic"},
+			{"type":"ironrivet"},
+			{"type":"crystal"}
+		],
+		"key" : "pipliz.baseresearch.lantern",
+		"unlocksRecipes" : [
+			"pipliz.metalsmith.lanternyellow",
+			"NACH0.Painter.lanterncyan",
+			"NACH0.Painter.BlackLantern",
+			"NACH0.Painter.lanternblue",
+			"NACH0.Painter.BrownLantern",
+			"NACH0.Painter.DarkGreenLantern",
+			"NACH0.Painter.lanterngreen",
+			"NACH0.Painter.GreyLantern",
+			"NACH0.Painter.LightGreyLantern",
+			"NACH0.Painter.LightBlueLantern",
+			"NACH0.Painter.MagentaLantern",
+			"NACH0.Painter.DarkBlueLantern",
+			"NACH0.Painter.lanternorange",
+			"NACH0.Painter.lanternpink",
+			"NACH0.Painter.PurpleLantern",
+			"NACH0.Painter.lanternred",
+			"NACH0.Painter.lanternwhite",
+			"NACH0.Painter.GoldLantern",
+			"NACH0.Painter.LightPinkLantern",
+			"NACH0.Painter.LightBrownLantern",
+			"NACH0.Painter.DarkRedLantern"
+		]
+	},
+	{
+		"dependencies" : [
+			"pipliz.baseresearch.constructiondigger",
+			"pipliz.baseresearch.stonemasonworkbench",
+			"NACH0.Research.PaintersTable"
+		],
+		"icon" : "./../../../../../textures/icons/bricksred.png",
+		"iterationCount" : 50,
+		"iterationRequirements" : [
+			{"type":"sciencebagbasic"},
+			{"amount":5,"type":"stoneblock"},
+			{"amount":5,"type":"cobblestonegrey"},
+			{"amount":5,"type":"bricksred"}
+		],
+		"key" : "pipliz.baseresearch.constructionbuilder"
+	},
+	{
+		"dependencies" : [
+			"NACH0.Research.PaintersTable"
+		],
+		"icon" : "./../../../../../textures/icons/quarterblockwhite.png",
+		"iterationCount" : 10,
+		"iterationRequirements" : [
+			{"type":"sciencebagbasic"},
+			{"type":"gypsum"},
+			{"type":"charcoal"}
+		],
+		"key" : "pipliz.baseresearch.quarterblockdyer",
+		"unlocksRecipes" : [
+			"NACH0.Painter.quarterblockblack",
+			"NACH0.Painter.quarterblockwhite"
+		]
+	}
+]

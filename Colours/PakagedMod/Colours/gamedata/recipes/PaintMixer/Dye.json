@@ -1,0 +1,384 @@
+[
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.AquaDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.LightBlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.AquaDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BlackDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			},
+			{
+				"amount": 5,
+				"type": "charcoal"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BlackDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BlueDye",
+		"requires": [{
+				"amount": 5,
+				"type": "alkanet"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BlueDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkGreenDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.GreenDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.DarkGreenDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GreenDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.GreenDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GreyDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlackDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.GreyDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightBlueDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.LightBlueDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightGreyDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.LightGreyDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.OrangeDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.OrangeDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.PinkDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.PinkDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.PurpleDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.PurpleDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.RedDye",
+		"requires": [{
+				"amount": 5,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.RedDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.WhiteDye",
+		"requires": [{
+				"amount": 10,
+				"type": "gypsum"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.WhiteDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.YellowDye",
+		"requires": [{
+				"amount": 5,
+				"type": "wolfsbane"
+			},
+			{
+				"amount": 1,
+				"type": "bucketwater"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.YellowDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.BrownDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			}
+		],
+		"results": [{
+			"amount": 3,
+			"type": "NACH0.Types.BrownDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.MagentaDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.PurpleDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.MagentaDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.GoldDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.GoldDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightPinkDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.PinkDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.LightPinkDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkBlueDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.DarkBlueDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.DarkRedDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.DarkRedDye"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": 0,
+		"name": "NACH0.Recipes.LightBrownDye",
+		"requires": [{
+				"amount": 1,
+				"type": "NACH0.Types.BrownDye"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhiteDye"
+			}
+		],
+		"results": [{
+			"amount": 2,
+			"type": "NACH0.Types.LightBrownDye"
+		}]
+	}
+]

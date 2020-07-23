@@ -1,0 +1,24 @@
+[
+	{
+		"defaultLimit" : 1,
+		"defaultPriority" : -100,
+		"name" : "pipliz.crafter.dyertable",
+		"requires" : [
+			{
+			"type":"coatedplanks"
+			},
+			{
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"type": "NACH0.Types.YellowDye"
+			}
+		],
+		"results" : [
+			{"type":"dyertable"}
+		]
+	}
+]

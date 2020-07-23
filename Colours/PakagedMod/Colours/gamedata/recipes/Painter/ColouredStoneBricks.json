@@ -1,0 +1,462 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.stonebricksbrown",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "stonebricksbrown"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.stonebricksblack",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "stonebricksblack"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.stonebrickswhite",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhitePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "stonebrickswhite"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.AquaStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.AquaStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlueStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlueStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BrownStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BrownStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkBlueStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkBlueStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkGreenStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkGreenStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreenStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreenStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreyStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreyStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBlueStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBlueStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightGreyStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightGreyStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightPinkStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightPinkStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.MagentaStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.MagentaStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.OrangeStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.OrangeStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PinkStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PinkStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PurpleStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurplePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PurpleStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.RedStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.RedStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.YellowStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.YellowStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBrownStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBrownStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkRedStoneBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "stonebricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkRedStoneBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

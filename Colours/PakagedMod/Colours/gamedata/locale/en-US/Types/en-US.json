@@ -1,0 +1,10 @@
+{
+	"types": {
+		"NACH0.Types.PaintersTable": "Painters Table",
+		"NACH0.Types.PaintMixer": "Paint Mixer"
+	},
+	"typeuses": {
+		"NACH0.Types.PaintersTable": "Paints",
+		"NACH0.Types.PaintMixer": "Makes paint related stuff"
+	}
+}

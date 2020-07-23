@@ -1,0 +1,43 @@
+[
+	{
+		"dependencies": [
+			"pipliz.baseresearch.ironsmelting",
+			"pipliz.baseresearch.herbfarming"
+		],
+		"icon": "./../textures/icons/PaintMixer.png",
+		"iterationCount": 10,
+		"iterationRequirements": [{
+			"type": "sciencebagbasic",
+			"amount": 1
+		}],
+		"key": "NACH0.Research.PaintMixer",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.PaintMixer"
+		],
+		"unlocksRecipes": [
+			"NACH0.metalsmith.PaintMixer"
+		]
+	},
+	{
+		"dependencies": [
+			"NACH0.Research.PaintMixer"
+		],
+		"icon": "./../textures/icons/PaintersTable.png",
+		"iterationCount": 10,
+		"iterationRequirements": [{
+				"type": "sciencebagbasic"
+			},
+			{
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"key": "NACH0.Research.PaintersTable",
+		"unlocksRecipeGroups": [
+			"NACH0.Jobs.Painter"
+		],
+		"unlocksRecipes": [
+			"NACH0.crafter.PaintersTable",
+			"NACH0.Player.PaintersTable"
+		]
+	}
+]

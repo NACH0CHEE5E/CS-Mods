@@ -1,0 +1,17 @@
+[
+	{
+		"typeName": "NACH0.Types.PaintMixer",
+		"baseType": {
+			"categories": [
+				"job"
+			],
+			"destructionTime": 800,
+			"icon": "./../textures/icons/PaintMixer.png",
+			"onPlaceAudio": "stoneDelete",
+			"onRemoveAudio": "stonePlace",
+			"sideall": "ironblock"
+		},
+		"generateType": "rotateBlock",
+		"sideFrontUnlit": "NACH0.Textures.PaintMixer"
+	}
+]

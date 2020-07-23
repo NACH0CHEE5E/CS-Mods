@@ -1,0 +1,22 @@
+[
+	{
+		"name" : "pipliz.player.dyertable",
+		"requires" : [
+			{
+			"type":"coatedplanks"
+			},
+			{
+				"type": "NACH0.Types.RedDye"
+			},
+			{
+				"type": "NACH0.Types.BlueDye"
+			},
+			{
+				"type": "NACH0.Types.YellowDye"
+			}
+		],
+		"results" : [
+			{"type":"dyertable"}
+		]
+	}
+]

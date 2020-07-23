@@ -1,0 +1,298 @@
+{
+	"NACH0.Types.AquaStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"aqua",
+			"standard"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/AquaStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#00FFFF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.BlueStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/BlueStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#0026FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.BrownStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/BrownStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#782300",
+		"destructionTime": 600
+	},
+	"NACH0.Types.DarkBlueStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/DarkBlueStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#2b344f",
+		"destructionTime": 600
+	},
+	"NACH0.Types.DarkGreenStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/DarkGreenStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#007F0E",
+		"destructionTime": 600
+	},
+	"NACH0.Types.GreenStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/GreenStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#4CFF00",
+		"destructionTime": 600
+	},
+	"NACH0.Types.GreyStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/GreyStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#404040",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightBlueStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/LightBlueStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#0094FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightGreyStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/LightGreyStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#808080",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightPinkStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/LightPinkStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#f99eb4",
+		"destructionTime": 600
+	},
+	"NACH0.Types.MagentaStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/MagentaStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#FF006E",
+		"destructionTime": 600
+	},
+	"NACH0.Types.OrangeStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/OrangeStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#FF6A00",
+		"destructionTime": 600
+	},
+	"NACH0.Types.PinkStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/PinkStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#FF00DC",
+		"destructionTime": 600
+	},
+	"NACH0.Types.PurpleStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/PurpleStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#4800FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.RedStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/RedStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#FF0000",
+		"destructionTime": 600
+	},
+	"NACH0.Types.YellowStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/YellowStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#FFD800",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightBrownStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/LightBrownStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#807767",
+		"destructionTime": 600
+	},
+	"NACH0.Types.DarkRedStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/ColouredStoneBricks/DarkRedStoneBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "stonebricksgeneric",
+		"color": "#761f1f",
+		"destructionTime": 600
+	}
+}

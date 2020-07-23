@@ -1,0 +1,274 @@
+[
+  {
+	"enableddefault" : false,
+    "name": "NACH0.Colours",
+    "version": "1.0.4",
+    "namepretty": "NACH0's Colours",
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1",
+	  "0.7.2",
+	  "0.7.3"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": 10000,
+        "relativePath": "gamedata/textures/materials/texturemapping.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/ColouredBlocks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/ColouredBricks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/ColouredCobblestone.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/ColouredPlanks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/ColouredStoneBricks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/Dye.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/JobBlocks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/Paint.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/Carpet.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types/Lanterns.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10000,
+        "relativePath": "gamedata/NPCTypes/NPCTypes.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10000,
+        "relativePath": "gamedata/JobBlocks/JobBlocks.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredBlocks/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/Carpet/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredBricks/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredBricks/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredCobblestone/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredPlanks/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/ColouredStoneBricks/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/Dye/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/Lanterns/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/Paint/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/Types/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10000,
+        "relativePath": "gamedata/locale/en-US/en-US.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.PaintMixerx+",
+          "NACH0.Types.PaintMixerx-",
+          "NACH0.Types.PaintMixerz+",
+          "NACH0.Types.PaintMixerz-"
+        ],
+        "npcType": "NACH0.Jobs.PaintMixer",
+        "relativePath": "gamedata/recipes/PaintMixer/Dye.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.PaintMixer",
+        "relativePath": "gamedata/recipes/PaintMixer/Paint.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "limitsUIMapping": [
+          "NACH0.Types.PaintersTable"
+        ],
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/ColouredBlocks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/ColouredBricks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/ColouredCobblestone.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/ColouredPlanks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/ColouredStoneBricks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/Lanterns.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/Other.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.dyer",
+        "relativePath": "gamedata/recipes/Dyer/Carpet.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/General.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/Hidden.json"
+      },
+      {
+        "fileType": "addOrOverrideScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/Override.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": 10000,
+        "relativePath": "gamedata/types/RotatableJobBlocks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter/General.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter/Override.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10000,
+        "npcType": "pipliz.metalsmithjob",
+        "relativePath": "gamedata/recipes/MetalSmith.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 10000,
+        "relativePath": "gamedata/recipes/Player/Override.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": 10000,
+        "relativePath": "gamedata/recipes/Player/General.json"
+      },
+      {
+        "fileType": "overrideTypeProperties",
+        "index": 15000,
+        "relativePath": "gamedata/types/Overrides.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

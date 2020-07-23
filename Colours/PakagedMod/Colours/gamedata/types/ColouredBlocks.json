@@ -1,0 +1,303 @@
+{
+	"NACH0.Types.AquaBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/AquaBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#00FFFF"
+	},
+	"NACH0.Types.BlackBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/BlackBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "(0, 0, 0)"
+	},
+	"NACH0.Types.BlueBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/BlueBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#0026FF"
+	},
+	"NACH0.Types.BrownBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/BrownBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#782300"
+	},
+	"NACH0.Types.DarkBlueBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/DarkBlueBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#2b344f"
+	},
+	"NACH0.Types.DarkGreenBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/DarkGreenBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#007F0E"
+	},
+	"NACH0.Types.GoldBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/GoldBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#8d5f38"
+	},
+	"NACH0.Types.GreenBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/GreenBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#4CFF00"
+	},
+	"NACH0.Types.GreyBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/GreyBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#404040"
+	},
+	"NACH0.Types.LightBlueBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/LightBlueBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#0094FF"
+	},
+	"NACH0.Types.LightGreyBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/LightGreyBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#808080"
+	},
+	"NACH0.Types.LightPinkBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/LightPinkBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#f99eb4"
+	},
+	"NACH0.Types.MagentaBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/MagentaBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FF006E"
+	},
+	"NACH0.Types.OrangeBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/OrangeBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FF6A00"
+	},
+	"NACH0.Types.PinkBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/PinkBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FF00DC"
+	},
+	"NACH0.Types.PurpleBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/PurpleBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#4800FF"
+	},
+	"NACH0.Types.RedBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/RedBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FF0000"
+	},
+	"NACH0.Types.WhiteBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/WhiteBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FFFFFF"
+	},
+	"NACH0.Types.YellowBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/YellowBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#FFD800"
+	},
+	"NACH0.Types.LightBrownBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/LightBrownBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#807767"
+	},
+	"NACH0.Types.DarkRedBlock": {
+		"categories": [
+			"decorative",
+			"block",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/ColouredBlocks/DarkRedBlock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "neutral",
+		"color": "#761f1f"
+	}
+}

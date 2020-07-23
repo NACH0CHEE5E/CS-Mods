@@ -1,0 +1,21 @@
+[
+	{
+		"defaultLimit": 1,
+		"name": "NACH0.metalsmith.PaintMixer",
+		"requires": [{
+				"type": "ironblock"
+			},
+			{
+				"type": "ironingot"
+			},
+			{
+				"amount": 10,
+				"type": "bronzeplate"
+			}
+		],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.PaintMixer"
+		}]
+	}
+]

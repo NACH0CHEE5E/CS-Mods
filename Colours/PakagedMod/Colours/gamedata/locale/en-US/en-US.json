@@ -1,0 +1,34 @@
+{
+	"sentences": {
+		"popup": {
+			"limits": {
+				"NACH0": {
+					"Jobs": {
+						"PaintMixer": "Paint Mixer limits",
+						"Painter": "Painters Table limits"
+					}
+				}
+			}
+		},
+		"pipliz": {
+			"baseresearch": {
+				"dyertable": {
+					"description": "Unlocks the dyer table, dyes things.",
+					"name": "Dyers Table"
+				}
+			}
+		},
+		"NACH0": {
+			"Research": {
+				"PaintMixer": {
+					"description": "Unlocks the paint mixer, which makes paint related stuff.",
+					"name": "Paint Mixer"
+				},
+				"PaintersTable": {
+					"description": "Unlocks the painters table, paints things.",
+					"name": "Painters Table"
+				}
+			}
+		}
+	}
+}

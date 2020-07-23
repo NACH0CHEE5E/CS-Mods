@@ -1,0 +1,245 @@
+{
+	"NACH0.Types.AquaBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/ColouredBricks/AquaBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#00FFFF"
+	},
+	"NACH0.Types.BlackBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/ColouredBricks/BlackBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "(50, 50, 50)"
+	},
+	"NACH0.Types.BlueBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/ColouredBricks/BlueBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "(0, 0, 255)"
+	},
+	"NACH0.Types.DarkBlueBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/ColouredBricks/DarkBlueBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#2b344f"
+	},
+	"NACH0.Types.DarkGreenBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/ColouredBricks/DarkGreenBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#007F0E"
+	},
+	"NACH0.Types.GreenBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/ColouredBricks/GreenBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#4CFF00"
+	},
+	"NACH0.Types.LightBlueBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/ColouredBricks/LightBlueBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#0094FF"
+	},
+	"NACH0.Types.LightGreyBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/ColouredBricks/LightGreyBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#808080"
+	},
+	"NACH0.Types.LightPinkBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/ColouredBricks/LightPinkBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#f99eb4"
+	},
+	"NACH0.Types.MagentaBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/ColouredBricks/MagentaBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#FF006E"
+	},
+	"NACH0.Types.OrangeBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/ColouredBricks/OrangeBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#FF6A00"
+	},
+	"NACH0.Types.PinkBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/ColouredBricks/PinkBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#FF00DC"
+	},
+	"NACH0.Types.PurpleBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/ColouredBricks/PurpleBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#4800FF"
+	},
+	"NACH0.Types.WhiteBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/ColouredBricks/WhiteBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric"
+	},
+	"NACH0.Types.YellowBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/ColouredBricks/YellowBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#FFD800"
+	},
+	"NACH0.Types.LightBrownBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/ColouredBricks/LightBrownBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#807767"
+	},
+	"NACH0.Types.RedBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/ColouredBricks/RedBricks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "bricksgeneric",
+		"color": "#FF0000"
+	}
+}

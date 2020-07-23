@@ -1,0 +1,462 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.RedBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.RedBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreenBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"type": "NACH0.Types.GreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreenBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.AquaBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.AquaBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlueBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlueBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.YellowBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.YellowBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PinkBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PinkBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightGreyBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightGreyBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreyBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreyBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBlueBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBlueBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkBlueBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkBlueBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PinkBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PinkBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GoldBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GoldBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlackBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlackBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BrownBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BrownBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkGreenBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkGreenBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.MagentaBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.MagentaBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.OrangeBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.OrangeBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PurpleBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurplePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PurpleBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.WhiteBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhitePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.WhiteBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBrownBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBrownBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkRedBlock",
+		"requires": [{
+				"amount": 5,
+				"type": "plasterblock"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkRedBlock"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

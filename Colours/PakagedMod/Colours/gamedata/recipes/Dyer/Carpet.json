@@ -1,0 +1,402 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetblue",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.BlueDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"carpetblue"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetyellow",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.YellowDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"carpetyellow"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.dyer.carpetred",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.RedDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"carpetred"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.LightGreyCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.LightGreyDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.LightGreyCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.GreyCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.GreyDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.GreyCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.AquaCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.AquaDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.AquaCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.BlackCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.BlackDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.BlackCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.BrownCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.BrownDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.BrownCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.DarkGreenCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.DarkGreenDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.DarkGreenCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.GreenCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.GreenDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.GreenCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.LightBlueCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.LightBlueDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.LightBlueCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.MagentaCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.MagentaDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.MagentaCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.OrangeCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.OrangeDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.OrangeCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.PinkCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.PinkDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.PinkCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.PurpleCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.PurpleDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.PurpleCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.GoldCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.GoldDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.GoldCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.LightPinkCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.LightPinkDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.LightPinkCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.DarkBlueCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.DarkBlueDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.DarkBlueCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.LightBrownCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.LightBrownDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.LightBrownCarpet"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.dyer.DarkRedCarpet",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"carpetwhite"
+			},
+			{
+				"amount":1,
+				"type":"NACH0.Types.DarkRedDye"
+			}
+		],
+		"results" : [
+			{
+				"amount":5,
+				"type":"NACH0.Types.DarkRedCarpet"
+			}
+		]
+	}
+]

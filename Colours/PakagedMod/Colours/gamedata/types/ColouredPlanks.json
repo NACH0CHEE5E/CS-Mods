@@ -1,0 +1,202 @@
+{
+	"NACH0.Types.BlackPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/BlackPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#232323"		
+	},
+	"NACH0.Types.BrownPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/BrownPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#782300"		
+	},
+	"NACH0.Types.DarkBluePlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/DarkBluePlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#2b344f"		
+	},
+	"NACH0.Types.DarkGreenPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/DarkGreenPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#007F0E"		
+	},
+	"NACH0.Types.GoldPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/GoldPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#8d5f38"		
+	},
+	"NACH0.Types.GreyPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/GreyPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#404040"		
+	},
+	"NACH0.Types.LightBluePlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/LightBluePlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#0094FF"		
+	},
+	"NACH0.Types.MagentaPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/MagentaPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#FF006E"		
+	},
+	"NACH0.Types.OrangePlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/OrangePlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#FF6A00"		
+	},
+	"NACH0.Types.PinkPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/PinkPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#FF00DC"		
+	},
+	"NACH0.Types.PurplePlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/PurplePlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#4800FF"		
+	},
+	"NACH0.Types.WhitePlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/WhitePlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric"		
+	},
+	"NACH0.Types.LightBrownPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/LightBrownPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#807767"		
+	},
+	"NACH0.Types.DarkRedPlanks": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/ColouredPlanks/DarkRedPlanks.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planksgeneric",
+		"color": "#761f1f"		
+	}
+}

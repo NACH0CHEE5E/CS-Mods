@@ -1,0 +1,290 @@
+{
+	"bricksblack": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"grey"
+		],
+		"maxStackSize": 200
+	},
+	"bricksdarkred": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"brown"
+		],
+		"maxStackSize": 200
+	},
+	"bricksdarkyellow": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"gold"
+		],
+		"maxStackSize": 200
+	},
+	"bricksred": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"maxStackSize": 200
+	},
+	"carpetblue": {
+		"categories": [
+			"decorative",
+			"carpet",
+			"coloured",
+			"blue"
+		],
+		"maxStackSize": 200
+	},
+	"carpetred": {
+		"categories": [
+			"decorative",
+			"carpet",
+			"coloured",
+			"red"
+		],
+		"maxStackSize": 200
+	},
+	"carpetwhite": {
+		"categories": [
+			"decorative",
+			"carpet",
+			"coloured",
+			"white"
+		],
+		"maxStackSize": 200
+	},
+	"carpetyellow": {
+		"categories": [
+			"decorative",
+			"carpet",
+			"coloured",
+			"yellow"
+		],
+		"maxStackSize": 200
+	},
+	"lanternblue": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"blue"
+		],
+		"maxStackSize": 200
+	},
+	"lanterncyan": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"aqua"
+		],
+		"maxStackSize": 200
+	},
+	"lanterngreen": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"green"
+		],
+		"maxStackSize": 200
+	},
+	"lanternorange": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"orange"
+		],
+		"maxStackSize": 200
+	},
+	"lanternpink": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"pink"
+		],
+		"maxStackSize": 200
+	},
+	"lanternred": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"red"
+		],
+		"maxStackSize": 200
+	},
+	"lanternwhite": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"white"
+		],
+		"maxStackSize": 200
+	},
+	"lanternyellow": {
+		"categories": [
+			"decorative",
+			"lantern",
+			"coloured",
+			"yellow"
+		],
+		"maxStackSize": 200
+	},
+	"planksblue": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"blue"
+		],
+		"maxStackSize": 200
+	},
+	"plankscyan": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"aqua"
+		],
+		"maxStackSize": 200
+	},
+	"planksgreen": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"green"
+		],
+		"maxStackSize": 200
+	},
+	"planksgrey": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"maxStackSize": 200
+	},
+	"plankspink": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"maxStackSize": 200
+	},
+	"planksred": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"red"
+		],
+		"maxStackSize": 200
+	},
+	"planksyellow": {
+		"categories": [
+			"decorative",
+			"planks",
+			"coloured",
+			"yellow"
+		],
+		"maxStackSize": 200
+	},
+	"stonebricksblack": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"black"
+		],
+		"maxStackSize": 200
+	},
+	"stonebricksbrown": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"gold"
+		],
+		"maxStackSize": 200
+	},
+	"stonebrickswhite": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"stone",
+			"coloured",
+			"white"
+		],
+		"maxStackSize": 200
+	},
+	"cobblestoneblack": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"black"
+		],
+		"maxStackSize": 200
+	},
+	"cobblestoneblue": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"maxStackSize": 200
+	},
+	"cobblestonebrown": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"maxStackSize": 200
+	},
+	"cobblestonegrey": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"white"
+		],
+		"maxStackSize": 200
+	},
+	"cobblestonered": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"maxStackSize": 200
+	}
+}

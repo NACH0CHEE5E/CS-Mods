@@ -1,0 +1,23 @@
+[
+	{
+		"defaultLimit": 1,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.PaintersTable",
+		"requires": [{
+			"type": "planks"
+		},
+		{
+			"amount": 1,
+			"type": "NACH0.Types.RedPaint"
+		},
+		{
+			"type": "NACH0.Types.BluePaint"
+		},
+		{
+			"type": "NACH0.Types.YellowPaint"
+		}],
+		"results": [{
+			"type": "NACH0.Types.PaintersTable"
+		}]
+	}
+]

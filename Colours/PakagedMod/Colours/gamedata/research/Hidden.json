@@ -1,0 +1,38 @@
+[
+	{
+		"key": "NACH0.Research.Hidden",
+		"icon": "./../textures/icons/NoIcon.png",
+		"requiredScienceBiome" : "sciencebiome.Hidden",
+		"unlocksRecipes": [
+			"pipliz.dyer.quarterblockblack",
+			"pipliz.dyer.quarterblockwhite",
+			"pipliz.dyer.planksred",
+			"pipliz.dyer.planksgreen",
+			"pipliz.dyer.plankscyan",
+			"pipliz.dyer.planksblue",
+			"pipliz.dyer.planksyellow",
+			"pipliz.dyer.plankspink",
+			"pipliz.dyer.planksgrey",
+			"pipliz.dyer.redplanks",
+			"pipliz.dyer.blackplanks",
+			"pipliz.dyer.stonebrickswhite",
+			"pipliz.dyer.stonebricksblack",
+			"pipliz.dyer.lanternwhite",
+			"pipliz.dyer.lanterngreen",
+			"pipliz.dyer.lanternblue",
+			"pipliz.dyer.lanternred",
+			"pipliz.dyer.lanternorange",
+			"pipliz.dyer.lanterncyan",
+			"pipliz.dyer.lanternpink",
+			"pipliz.dyer.cobblestonered",
+			"pipliz.stonemason.bricksdarkred",
+			"pipliz.stonemason.bricksblack",
+			"pipliz.stonemason.bricksdarkyellow",
+			"pipliz.stonemason.bricksred",
+			"pipliz.stonemason.cobblestoneblack",
+			"pipliz.stonemason.cobblestoneblue",
+			"pipliz.stonemason.stonebricksbrown",
+			"pipliz.stonemason.cobblestonebrown"
+		]
+	}
+]

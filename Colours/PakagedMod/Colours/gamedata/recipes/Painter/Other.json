@@ -1,0 +1,72 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Painter.quarterblockblack",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"quarterblockgrey"
+			},
+			{
+				"type":"NACH0.Types.BlackPaint"
+			}
+		],
+		"results" : [
+			{"amount":5,"type":"quarterblockblack"},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Painter.quarterblockwhite",
+		"requires" : [
+			{
+				"amount":5,
+				"type":"quarterblockgrey"
+			},
+			{
+				"type":"NACH0.Types.WhitePaint"
+			}
+		],
+		"results" : [
+			{"amount":5,"type":"quarterblockwhite"},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Painter.redplanks",
+		"requires" : [
+			{"amount":5,"type":"coatedplanks"},
+			{"amount":1,"type":"NACH0.Types.RedPaint"}
+		],
+		"results" : [
+			{"amount":5,"type":"redplanks"},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Painter.blackplanks",
+		"requires" : [
+			{"amount":5,"type":"coatedplanks"},
+			{"amount":1,"type":"NACH0.Types.BlackPaint"}
+		],
+		"results" : [
+			{"amount":5,"type":"blackplanks"},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

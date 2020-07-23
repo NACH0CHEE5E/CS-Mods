@@ -1,0 +1,212 @@
+{
+	"NACH0.Types.AquaDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"aqua",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/AquaDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BlackDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"black",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/BlackDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BlueDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"blue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/BlueDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.BrownDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"brown",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/BrownDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkBlueDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"darkblue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/DarkBlueDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkGreenDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"darkgreen",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/DarkGreenDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GoldDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"gold",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/GoldDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GreenDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"green",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/GreenDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.GreyDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"grey",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/GreyDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightBlueDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"lightblue",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/LightBlueDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightGreyDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"lightgrey",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/LightGreyDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightPinkDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"lightpink",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/LightPinkDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.MagentaDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"magenta",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/MagentaDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.OrangeDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"orange",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/OrangeDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.PinkDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"pink",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/PinkDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.PurpleDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"pruple",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/PurpleDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.RedDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"red",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/RedDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.WhiteDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"white",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/WhiteDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.YellowDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"yellow",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/YellowDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.DarkRedDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"darkred",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/DarkRedDye.png",
+		"isPlaceable": false
+	},
+	"NACH0.Types.LightBrownDye": {
+		"categories": [
+			"ingredient",
+			"dye",
+			"lightbrown",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dye/LightBrownDye.png",
+		"isPlaceable": false
+	}
+}

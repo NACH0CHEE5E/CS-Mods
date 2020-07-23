@@ -1,0 +1,89 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.cobblestonered",
+		"requires": [{
+				"amount": 5,
+				"type": "cobblestonegrey"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "cobblestonered"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.cobblestoneblack",
+		"requires": [{
+				"amount": 5,
+				"type": "cobblestonegrey"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "cobblestoneblack"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.cobblestoneblue",
+		"requires": [{
+				"amount": 5,
+				"type": "cobblestonegrey"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "cobblestoneblue"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.cobblestonebrown",
+		"requires": [{
+				"amount": 5,
+				"type": "cobblestonegrey"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "cobblestonebrown"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

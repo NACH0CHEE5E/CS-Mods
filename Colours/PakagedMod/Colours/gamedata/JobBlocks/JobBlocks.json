@@ -1,0 +1,16 @@
+[
+	{
+		"blockType" : "NACH0.Types.PaintMixer",
+		"cooldown" : 7,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "NACH0.Jobs.PaintMixer"
+	},
+	{
+		"blockType" : "NACH0.Types.PaintersTable",
+		"cooldown" : 7,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "NACH0.Jobs.Painter"
+	}
+]

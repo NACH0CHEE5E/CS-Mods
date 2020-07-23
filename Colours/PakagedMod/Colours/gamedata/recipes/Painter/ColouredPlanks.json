@@ -1,0 +1,462 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.planksred",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "planksred"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.planksgreen",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"type": "NACH0.Types.GreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "planksgreen"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.plankscyan",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "plankscyan"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.planksblue",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "planksblue"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.planksyellow",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "planksyellow"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.plankspink",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "plankspink"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.planksgrey",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "planksgrey"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreyPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreyPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBluePlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBluePlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkBluePlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkBluePlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PinkPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PinkPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GoldPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GoldPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlackPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlackPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BrownPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BrownPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkGreenPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkGreenPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.MagentaPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.MagentaPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.OrangePlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.OrangePlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PurplePlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurplePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PurplePlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.WhitePlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhitePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.WhitePlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBrownPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBrownPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkRedPlanks",
+		"requires": [{
+				"amount": 5,
+				"type": "planks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkRedPlanks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

@@ -1,0 +1,463 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.bricksdarkred",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "bricksdarkred"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.bricksblack",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "bricksblack"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.bricksdarkyellow",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "bricksdarkyellow"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.bricksred",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "bricksred"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightGreyBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightGreyBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkBlueBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkBlueBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.AquaBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.AquaBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlueBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlueBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlackBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlackBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkGreenBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkGreenBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreenBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreenBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBlueBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBlueBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.MagentaBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.MagentaBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.OrangeBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.OrangeBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PinkBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PinkBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.WhiteBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhitePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.WhiteBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PurpleBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurplePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PurpleBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.YellowBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.YellowBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightPinkBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightPinkBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBrownBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBrownBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.RedBricks",
+		"requires": [{
+				"amount": 5,
+				"type": "bricks"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.RedBricks"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

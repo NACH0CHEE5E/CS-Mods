@@ -1,0 +1,441 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanterncyan",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaPaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanterncyan"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BlackLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BlackLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanternblue",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BluePaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanternblue"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.BrownLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.BrownLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkGreenLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkGreenLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanterngreen",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreenPaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanterngreen"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GreyLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GreyLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightGreyLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightGreyLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBlueLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBlueLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.MagentaLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.MagentaLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkBlueLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBluePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkBlueLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanternorange",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangePaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanternorange"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanternpink",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanternpink"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.PurpleLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurplePaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.PurpleLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanternred",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedPaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanternred"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.lanternwhite",
+		"requires": [{
+				"amount": 1,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.WhitePaint"
+			}
+		],
+		"results": [{
+				"amount": 1,
+				"type": "lanternwhite"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.GoldLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.GoldLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightPinkLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightPinkLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.LightBrownLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.LightBrownLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.Painter.DarkRedLantern",
+		"requires": [{
+				"amount": 5,
+				"type": "lanternyellow"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedPaint"
+			}
+		],
+		"results": [{
+				"amount": 5,
+				"type": "NACH0.Types.DarkRedLantern"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	}
+]

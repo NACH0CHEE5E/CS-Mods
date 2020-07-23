@@ -1,0 +1,246 @@
+{
+	"NACH0.Types.AquaCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/AquaCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#00FFFF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.BlueCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/BlueCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#0026FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.BrownCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/BrownCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#782300",
+		"destructionTime": 600
+	},
+	"NACH0.Types.DarkGreenCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/DarkGreenCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#007F0E",
+		"destructionTime": 600
+	},
+	"NACH0.Types.GoldCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/GoldCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#8d5f38",
+		"destructionTime": 600
+	},
+	"NACH0.Types.GreenCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/GreenCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#4CFF00",
+		"destructionTime": 600
+	},
+	"NACH0.Types.GreyCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/GreyCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#404040",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightBlueCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/LightBlueCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#0094FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightGreyCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/LightGreyCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#808080",
+		"destructionTime": 600
+	},
+	"NACH0.Types.LightPinkCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/LightPinkCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#f99eb4",
+		"destructionTime": 600
+	},
+	"NACH0.Types.MagentaCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/MagentaCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#FF006E",
+		"destructionTime": 600
+	},
+	"NACH0.Types.OrangeCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/OrangeCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#FF6A00",
+		"destructionTime": 600
+	},
+	"NACH0.Types.PinkCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/PinkCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#FF00DC",
+		"destructionTime": 600
+	},
+	"NACH0.Types.PurpleCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/PurpleCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#4800FF",
+		"destructionTime": 600
+	},
+	"NACH0.Types.RedCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/RedCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#FF0000",
+		"destructionTime": 600
+	},
+	"NACH0.Types.YellowCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/ColouredCobblestone/YellowCobblestone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "cobblestone",
+		"color": "#FFD800",
+		"destructionTime": 600
+	}
+}

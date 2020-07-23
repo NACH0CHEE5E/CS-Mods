@@ -1,0 +1,13 @@
+{
+	"NACH0.Types.PaintersTable": {
+		"categories": [
+			"job",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/PaintersTable.png",
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "planks",
+		"sidey+": "NACH0.Textures.PaintersTable"
+	}
+}
