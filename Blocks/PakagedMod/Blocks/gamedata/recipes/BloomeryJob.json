@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.bloomery.MagmaBlock1",
+		"requires" : [
+			{
+				"amount":10,
+				"type":"stoneblock"
+			},
+			{
+				"amount": 2,
+				"type":"cokes"
+			}
+		],
+		"results" : [
+			{
+				"amount":10,
+				"type":"NACH0.Types.MagmaBlock1"
+			}
+		]
+	}
+]

@@ -1,0 +1,82 @@
+{
+	"NACH0.Types.CrackedStoneBricks2": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CrackedStoneBricks2.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.CrackedStoneBricks2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.MossyStoneBricks2": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/MossyStoneBricks2.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.MossyStoneBricks2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PossessedStoneBricks": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/PossessedStoneBricks.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.PossessedStoneBricks",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.StoneBricks1": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/StoneBricks1.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.StoneBricks1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.StoneBricks2": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/StoneBricks2.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.StoneBricks2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.StoneSlabs": {
+		"categories": [
+			"decorative",
+			"bricks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/StoneSlabs.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.StoneSlabsSides",
+		"sidey+": "NACH0.Textures.StoneSlabsTop",
+		"sidey-": "NACH0.Textures.StoneSlabsTop",
+		"destructionTime" : 350
+	}
+}

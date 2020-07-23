@@ -1,0 +1,62 @@
+{
+	"NACH0.Types.Grass1": {
+		"categories": [
+			"decorative",
+			"grass",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Grass1.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Grass1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Grass1Sided": {
+		"categories": [
+			"decorative",
+			"grass",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Grass1Sided.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Grass1Side",
+		"sidey+": "NACH0.Textures.Grass1",
+		"sidey-": "NACH0.Textures.Dirt1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Grass2": {
+		"categories": [
+			"decorative",
+			"grass",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Grass2.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Grass2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Grass2Sided": {
+		"categories": [
+			"decorative",
+			"grass",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Grass2Sided.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Grass2Side",
+		"sidey+": "NACH0.Textures.Grass2",
+		"sidey-": "NACH0.Textures.Dirt2",
+		"destructionTime" : 350
+	}
+}

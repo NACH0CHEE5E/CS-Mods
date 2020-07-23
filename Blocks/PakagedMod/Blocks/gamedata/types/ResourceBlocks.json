@@ -1,0 +1,170 @@
+{
+	"NACH0.Types.Cactus1": {
+		"categories": [
+			"decorative",
+			"plant",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Cactus1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Cactus1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.ClayBlock1": {
+		"categories": [
+			"decorative",
+			"clay",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/ClayBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.ClayBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.CoalBlock1": {
+		"categories": [
+			"decorative",
+			"coal",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CoalBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.CoalBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.CrystalBlock1": {
+		"categories": [
+			"decorative",
+			"crystal",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CrystalBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.CrystalBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DiamondBlock1": {
+		"categories": [
+			"decorative",
+			"diamond",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/DiamondBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.DiamondBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GoldBlock1": {
+		"categories": [
+			"decorative",
+			"gold",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/GoldBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.GoldBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Gravel1": {
+		"categories": [
+			"decorative",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Gravel1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Gravel1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.HayBlock1": {
+		"categories": [
+			"decorative",
+			"straw",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/HayBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.HayBlock1Sides",
+		"sidey+": "NACH0.Textures.HayBlock1TopBottom",
+		"sidey-": "NACH0.Textures.HayBlock1TopBottom",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.IronBlock1": {
+		"categories": [
+			"decorative",
+			"iron",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/IronBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.IronBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.MagmaBlock1": {
+		"categories": [
+			"decorative",
+			"magma",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/MagmaBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.MagmaBlock1",
+		"destructionTime" : 350,
+		"isSolid" : false,
+		"mesh": "./../../../PlaceableWater/gamedata/cube.obj",
+		"customData": {
+			"useHeightMap": true,
+			"useNormalMap": true
+		}
+	},
+	"NACH0.Types.SteelBlock1": {
+		"categories": [
+			"decorative",
+			"steel",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/SteelBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.SteelBlock1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.CheeseBlock1": {
+		"categories": [
+			"food",
+			"edible",
+			"decorative",
+			"cheese",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/CheeseBlock1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.CheeseBlock1",
+		"destructionTime" : 350,
+		"dailyFoodFractionOptimal" : 0.26,
+		"foodValue" : 0.4,
+		"happiness" : 16
+	}
+}

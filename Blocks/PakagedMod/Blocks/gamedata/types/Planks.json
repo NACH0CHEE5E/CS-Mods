@@ -1,0 +1,80 @@
+{
+	"NACH0.Types.Planks1": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Planks2": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks2.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Planks3": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks3.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks3",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Planks4": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks4.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks4",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Planks5": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks5.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks5",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Planks6": {
+		"categories": [
+			"decorative",
+			"planks",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Planks6.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.Planks6",
+		"destructionTime" : 350
+	}
+}

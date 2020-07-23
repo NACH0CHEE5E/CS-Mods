@@ -1,0 +1,497 @@
+{
+	"NACH0.Types.BlackSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/SuperLanterns/BlackSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#282828",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#282828",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.BlueSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/SuperLanterns/BlueSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#4f5fff",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#4f5fff",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.AquaSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/SuperLanterns/AquaSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#3bc1bf",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#3bc1bf",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.GreenSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/SuperLanterns/GreenSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#56ad4a",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#56ad4a",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.OrangeSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/SuperLanterns/OrangeSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#e66f27",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#e66f27",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.PinkSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/SuperLanterns/PinkSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#d233a6",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#d233a6",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.RedSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/SuperLanterns/RedSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#d33030",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#d33030",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.WhiteSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/SuperLanterns/WhiteSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#a7a7a7",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#a7a7a7",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.YellowSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/SuperLanterns/YellowSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#997b45",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#997b45",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.BrownSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/SuperLanterns/BrownSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#782300",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#782300",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.DarkBlueSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/SuperLanterns/DarkBlueSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#2b344f",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#2b344f",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.DarkGreenSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/SuperLanterns/DarkGreenSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#007F0E",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#007F0E",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.GoldSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/SuperLanterns/GoldSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#8d5f38",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#8d5f38",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.GreySuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/SuperLanterns/GreySuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#404040",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#404040",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.LightBlueSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/SuperLanterns/LightBlueSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#0094FF",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#0094FF",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.LightGreySuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/SuperLanterns/LightGreySuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#808080",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#808080",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+	},
+	"NACH0.Types.LightPinkSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/SuperLanterns/LightPinkSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#f99eb4",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#f99eb4",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+
+	},
+	"NACH0.Types.MagentaSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/SuperLanterns/MagentaSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#FF006E",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#FF006E",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+
+	},
+	"NACH0.Types.PurpleSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/SuperLanterns/PurpleSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#4800FF",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#4800FF",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+
+	},
+	"NACH0.Types.LightBrownSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/SuperLanterns/LightBrownSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#807767",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#807767",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+
+	},
+	"NACH0.Types.DarkRedSuperLantern": {
+		"categories": [
+			"decorative","lantern","super",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/SuperLanterns/DarkRedSuperLantern.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteLight",
+		"sideall": "NACH0.Textures.SuperLantern",
+		"color": "#761f1f",
+		"customData": {
+			"torches": {
+				"a": {
+					"color": "#761f1f",
+					"intensity": 18,
+					"range": 32,
+					"volume": 0.5
+				}
+			}
+		}
+
+	}
+}

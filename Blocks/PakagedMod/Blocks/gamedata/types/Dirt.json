@@ -1,0 +1,90 @@
+{
+	"NACH0.Types.Dirt1": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dirt1.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Dirt2": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dirt2.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Dirt3": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dirt3.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt3",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Dirt3Sided": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Dirt3Sided.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt3Sides",
+		"sidey+": "NACH0.Textures.Dirt3",
+		"sidey-": "NACH0.Textures.Dirt2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Farmland1": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Farmland1.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt2",
+		"sidey+": "NACH0.Textures.Farmland1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.WetFarmland1": {
+		"categories": [
+			"decorative",
+			"dirt",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/WetFarmland1.png",
+		"isFertile": true,
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Dirt2",
+		"sidey+": "NACH0.Textures.WetFarmland1",
+		"destructionTime" : 350
+	}
+}

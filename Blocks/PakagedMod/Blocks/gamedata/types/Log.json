@@ -1,0 +1,278 @@
+{
+	"NACH0.Types.Log1": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log1TopBottom",
+		"sidey-": "NACH0.Textures.Log1TopBottom",
+		"sideall": "NACH0.Textures.Log1Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log1Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log1Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log1Tippedx",
+		"rotatablex+": "NACH0.Types.Log1Tippedx",
+		"rotatablez-": "NACH0.Types.Log1Tippedz",
+		"rotatablez+": "NACH0.Types.Log1Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log1Tippedx": {
+		"parentType": "NACH0.Types.Log1Tipped",
+		"sidex-": "NACH0.Textures.Log1TopBottom",
+		"sidex+": "NACH0.Textures.Log1TopBottom",
+		"sideall": "NACH0.Textures.Log1Sides"
+	},
+	"NACH0.Types.Log1Tippedz": {
+		"parentType": "NACH0.Types.Log1Tipped",
+		"sidez-": "NACH0.Textures.Log1TopBottom",
+		"sidez+": "NACH0.Textures.Log1TopBottom",
+		"sideall": "NACH0.Textures.Log1Sides"
+	},
+	"NACH0.Types.Log2": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log2.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log2TopBottom",
+		"sidey-": "NACH0.Textures.Log2TopBottom",
+		"sideall": "NACH0.Textures.Log2Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log2Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log2Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log2Tippedx",
+		"rotatablex+": "NACH0.Types.Log2Tippedx",
+		"rotatablez-": "NACH0.Types.Log2Tippedz",
+		"rotatablez+": "NACH0.Types.Log2Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log2Tippedx": {
+		"parentType": "NACH0.Types.Log2Tipped",
+		"sidex-": "NACH0.Textures.Log2TopBottom",
+		"sidex+": "NACH0.Textures.Log2TopBottom",
+		"sideall": "NACH0.Textures.Log2Sides"
+	},
+	"NACH0.Types.Log2Tippedz": {
+		"parentType": "NACH0.Types.Log2Tipped",
+		"sidez-": "NACH0.Textures.Log2TopBottom",
+		"sidez+": "NACH0.Textures.Log2TopBottom",
+		"sideall": "NACH0.Textures.Log2Sides"
+	},
+	"NACH0.Types.Log3": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log3.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log3TopBottom",
+		"sidey-": "NACH0.Textures.Log3TopBottom",
+		"sideall": "NACH0.Textures.Log3Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log3Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log3Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log3Tippedx",
+		"rotatablex+": "NACH0.Types.Log3Tippedx",
+		"rotatablez-": "NACH0.Types.Log3Tippedz",
+		"rotatablez+": "NACH0.Types.Log3Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log3Tippedx": {
+		"parentType": "NACH0.Types.Log3Tipped",
+		"sidex-": "NACH0.Textures.Log3TopBottom",
+		"sidex+": "NACH0.Textures.Log3TopBottom",
+		"sideall": "NACH0.Textures.Log3Sides"
+	},
+	"NACH0.Types.Log3Tippedz": {
+		"parentType": "NACH0.Types.Log3Tipped",
+		"sidez-": "NACH0.Textures.Log3TopBottom",
+		"sidez+": "NACH0.Textures.Log3TopBottom",
+		"sideall": "NACH0.Textures.Log3Sides"
+	},
+	"NACH0.Types.Log4": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log4.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log4TopBottom",
+		"sidey-": "NACH0.Textures.Log4TopBottom",
+		"sideall": "NACH0.Textures.Log4Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log4Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log4Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log4Tippedx",
+		"rotatablex+": "NACH0.Types.Log4Tippedx",
+		"rotatablez-": "NACH0.Types.Log4Tippedz",
+		"rotatablez+": "NACH0.Types.Log4Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log4Tippedx": {
+		"parentType": "NACH0.Types.Log4Tipped",
+		"sidex-": "NACH0.Textures.Log4TopBottom",
+		"sidex+": "NACH0.Textures.Log4TopBottom",
+		"sideall": "NACH0.Textures.Log4Sides"
+	},
+	"NACH0.Types.Log4Tippedz": {
+		"parentType": "NACH0.Types.Log4Tipped",
+		"sidez-": "NACH0.Textures.Log4TopBottom",
+		"sidez+": "NACH0.Textures.Log4TopBottom",
+		"sideall": "NACH0.Textures.Log4Sides"
+	},
+	"NACH0.Types.Log5": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log5.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log5TopBottom",
+		"sidey-": "NACH0.Textures.Log5TopBottom",
+		"sideall": "NACH0.Textures.Log5Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log5Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log5Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log5Tippedx",
+		"rotatablex+": "NACH0.Types.Log5Tippedx",
+		"rotatablez-": "NACH0.Types.Log5Tippedz",
+		"rotatablez+": "NACH0.Types.Log5Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log5Tippedx": {
+		"parentType": "NACH0.Types.Log5Tipped",
+		"sidex-": "NACH0.Textures.Log5TopBottom",
+		"sidex+": "NACH0.Textures.Log5TopBottom",
+		"sideall": "NACH0.Textures.Log5Sides"
+	},
+	"NACH0.Types.Log5Tippedz": {
+		"parentType": "NACH0.Types.Log5Tipped",
+		"sidez-": "NACH0.Textures.Log5TopBottom",
+		"sidez+": "NACH0.Textures.Log5TopBottom",
+		"sideall": "NACH0.Textures.Log5Sides"
+	},
+	"NACH0.Types.Log6": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log6.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"sidey+": "NACH0.Textures.Log6TopBottom",
+		"sidey-": "NACH0.Textures.Log6TopBottom",
+		"sideall": "NACH0.Textures.Log6Sides",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log6Tipped": {
+		"categories": [
+			"decorative",
+			"log",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Log6Tipped.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "woodPlace",
+		"onRemoveAudio": "woodDeleteHeavy",
+		"isRotatable": true,
+		"isSolid": true,
+		"needsBase": false,
+		"rotatablex-": "NACH0.Types.Log6Tippedx",
+		"rotatablex+": "NACH0.Types.Log6Tippedx",
+		"rotatablez-": "NACH0.Types.Log6Tippedz",
+		"rotatablez+": "NACH0.Types.Log6Tippedz",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Log6Tippedx": {
+		"parentType": "NACH0.Types.Log6Tipped",
+		"sidex-": "NACH0.Textures.Log6TopBottom",
+		"sidex+": "NACH0.Textures.Log6TopBottom",
+		"sideall": "NACH0.Textures.Log6Sides"
+	},
+	"NACH0.Types.Log6Tippedz": {
+		"parentType": "NACH0.Types.Log6Tipped",
+		"sidez-": "NACH0.Textures.Log6TopBottom",
+		"sidez+": "NACH0.Textures.Log6TopBottom",
+		"sideall": "NACH0.Textures.Log6Sides"
+	}
+}

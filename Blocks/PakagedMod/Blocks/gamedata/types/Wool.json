@@ -1,0 +1,324 @@
+{
+	"NACH0.Types.AquaWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/Wool/AquaWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#00FFFF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BlackWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/Wool/BlackWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "(50, 50, 50)",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BlueWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/Wool/BlueWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#0026FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BrownWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/Wool/BrownWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#782300",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkBlueWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/Wool/DarkBlueWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#2b344f",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkGreenWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/Wool/DarkGreenWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#007F0E",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GoldWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/Wool/GoldWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#8d5f38",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GreenWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/Wool/GreenWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#4CFF00",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GreyWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/Wool/GreyWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#404040",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightBlueWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/Wool/LightBlueWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#0094FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightGreyWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/Wool/LightGreyWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#808080",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightPinkWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/Wool/LightPinkWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#f99eb4",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.MagentaWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/Wool/MagentaWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FF006E",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.OrangeWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/Wool/OrangeWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FF6A00",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PinkWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/Wool/PinkWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FF00DC",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PurpleWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/Wool/PurpleWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#4800FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.RedWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/Wool/RedWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FF0000",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Wool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/Wool/Wool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FFFFFF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.YellowWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/Wool/YellowWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#FFD800",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightBrownWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/Wool/LightBrownWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#807767",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkRedWool": {
+		"categories": [
+			"decorative",
+			"wool",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/Wool/DarkRedWool.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "dirtPlace",
+		"sideall": "NACH0.Textures.WoolGeneric",
+		"color": "#761f1f",
+		"destructionTime" : 350
+	}
+}

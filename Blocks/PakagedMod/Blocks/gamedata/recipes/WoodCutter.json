@@ -1,0 +1,98 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks1",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log1"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks1"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks2",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log2"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks2"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks3",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log3"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks3"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks4",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log4"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks4"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks5",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log5"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks5"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.woodcutter.Planks6",
+		"requires" : [
+			{
+				"amount":1,
+				"type":"NACH0.Types.Log6"
+			}
+		],
+		"results" : [
+			{
+				"amount":4,
+				"type":"NACH0.Types.Planks6"
+			}
+		]
+	}
+]

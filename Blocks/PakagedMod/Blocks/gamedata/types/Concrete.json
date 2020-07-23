@@ -1,0 +1,344 @@
+{
+	"NACH0.Types.AquaConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"aqua"
+		],
+		"icon": "./../textures/icons/Concrete/AquaConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#00FFFF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BlackConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"black"
+		],
+		"icon": "./../textures/icons/Concrete/BlackConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "(50, 50, 50)",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BlueConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"blue"
+		],
+		"icon": "./../textures/icons/Concrete/BlueConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#0026FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.BrownConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"brown"
+		],
+		"icon": "./../textures/icons/Concrete/BrownConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#782300",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkBlueConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"blue",
+			"darkblue"
+		],
+		"icon": "./../textures/icons/Concrete/DarkBlueConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#2b344f",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkGreenConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"green",
+			"darkgreen"
+		],
+		"icon": "./../textures/icons/Concrete/DarkGreenConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#007F0E",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GoldConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"gold"
+		],
+		"icon": "./../textures/icons/Concrete/GoldConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#8d5f38",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GreenConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"green"
+		],
+		"icon": "./../textures/icons/Concrete/GreenConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#4CFF00",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.GreyConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"grey"
+		],
+		"icon": "./../textures/icons/Concrete/GreyConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#404040",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightBlueConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"blue",
+			"lightblue"
+		],
+		"icon": "./../textures/icons/Concrete/LightBlueConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#0094FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightGreyConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"grey",
+			"lightgrey"
+		],
+		"icon": "./../textures/icons/Concrete/LightGreyConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#808080",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightPinkConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"pink",
+			"lightpink"
+		],
+		"icon": "./../textures/icons/Concrete/LightPinkConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#f99eb4",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.MagentaConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"magenta"
+		],
+		"icon": "./../textures/icons/Concrete/MagentaConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#FF006E",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.OrangeConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"orange"
+		],
+		"icon": "./../textures/icons/Concrete/OrangeConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#FF6A00",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PinkConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"pink"
+		],
+		"icon": "./../textures/icons/Concrete/PinkConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#FF00DC",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PurpleConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"purple"
+		],
+		"icon": "./../textures/icons/Concrete/PurpleConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#4800FF",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.RedConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"red"
+		],
+		"icon": "./../textures/icons/Concrete/RedConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#FF0000",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Concrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"white"
+		],
+		"icon": "./../textures/icons/Concrete/Concrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.YellowConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"yellow"
+		],
+		"icon": "./../textures/icons/Concrete/YellowConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#FFD800",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.LightBrownConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"brown",
+			"lightbrown"
+		],
+		"icon": "./../textures/icons/Concrete/LightBrownConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#807767",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.DarkRedConcrete": {
+		"categories": [
+			"decorative",
+			"concrete",
+			"standard",
+			"coloured",
+			"red",
+			"darkred"
+		],
+		"icon": "./../textures/icons/Concrete/DarkRedConcrete.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.ConcreteGeneric",
+		"color": "#761f1f",
+		"destructionTime" : 350
+	}
+}

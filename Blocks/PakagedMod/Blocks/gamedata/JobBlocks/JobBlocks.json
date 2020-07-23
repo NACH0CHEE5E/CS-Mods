@@ -1,0 +1,9 @@
+[
+	{
+		"blockType" : "NACH0.Types.Freezer",
+		"cooldown" : 15,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 2,
+		"npcType" : "NACH0.Jobs.Freezer"
+	}
+]

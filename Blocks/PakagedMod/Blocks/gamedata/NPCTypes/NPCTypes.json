@@ -1,0 +1,10 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#261789"
+		},
+		"keyName" : "NACH0.Jobs.Freezer",
+		"npcType" : "worker",
+		"printName" : "Freezer"
+	}
+]

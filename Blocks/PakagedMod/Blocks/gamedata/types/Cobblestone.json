@@ -1,0 +1,28 @@
+{
+	"NACH0.Types.Cobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Cobblestone.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.Cobblestone",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.MossyCobblestone": {
+		"categories": [
+			"decorative",
+			"cobblestone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/MossyCobblestone.png",
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"maxStackSize": 200,
+		"sideall": "NACH0.Textures.MossyCobblestone",
+		"destructionTime" : 350
+	}
+}

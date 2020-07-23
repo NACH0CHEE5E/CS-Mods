@@ -1,0 +1,341 @@
+[{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.BlueWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlueDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.BlueWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.YellowWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.YellowDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.YellowWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.RedWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.RedDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.RedWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.LightGreyWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightGreyDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.LightGreyWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.GreyWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreyDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.GreyWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.AquaWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.AquaDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.AquaWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.BlackWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BlackDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.BlackWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.BrownWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.BrownDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.BrownWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.DarkGreenWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkGreenDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.DarkGreenWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.GreenWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GreenDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.GreenWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.LightBlueWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBlueDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.LightBlueWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.MagentaWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.MagentaDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.MagentaWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.OrangeWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.OrangeDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.OrangeWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.PinkWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PinkDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.PinkWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.PurpleWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.PurpleDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.PurpleWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.GoldWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.GoldDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.GoldWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.LightPinkWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightPinkDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.LightPinkWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.DarkBlueWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkBlueDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.DarkBlueWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.LightBrownWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.LightBrownDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.LightBrownWool"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"name": "NACH0.dyer.DarkRedWool",
+		"requires": [{
+				"amount": 5,
+				"type": "NACH0.Types.Wool"
+			},
+			{
+				"amount": 1,
+				"type": "NACH0.Types.DarkRedDye"
+			}
+		],
+		"results": [{
+			"amount": 5,
+			"type": "NACH0.Types.DarkRedWool"
+		}]
+	}
+]

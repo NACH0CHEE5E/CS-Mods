@@ -1,0 +1,46 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.kiln.CookedClay",
+		"requires" : [
+			{
+				"amount":10,
+				"type":"NACH0.Types.ClayBlock1"
+			},
+			{
+				"amount": 3,
+				"type":"charcoal"
+			}
+		],
+		"results" : [
+			{
+				"amount":10,
+				"type":"NACH0.Types.CookedClay"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.kiln.Magma",
+		"requires" : [
+			{
+				"amount":10,
+				"type":"stoneblock"
+			},
+			{
+				"amount": 5,
+				"type":"charcoal"
+			},
+			{
+				"amount": 1,
+				"type": "bucketempty"
+			}
+		],
+		"results" : [
+			{
+				"amount":3,
+				"type":"NACH0.Types.MagmaBlock1"
+			}
+		]
+	},
+]

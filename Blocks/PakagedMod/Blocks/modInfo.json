@@ -1,0 +1,300 @@
+[
+  {
+    "name": "NACH0.Blocks",
+	"enableddefault" : false,
+    "version": "1.0.7",
+    "namepretty": "NACH0's Blocks",
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0",
+	  "0.7.1",
+	  "0.7.2",
+	  "0.7.3"
+    ],
+	"dependencies": [
+      {
+        "name": "NACH0.Colours",
+        "minversion": "1.0.3"
+      }
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": 10001,
+        "relativePath": "gamedata/textures/materials/texturemapping.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Bricks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/SuperLanterns.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Cobblestone.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Concrete.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Grass.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Ice.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Log.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Planks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/ResourceBlocks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Sand.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Sandstone.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/SmoothedConcrete.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/SmoothedStone.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Snow.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Stone.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/StoneBricks.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Dirt.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/Wool.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "index": 10001,
+        "relativePath": "gamedata/types/CookedClay.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.dyer",
+        "relativePath": "gamedata/recipes/Dyer/Wool.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/Concrete.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "NACH0.Jobs.Painter",
+        "relativePath": "gamedata/recipes/Painter/SmoothedConcrete.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.crafter",
+        "relativePath": "gamedata/recipes/Crafter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.kilnjob",
+        "relativePath": "gamedata/recipes/kilnJob.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.merchant",
+        "relativePath": "gamedata/recipes/Merchant.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.metalsmithjob",
+        "relativePath": "gamedata/recipes/MetalSmith.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.stonemason",
+        "relativePath": "gamedata/recipes/StoneMason.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.tailor",
+        "relativePath": "gamedata/recipes/Tailor.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "npcType": "pipliz.woodcutter",
+        "relativePath": "gamedata/recipes/WoodCutter.json"
+      },
+      {
+        "fileType": "addScienceUnlocks",
+        "index": 10001,
+        "relativePath": "gamedata/research/Unlocks.json"
+      },
+      {
+        "fileType": "addScienceUnlocks",
+        "index": 10001,
+        "relativePath": "gamedata/research/Unlocks.json"
+      },
+      {
+        "fileType": "addScience",
+        "index": 10000,
+        "relativePath": "gamedata/research/General.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/Concrete/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/CookedClay/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/SuperLanterns/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/SmoothedConcrete/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/Wool/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": 10001,
+        "relativePath": "gamedata/locale/en-US/Types/en-US.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": 10001,
+        "relativePath": "gamedata/types/RotatableJobBlocks.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": 10001,
+        "limitsUIMapping": [
+          "NACH0.Types.Freezerx+",
+          "NACH0.Types.Freezerx-",
+          "NACH0.Types.Freezerz+",
+          "NACH0.Types.Freezerz-"
+        ],
+        "npcType": "NACH0.Jobs.Freezer",
+        "relativePath": "gamedata/recipes/Freezer.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": 10000,
+        "relativePath": "gamedata/NPCTypes/NPCTypes.json"
+      },
+      {
+        "fileType": "addBlockJobs",
+        "index": 10000,
+        "relativePath": "gamedata/JobBlocks/JobBlocks.json"
+      }
+    ],
+    "patchnotes": [
+      {
+        "version": "1.0.6",
+        "notes": [
+          "Magmablock is now paththroughable",
+          "Placeable Water mod added as a dependency",
+          "magmablock icon is now a bucket of magma",
+          "changed locale name of the magma block to Block of magma",
+          "added a bucket to the recipe for magma"
+        ]
+      },
+      {
+        "version": "1.0.5",
+        "notes": [
+          "Added super lanterns requires 8 normal lanterns, twice as bright",
+          "Added the freezer research",
+          "Added Freezer localization"
+        ]
+      },
+      {
+        "version": "1.0.4",
+        "notes": [
+          "Added recipes for a couple blocks that didnt have recipes",
+          "changed the locale for a couple blocks so that they made a bit more sense cause their intended use has changed"
+        ]
+      },
+      {
+        "version": "1.0.2",
+        "notes": [
+          "Moved the default recipe for brick 1 and 2 to the stonemason for people who are not using nach0jobs",
+          "Moved some blocks over to NACH0 More Blocks",
+          "Cheese block is now purchasable from the merchant, its also a good food source",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "notes": [
+          "Initial Release",
+          "*If you find any issues or have suggestions join the discord",
+          "*discord.gg/tqFhxhm"
+        ]
+      }
+    ]
+  }
+]

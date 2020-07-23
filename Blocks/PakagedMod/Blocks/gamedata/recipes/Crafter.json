@@ -1,0 +1,405 @@
+[{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log1Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log1"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log1Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log2Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log2"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log2Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log3Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log3"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log3Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log4Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log4"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log4Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log5Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log5"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log5Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log6Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log6"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log6Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.ClayBlock1",
+		"requires": [{
+			"type": "clay",
+			"amount": 10
+		}],
+		"results": [{
+			"amount": 10,
+			"type": "NACH0.Types.ClayBlock1"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.CoalBlock1",
+		"requires": [{
+			"type": "coalore",
+			"amount": 6
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.CoalBlock1"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.HayBlock1",
+		"requires": [{
+			"type": "straw",
+			"amount": 10
+		}],
+		"results": [{
+			"amount": 10,
+			"type": "NACH0.Types.HayBlock1"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.AquaSuperLantern",
+		"requires": [{
+			"type": "lanterncyan",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.AquaSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.BlackSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.BlackLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BlackSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.BlueSuperLantern",
+		"requires": [{
+			"type": "lanterncyan",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BlueSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.BrownSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.BrownLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.BrownSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.DarkBlueSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.DarkBlueLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkBlueSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.DarkGreenSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.DarkGreenLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkGreenSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.GoldSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.GoldLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GoldSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.GreySuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.GreyLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GreySuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.LightBlueSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.LightBlueLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightBlueSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.LightGreySuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.LightGreyLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightGreySuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.LightPinkSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.LightPinkLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightPinkSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.MagentaSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.MagentaLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.MagentaSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.PurpleSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.PurpleLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.PurpleSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.LightBrownSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.LightBrownLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.LightBrownSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.DarkRedSuperLantern",
+		"requires": [{
+			"type": "NACH0.Types.DarkRedLantern",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.DarkRedSuperLantern"
+		}]
+	},
+	
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.GreenSuperLantern",
+		"requires": [{
+			"type": "lanterngreen",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.GreenSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.OrangeSuperLantern",
+		"requires": [{
+			"type": "lanternorange",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.OrangeSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.PinkSuperLantern",
+		"requires": [{
+			"type": "lanternpink",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.PinkSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.RedSuperLantern",
+		"requires": [{
+			"type": "lanternred",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.RedSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.WhiteSuperLantern",
+		"requires": [{
+			"type": "lanternwhite",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.WhiteSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.YellowSuperLantern",
+		"requires": [{
+			"type": "lanternyellow",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.YellowSuperLantern"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.YellowSuperLantern",
+		"requires": [{
+			"type": "lanternyellow",
+			"amount": 8
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.YellowSuperLantern"
+		}]
+	}
+]

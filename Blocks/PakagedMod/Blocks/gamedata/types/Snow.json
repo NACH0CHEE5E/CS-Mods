@@ -1,0 +1,30 @@
+{
+	"NACH0.Types.Snow1": {
+		"categories": [
+			"decorative",
+			"snow",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Snow1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Snow1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Snow1Sided": {
+		"categories": [
+			"decorative",
+			"snow",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Snow1Sided.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Snow1Sides",
+		"sidey+": "NACH0.Textures.Snow1",
+		"sidey-": "NACH0.Textures.Dirt2",
+		"destructionTime" : 350
+	}
+}

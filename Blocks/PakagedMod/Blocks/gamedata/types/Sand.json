@@ -1,0 +1,28 @@
+{
+	"NACH0.Types.RedSand1": {
+		"categories": [
+			"decorative",
+			"sand",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/RedSand1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.RedSand1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Sand1": {
+		"categories": [
+			"decorative",
+			"sand",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Sand1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Sand1",
+		"destructionTime" : 350
+	}
+}

@@ -1,0 +1,58 @@
+[
+	{
+		"key" : "pipliz.baseresearch.bronzeminting",
+		"unlocksRecipes" : [
+			"NACH0.crafter.Log1Tipped",
+			"NACH0.crafter.Log2Tipped",
+			"NACH0.crafter.Log3Tipped",
+			"NACH0.crafter.Log4Tipped",
+			"NACH0.crafter.Log5Tipped",
+			"NACH0.crafter.Log6Tipped",
+			"NACH0.woodcutter.Planks1",
+			"NACH0.woodcutter.Planks2",
+			"NACH0.woodcutter.Planks3",
+			"NACH0.woodcutter.Planks4",
+			"NACH0.woodcutter.Planks5",
+			"NACH0.woodcutter.Planks6"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.fineryforge",
+		"unlocksRecipes" : [
+			"NACH0.metalsmith.SteelBlock1",
+			"NACH0.metalsmith.GoldBlock1"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.diamondprocessing",
+		"unlocksRecipes" : [
+			"NACH0.metalsmith.DiamondBlock1"
+		]
+	},
+	{
+		"key" : "pipliz.baseresearch.lantern",
+		"unlocksRecipes" : [
+			"NACH0.crafter.BlackSuperLantern",
+			"NACH0.crafter.BlueSuperLantern",
+			"NACH0.crafter.AquaSuperLantern",
+			"NACH0.crafter.GreenSuperLantern",
+			"NACH0.crafter.OrangeSuperLantern",
+			"NACH0.crafter.PinkSuperLantern",
+			"NACH0.crafter.RedSuperLantern",
+			"NACH0.crafter.WhiteSuperLantern",
+			"NACH0.crafter.YellowSuperLantern",
+			"NACH0.crafter.BrownSuperLantern",
+			"NACH0.crafter.DarkBlueSuperLantern",
+			"NACH0.crafter.DarkGreenSuperLantern",
+			"NACH0.crafter.GoldSuperLantern",
+			"NACH0.crafter.GreySuperLantern",
+			"NACH0.crafter.LightBlueSuperLantern",
+			"NACH0.crafter.LightGreySuperLantern",
+			"NACH0.crafter.LightPinkSuperLantern",
+			"NACH0.crafter.MagentaSuperLantern",
+			"NACH0.crafter.PurpleSuperLantern",
+			"NACH0.crafter.LightBrownSuperLantern",
+			"NACH0.crafter.DarkRedSuperLantern"
+		]
+	}
+]

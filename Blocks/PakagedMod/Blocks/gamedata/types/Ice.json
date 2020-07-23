@@ -1,0 +1,67 @@
+{
+	"NACH0.Types.Ice1": {
+		"categories": [
+			"decorative",
+			"ice",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ice1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Ice1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Ice1Cracked1": {
+		"categories": [
+			"decorative",
+			"ice",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ice1Cracked1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Ice1Cracked1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Ice1Cracked2": {
+		"categories": [
+			"decorative",
+			"ice",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ice1Cracked2.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Ice1Cracked2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Ice1Cracked3": {
+		"categories": [
+			"decorative",
+			"ice",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ice1Cracked3.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Ice1Cracked3",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Ice2": {
+		"categories": [
+			"decorative",
+			"ice",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Ice2.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Ice2",
+		"destructionTime" : 350
+	}
+}

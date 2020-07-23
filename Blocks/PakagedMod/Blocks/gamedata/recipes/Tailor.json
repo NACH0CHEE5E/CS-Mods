@@ -1,0 +1,36 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.tailor.carpetwhite",
+		"requires" : [
+			{
+				"type":"planks"
+			},
+			{
+				"amount": 3,
+				"type":"NACH0.Types.Wool"
+			}
+		],
+		"results" : [
+			{
+				"type":"carpetwhite"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.tailor.Wool",
+		"requires" : [
+			{
+				"amount": 2,
+				"type":"linen"
+			}
+		],
+		"results" : [
+			{
+				"amount": 6,
+				"type":"NACH0.Types.Wool"
+			}
+		]
+	}
+]

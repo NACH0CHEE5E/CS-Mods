@@ -1,0 +1,113 @@
+{
+	"types": {
+		"NACH0.Types.Brick1": "Small Brown Bricks",
+		"NACH0.Types.Brick2": "Small Red Bricks",
+		"NACH0.Types.Cobblestone": "Rough Cobblestone",
+		"NACH0.Types.MossyCobblestone": "Mossy Cobblestone",
+		"NACH0.Types.Dirt1": "Rough Dirt",
+		"NACH0.Types.Dirt2": "Fine Dirt",
+		"NACH0.Types.Dirt3": "Mulch Dirt",
+		"NACH0.Types.Dirt3Sided": "Top Mulch Dirt",
+		"NACH0.Types.Farmland1": "Farmable Dirt",
+		"NACH0.Types.WetFarmland1": "Wet Farmable Dirt",
+		"NACH0.Types.Grass1": "Turf",
+		"NACH0.Types.Grass1Sided": "Top Turf",
+		"NACH0.Types.Grass2": "Dead Turf",
+		"NACH0.Types.Grass2Sided": "Top Dead Turf",
+		"NACH0.Types.Ice1": "Ice",
+		"NACH0.Types.Ice1Cracked1": "Ice with some Cracks",
+		"NACH0.Types.Ice1Cracked2": "Ice with Cracks",
+		"NACH0.Types.Ice1Cracked3": "Ice with alot of Cracks",
+		"NACH0.Types.Ice2": "Hard Ice",
+		"NACH0.Types.Log1": "Arborvitae Log",
+		"NACH0.Types.Log1Tipped": "Tipped Arborvitae Log",
+		"NACH0.Types.Log2": "Hawthorn Log",
+		"NACH0.Types.Log2Tipped": "Tipped Hawthorn Log",
+		"NACH0.Types.Log3": "Butternut Log",
+		"NACH0.Types.Log3Tipped": "Tipped Butternut Log",
+		"NACH0.Types.Log4": "Basswood Log",
+		"NACH0.Types.Log4Tipped": "Tipped Basswood Log",
+		"NACH0.Types.Log5": "Balsam Fir Log",
+		"NACH0.Types.Log5Tipped": "Tipped Balsam Fir Log",
+		"NACH0.Types.Log6": "Red Maple Log",
+		"NACH0.Types.Log6Tipped": "Tipped Red Maple Log",
+		"NACH0.Types.Planks1": "Arborvitae Planks",
+		"NACH0.Types.Planks2": "Hawthorn Planks",
+		"NACH0.Types.Planks3": "Butternut Planks",
+		"NACH0.Types.Planks4": "Basswood Planks",
+		"NACH0.Types.Planks5": "Balsam Fir Planks",
+		"NACH0.Types.Planks6": "Red Maple Planks",
+		"NACH0.Types.QuartzBlock1": "Block of Quartz",
+		"NACH0.Types.QuartzBlock1Chiseled": "Chiseled Block of Quartz",
+		"NACH0.Types.QuartzBlock1Piller": "Quartz Piller",
+		"NACH0.Types.Cactus1": "Cactus",
+		"NACH0.Types.ClayBlock1": "Compressed Clay",
+		"NACH0.Types.CoalBlock1": "Block of Coal",
+		"NACH0.Types.CrystalBlock1": "Block of Crystal",
+		"NACH0.Types.DiamondBlock1": "Block of Diamond",
+		"NACH0.Types.EmeraldBlock1": "Block of Emerald",
+		"NACH0.Types.CheeseBlock1": "Block of Cheese",
+		"NACH0.Types.GoldBlock1": "Block of Gold",
+		"NACH0.Types.Gravel1": "Gravel",
+		"NACH0.Types.HayBlock1": "Hay",
+		"NACH0.Types.IronBlock1": "Boltless Iron Block",
+		"NACH0.Types.MagmaBlock1": "Bucket of Magma",
+		"NACH0.Types.RubyBlock1": "Block of Ruby",
+		"NACH0.Types.SapphireBlock1": "Block of Sapphire",
+		"NACH0.Types.SteelBlock1": "Block of Steel",
+		"NACH0.Types.RedSand1": "Red Sand",
+		"NACH0.Types.Sand1": "Yellow Sand",
+		"NACH0.Types.RedSandstone1": "Red Sandstone",
+		"NACH0.Types.RedSandstone1Carved": "Carved Red Sandstone",
+		"NACH0.Types.RedSandstone1Smoothed": "Smoothed Red Sandstone",
+		"NACH0.Types.Sandstone1": "Sandstone",
+		"NACH0.Types.Sandstone1Carved": "Carved Sandstone",
+		"NACH0.Types.Sandstone1Smoothed": "Smoothed Sandstone",
+		"NACH0.Types.EnchantedStone": "Really Black Stone",
+		"NACH0.Types.PossessedStone": "Smoothed Clean Stone",
+		"NACH0.Types.Rock": "Rocks",
+		"NACH0.Types.Stone1": "Dark Grey Stone",
+		"NACH0.Types.Stone2": "White Stone",
+		"NACH0.Types.Stone3": "Brown Stone",
+		"NACH0.Types.Stone4": "Grey Stone",
+		"NACH0.Types.Stone5": "Black Stone",
+		"NACH0.Types.Stone1Smoothed": "Smoothed Dark Grey Stone",
+		"NACH0.Types.Stone2Smoothed": "Smoothed White Stone",
+		"NACH0.Types.Stone3Smoothed": "Smoothed Brown Stone",
+		"NACH0.Types.Snow1": "Fine Snow",
+		"NACH0.Types.Snow1Sided": "Top Fine Snow",
+		"NACH0.Types.StoneBricks1": "Small Stone Bricks",
+		"NACH0.Types.StoneBricks2": "Clean Stone Bricks",
+		"NACH0.Types.StoneSlabs": "Stone Slabs",
+		"NACH0.Types.CrackedStoneBricks2": "Cracked Clean Stone Bricks",
+		"NACH0.Types.MossyStoneBricks2": "Mossy Clean Stone Bricks",
+		"NACH0.Types.PossessedStoneBricks": "Smoothed Clean Stone Bricks",
+		"NACH0.Types.Freezer": "Freezer"
+	},
+	"typeuses": {
+		"NACH0.Types.ClayBlock1": "Ready for the kiln",
+		"NACH0.Types.CoalBlock1": "Direct out of Minecraft",
+		"NACH0.Types.CheeseBlock1": "Zun dubbed it to be",
+		"NACH0.Types.Freezer": "Freezes stuff"
+	},
+	"sentences": {
+		"popup": {
+			"limits": {
+				"NACH0": {
+					"Jobs": {
+						"Freezer": "Freezer limits",
+						"Painter": "Painters Table limits"
+					}
+				}
+			}
+		},
+		"NACH0": {
+			"Research": {
+				"Freezer": {
+					"description": "Unlocks the freezer, which makes freezes stuff.",
+					"name": "Freezer"
+				}
+			}
+		}
+	}
+}

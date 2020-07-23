@@ -1,0 +1,106 @@
+{
+	"NACH0.Types.EnchantedStone": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/EnchantedStone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.EnchantedStone",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.PossessedStone": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/PossessedStone.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.PossessedStone",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Rock": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Rock.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Rock",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Stone1": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Stone1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Stone1",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Stone2": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Stone2.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Stone2",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Stone3": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Stone3.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Stone3",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Stone4": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Stone4.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Stone4",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Stone5": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Stone5.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "stonePlace",
+		"onRemoveAudio": "stoneDelete",
+		"sideall": "NACH0.Textures.Stone5",
+		"destructionTime" : 350
+	}
+}

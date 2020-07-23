@@ -1,0 +1,80 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Freezer.Ice1",
+		"requires" : [
+			{
+				"type": "bucketwater"
+			}
+		],
+		"results" : [
+			{
+				"type": "NACH0.Types.Ice1"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},	
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Freezer.Ice2",
+		"requires" : [
+			{
+				"type": "bucketwater"
+			}
+		],
+		"results" : [
+			{
+				"type": "NACH0.Types.Ice2"
+			},
+			{
+				"isOptional": true,
+				"type": "bucketempty"
+			}
+		]
+	},	
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Freezer.Ice1Cracked1",
+		"requires" : [
+			{
+				"type": "NACH0.Types.Ice1"
+			}
+		],
+		"results" : [
+			{
+				"type": "NACH0.Types.Ice1Cracked1"
+			}
+		]
+	},	
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Freezer.Ice1Cracked2",
+		"requires" : [
+			{
+				"type": "NACH0.Types.Ice1Cracked1"
+			}
+		],
+		"results" : [
+			{
+				"type": "NACH0.Types.Ice1Cracked2"
+			}
+		]
+	},	
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.Freezer.Ice1Cracked3",
+		"requires" : [
+			{
+				"type": "NACH0.Types.Ice1Cracked2"
+			}
+		],
+		"results" : [
+			{
+				"type": "NACH0.Types.Ice1Cracked3"
+			}
+		]
+	}
+]

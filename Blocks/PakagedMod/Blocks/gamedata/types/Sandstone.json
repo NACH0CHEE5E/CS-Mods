@@ -1,0 +1,88 @@
+{
+	"NACH0.Types.RedSandstone1": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/RedSandstone1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.RedSandstone1",
+		"sidey+": "NACH0.Textures.RedSandstone1Smoothed",
+		"sidey-": "NACH0.Textures.RedSandstone1Smoothed",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.RedSandstone1Carved": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/RedSandstone1Carved.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.RedSandstone1Carved",
+		"sidey+": "NACH0.Textures.RedSandstone1Smoothed",
+		"sidey-": "NACH0.Textures.RedSandstone1Smoothed",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.RedSandstone1Smoothed": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/RedSandstone1Smoothed.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.RedSandstone1Smoothed",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Sandstone1": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Sandstone1.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Sandstone1",
+		"sidey+": "NACH0.Textures.Sandstone1Smoothed",
+		"sidey-": "NACH0.Textures.Sandstone1Smoothed",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Sandstone1Carved": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Sandstone1Carved.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Sandstone1Carved",
+		"sidey+": "NACH0.Textures.Sandstone1Smoothed",
+		"sidey-": "NACH0.Textures.Sandstone1Smoothed",
+		"destructionTime" : 350
+	},
+	"NACH0.Types.Sandstone1Smoothed": {
+		"categories": [
+			"decorative",
+			"stone",
+			"NACH0"
+		],
+		"icon": "./../textures/icons/Sandstone1Smoothed.png",
+		"maxStackSize": 200,
+		"onPlaceAudio": "dirtPlace",
+		"onRemoveAudio": "grassDelete",
+		"sideall": "NACH0.Textures.Sandstone1Smoothed",
+		"destructionTime" : 350
+	}
+}
