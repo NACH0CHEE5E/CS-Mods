@@ -2,20 +2,17 @@
   {
     "name": "NACH0.Decor",
 	"enableddefault" : false,
-    "version": "3.2.1",
+    "version": "3.2.2",
     "namepretty": "NACH0 Decor",
-    "enabled": false,
     "marksgamemodded": true,
     "dllpath": "Decor.dll",
     "compatibleversions": [
-      "0.7.0",
-	  "0.7.1",
-	  "0.7.2"
+      "0.7.4"
     ],
 	"dependencies": [
       {
         "name": "Pandaros.API",
-        "minversion": "0.1.8.5"
+        "minversion": "0.1.9.1"
       }
     ],
     "jsonFiles": [

@@ -11,6 +11,7 @@ using Pandaros.API.Models;
 using Pandaros.API;
 using Chatting;
 using UnityEngine;
+using System.Diagnostics.Eventing.Reader;
 
 namespace Nach0.Decor
 {
