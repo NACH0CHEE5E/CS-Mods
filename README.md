@@ -6,14 +6,14 @@ You can find a list of my mods included in this repositry below as well as their
 ### [Placeable Water](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/PlaceableWater/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/PlaceableWater)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056403349)  
-Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Updated: Currently Working with latest version of the game (0.7.4), also works in all 0.7.x versions.  
 Status: Active Develpment.  
 Dependencies: N/A  
 
 ### [Colony Manager](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ColonyManager/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ColonyManager)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056399773)  
-Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Updated: Currently Working with latest version of the game (0.7.4), also works in all 0.7.x versions.  
 Status: Active Develpment.  
 Dependencies: N/A  
 
@@ -21,34 +21,34 @@ Dependencies: N/A
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/API)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=)  
 Updated: Under Development.  
-Status: Under Development.  
+Status: Development halted.  
 Dependencies: N/A  
 
 ### [Decor](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Decor/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Decor)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1930301170)  
-Updated: Unkown.  
-Status: To be checked.  
+Updated: Working with most recent version of CS (0.7.4)
+Status: Will be maintained, [Pandaros's Settlers](https://github.com/JBurlison/Pandaros.Settlers) has a similar system in place i recomend using that version if you want that mod as well.  
 Dependencies: [Pandaros' API](https://github.com/JBurlison/Pandaros.API)  
 
 ### [Colours](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Colours/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1930305965)  
-Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Updated: Currently Working with latest version of the game (0.7.4), also works in all 0.7.x versions.  
 Status: Active Develpment.  
 Dependencies: N/A  
 
 ### [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Blocks/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056396874)  
-Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Updated: Currently Working with latest version of the game (0.7.4), also works in all 0.7.x versions.  
 Status: Active Develpment.  
 Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours)
 
 ### [Jobs](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Jobs/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Jobs)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2056408583)  
-Updated: Currently Working with latest version of the game (0.7.3), also works in all 0.7.x versions.  
+Updated: Currently Working with latest version of the game (0.7.4), also works in all 0.7.x versions.  
 Status: Active Develpment.  
 Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colours), [Blocks](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Blocks)  
 
@@ -83,8 +83,8 @@ Dependencies: [Colours](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/Colou
 ### [Colony Addons](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/ColonyAddons/ReadMe.md)
 [Source](https://github.com/NACH0CHEE5E/CS-Mods/tree/master/ColonyAddons)  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2174913016)  
-Updated: Unkown.  
-Status: To be checked.  
+Updated: Working with latest version of game (0.7.4).  
+Status: Will be maintained, no features will be added.  
 Dependencies: N/A  
 
 ### [Doors](https://github.com/NACH0CHEE5E/CS-Mods/blob/master/Doors/ReadMe.md)
