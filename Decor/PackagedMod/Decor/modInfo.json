@@ -2,7 +2,7 @@
   {
     "name": "NACH0.Decor",
 	"enableddefault" : false,
-    "version": "3.2.2",
+    "version": "3.2.3",
     "namepretty": "NACH0 Decor",
     "marksgamemodded": true,
     "dllpath": "Decor.dll",

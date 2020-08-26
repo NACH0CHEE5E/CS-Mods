@@ -18,7 +18,7 @@ namespace Nach0.Decor
     [ModLoader.ModManager]
     public class GenerateTypeConfig
     {
-        public const string MOD_VERSION = "3.2.0_Beta4";
+        public const string MOD_VERSION = "3.2.3";
 
         public const string NAME = "NACH0";
         public const string MODNAME = "Decor";
@@ -65,11 +65,27 @@ namespace Nach0.Decor
         [ModLoader.ModCallback(ModLoader.EModCallbackType.OnAssemblyLoaded, MODNAMESPACE + ".OnAssemblyLoaded")]
         public static void OnAssemblyLoaded(string path)
         {
-            MOD_FOLDER = Path.GetDirectoryName(path) + "/";
+            DecorLogger.LogToFile("MOD VERSION = " + MOD_VERSION);
 
-            GAME_ROOT = path.Substring(0, path.IndexOf("gamedata")).Replace("\\", "/") + "/";
-            GAMEDATA_FOLDER = path.Substring(0, path.IndexOf("gamedata") + "gamedata".Length).Replace("\\", "/") + "/";
+            MOD_FOLDER = Path.GetDirectoryName(path) + "/";
+            if (MOD_FOLDER.Contains("workshop"))
+            {
+                DecorLogger.LogToFile("Workshop instalation");
+                
+                GAME_ROOT = path.Substring(0, path.IndexOf("workshop")).Replace("\\", "/") + "common/Colony Survival/";
+                
+            }
+            else
+            {
+                GAME_ROOT = path.Substring(0, path.IndexOf("gamedata")).Replace("\\", "/") + "/";
+            }
+
+            GAMEDATA_FOLDER = GAME_ROOT + "gamedata/";
             GAME_SAVES = GAMEDATA_FOLDER + "savegames/";
+
+            DecorLogger.LogToFile("Game Root Directory: " + GAME_ROOT);
+            DecorLogger.LogToFile("Game Gamedata Directory: " + GAMEDATA_FOLDER);
+            DecorLogger.LogToFile("Game Savegame Directory: " + GAME_SAVES);
 
             MOD_MESH_PATH = MOD_FOLDER + "gamedata/meshes/";
             MOD_ICON_PATH = MOD_FOLDER + "gamedata/textures/icons/";
@@ -78,9 +94,6 @@ namespace Nach0.Decor
             DecorLogger.LogToFile("Mod Instalation Directory: " + MOD_FOLDER);
             DecorLogger.LogToFile("Mod Mesh Directory: " + MOD_MESH_PATH);
             DecorLogger.LogToFile("Mod Icon Directory: " + MOD_ICON_PATH);
-            DecorLogger.LogToFile("Game Root Directory: " + GAME_ROOT);
-            DecorLogger.LogToFile("Game Gamedata Directory: " + GAMEDATA_FOLDER);
-            DecorLogger.LogToFile("Game Savegame Directory: " + GAME_SAVES);
 
 
             BASE_FILE = MOD_FOLDER + BASE_FILE_NAME;
@@ -98,7 +111,6 @@ namespace Nach0.Decor
         [ModLoader.ModCallback(ModLoader.EModCallbackType.AfterSelectedWorld, MODNAMESPACE + ".AfterSelectedWorld")]
         public static void AfterSelectedWorld()
         {
-            DecorLogger.LogToFile("MOD VERSION = " + MOD_VERSION);
             string[] files = Directory.GetFiles(MOD_MESH_PATH);
             //DecorLogger.LogToFile("Files in Mod Mesh Directory" + files);
 
