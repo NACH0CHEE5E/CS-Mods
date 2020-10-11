@@ -18,7 +18,7 @@ namespace Nach0.Decor
     [ModLoader.ModManager]
     public class GenerateTypeConfig
     {
-        public const string MOD_VERSION = "3.2.3";
+        public const string MOD_VERSION = "3.3.0";
 
         public const string NAME = "NACH0";
         public const string MODNAME = "Decor";
@@ -37,6 +37,7 @@ namespace Nach0.Decor
         public static string MOD_CUSTOM_TEXTURE_PATH = "./textures/custom";
 
         public const string DecorJobRecipe = NAME + ".Jobs.DecorMaker";
+        public const string DecorJobType = NAME + ".Types.DecorMaker";
 
         public const string TYPEPREFIX = NAME + ".Types.";
 

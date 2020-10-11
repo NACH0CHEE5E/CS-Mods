@@ -30,6 +30,7 @@ namespace Nach0.Decor
         public int defaultLimit { get; set; } = 0;
 
         public string Job { get; set; } = GenerateTypeConfig.DecorJobRecipe;
+        public List<string> JobBlock => new List<string>() { GenerateTypeConfig.DecorJobType };
     }
     public class categoryBase
     {
